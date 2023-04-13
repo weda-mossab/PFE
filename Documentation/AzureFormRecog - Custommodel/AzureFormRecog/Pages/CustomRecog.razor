@@ -1,0 +1,100 @@
+﻿@page "/Custom"
+
+@using AzureFormRecog.Services
+@using BlazorInputFile
+@using AzureFormRecog.Data
+
+@using Azure
+@using Azure.AI.FormRecognizer
+@using Azure.AI.FormRecognizer.DocumentAnalysis
+@using Azure.AI.FormRecognizer.Models
+
+
+@inject IFileUpload fileupload
+
+<PageTitle>Custom Regognizer</PageTitle>
+<h3>Custom Form</h3>
+
+<BlazorInputFile.InputFile OnChange="SelectFile"></BlazorInputFile.InputFile>
+
+<div>
+   @FilePath
+</div>
+
+
+<hr />
+@if (InvoiceMainFields == null)
+{
+    <p><em>Data Loading...</em></p>
+}
+else
+{
+   <label>Doc Main Fields</label>
+    <table style="width:100%;">
+        
+         <tr>
+            <td>Field ID</td>
+            <td>Field Value</td>
+        </tr>
+    @foreach(var doc in InvoiceMainFields)
+    {
+        <tr>
+            <td>@doc.DocFieldId</td>
+            <td>@doc.DocFieldValue</td>
+        </tr>
+    }
+    </table>
+    <hr />
+
+    
+}
+
+@code {
+  
+     public List<DocModel> InvoiceMainFields;
+    
+
+    string FilePath = "No File Uploaded";
+
+    static string endpoint = "DefaultEndpointsProtocol=https;AccountName=formrecognizeapp;AccountKey=NQkwJxPphKVJosnGlmh9pn7VRwj6OXG/KEa1ML5LJEhhyqNzSVxAseLxpRNtNiu+M8We3xBwmhwI+AStvGaktg==;EndpointSuffix=core.windows.net";
+    static string apiKey = "NQkwJxPphKVJosnGlmh9pn7VRwj6OXG/KEa1ML5LJEhhyqNzSVxAseLxpRNtNiu+M8We3xBwmhwI+AStvGaktg==";
+           static AzureKeyCredential credential = new AzureKeyCredential(apiKey);
+
+    async Task SelectFile(IFileListEntry[]  files)
+        {
+            var file = files.FirstOrDefault();
+            if (file != null)
+            {
+                await fileupload.UploadFile(file);
+              
+                 FilePath = "D:\\My Desk\\Projects\\Practice\\AzureFormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
+                
+
+            var client = new DocumentAnalysisClient(new Uri(endpoint), credential);
+
+            using var stream = new FileStream(FilePath, FileMode.Open);
+
+
+            AnalyzeDocumentOperation operation = await client.StartAnalyzeDocumentAsync("AmazonFromRec", stream);
+
+            await operation.WaitForCompletionAsync();
+
+            AnalyzeResult result = operation.Value;
+
+            InvoiceMainFields = new List<DocModel>();
+            for (int i = 0; i < result.Documents.Count; i++)
+            {
+                AnalyzedDocument document = result.Documents[i];
+                foreach(var doc in document.Fields)
+                {
+                    DocModel obj = new DocModel();
+                    obj.DocFieldId = doc.Key;
+                    obj.DocFieldValue = doc.Value.Content;
+                    InvoiceMainFields.Add(obj);
+                    }
+                }
+
+
+            }
+        }
+}

@@ -1,0 +1,138 @@
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\appsettings.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.staticwebassets.runtime.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.exe
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.deps.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.runtimeconfig.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.pdb
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.csproj.AssemblyReference.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.AssemblyInfoInputs.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.AssemblyInfo.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.csproj.CoreCompileInputs.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorAssemblyInfo.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorAssemblyInfo.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.Interface_APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.build.Interface_APP.props
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Interface_APP.props
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Interface_APP.props
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\bundle\Interface_APP.styles.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\projectbundle\Interface_APP.bundle.scp.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\refint\Interface_APP.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.pdb
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.genruntimeconfig.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\ref\Interface_APP.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\appsettings.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.staticwebassets.runtime.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.exe
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.deps.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.runtimeconfig.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.pdb
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.csproj.AssemblyReference.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.AssemblyInfoInputs.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.AssemblyInfo.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.csproj.CoreCompileInputs.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorAssemblyInfo.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorAssemblyInfo.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.Interface_APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.build.Interface_APP.props
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Interface_APP.props
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Interface_APP.props
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\bundle\Interface_APP.styles.css
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\projectbundle\Interface_APP.bundle.scp.css
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\refint\Interface_APP.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.pdb
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.genruntimeconfig.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\ref\Interface_APP.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.Views.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.Views.pdb
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorComponent.input.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorComponent.output.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Interface_APP.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.TagHelpers.input.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.TagHelpers.output.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorCoreGenerate.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\App.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\_Imports.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorTargetAssemblyInfo.cache
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorTargetAssemblyInfo.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.Views.pdb
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.csproj.CopyComplete
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Pages\index.razor.rz.scp.css
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\bin\Debug\net7.0\BlazorInputFile.dll
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\Navbar.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\Navbar.razor.g.cs
+C:\Users\Weda\Desktop\Metam\Sujet 4 PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Shared\Navbar.razor.rz.scp.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.Views.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Interface_APP.Views.pdb
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\BlazorInputFile.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorComponent.input.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\App.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\Navbar.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorComponent.output.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\RazorDeclaration\Interface_APP.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.TagHelpers.input.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.TagHelpers.output.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorCoreGenerate.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\App.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\_Imports.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\Index.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\Navbar.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Pages\index.razor.rz.scp.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\scopedcss\Shared\Navbar.razor.rz.scp.css
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorTargetAssemblyInfo.cache
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.RazorTargetAssemblyInfo.cs
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.Views.pdb
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\obj\Debug\net7.0\Interface_APP.csproj.CopyComplete
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Azure.AI.FormRecognizer.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MedNourBn\Desktop\STAGE PFE\DevTest\Interface_APP\bin\Debug\net7.0\System.Memory.Data.dll

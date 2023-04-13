@@ -1,0 +1,93 @@
+
+@page "/"
+@using BlazorInputFile
+@using System.IO
+@using Interface_APP.IService
+@using Interface_APP.Data
+
+@inject IFileUpload fileUpload
+@inject IFileService fileService
+
+<PageTitle>Analysis</PageTitle>
+<div class="row">
+ <div class="column" >
+    <div class="sidebar">
+            <NavMenu />
+    </div>
+  </div> 
+
+ <div class="column2" >
+      @* <div class="image-container">
+          <img class="preview-image" src=@imagePreview>
+      </div>
+      <BlazorInputFile.InputFile OnChange="@ViewImage" /> *@
+
+  <BlazorInputFile.InputFile OnChange="HandleFileSelected1" />
+  @if (fileClass.Files != null && fileClass.Files.Count > 0)
+          {
+              @foreach (FileClass file in fileClass.Files)
+              {
+                <button class="btn btn-dark" @onclick="@(e => ShowOnCurrentPage(@file.FileId))">Show it </button>
+              }
+          }
+
+@if (!string.IsNullOrEmpty(@pdfName))
+{
+    <iframe src="/files/@pdfName" style="width: 100%; height:1200px;"></iframe>
+}
+
+  </div>  
+
+  <div class="column" >
+    <div id="sidebar-wrapper">
+      <ul class="sidebar-nav nav navbar-inverse flex-column mb-auto">
+        <li>
+          <div><br>
+            <h5 class="title"><span class="bi bi-braces"></span> Prediction results</h5>
+          </div>
+        </li><br>
+
+      </ul>
+    </div> 
+  </div>
+  @* <div class="col-md-5">
+    <div class="image-container" style="background-color: red;">
+        <img class="preview-image" src=@imagePreview>
+    </div>
+  </div> *@
+
+</div>
+
+
+@code {
+  
+    public FileClass fileClass { get; set; }
+    List<IFileListEntry> files = new List<IFileListEntry>();
+    public string pdfName = "";
+
+    protected override void OnInitialized()
+    {
+        fileClass = new FileClass();
+        fileClass.Files = fileService.GetAllPDFs();
+    }
+
+    async Task HandleFileSelected1(IFileListEntry[] entryFiles)
+    {
+        files = new List<IFileListEntry>();
+        foreach (var file in entryFiles)
+        {
+            if (file != null)
+            {
+                await fileUpload.Upload(file);
+                files.Add(file);
+            }
+        }
+
+        fileClass.Files = fileService.GetAllPDFs();
+    }
+
+    private void ShowOnCurrentPage(int fileId)
+    {
+        pdfName = fileClass.Files.SingleOrDefault(x => x.FileId == fileId).Name;
+    }
+}

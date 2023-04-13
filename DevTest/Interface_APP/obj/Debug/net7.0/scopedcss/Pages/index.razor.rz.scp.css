@@ -1,0 +1,92 @@
+*[b-ico2ku25x8]{
+color: white;
+font-family: "Segoe UI";
+}
+.title[b-ico2ku25x8]{
+    text-align: center;
+}
+
+h6[b-ico2ku25x8] {
+    overflow: hidden;
+    text-align: center;
+  
+  }
+  
+  h6[b-ico2ku25x8]:before,
+  h6[b-ico2ku25x8]:after {
+    background-color: #ffffff;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+  }
+  
+  h6[b-ico2ku25x8]:before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+  
+  h6[b-ico2ku25x8]:after {
+    left: 0.5em;
+    margin-right: -50%;
+  }
+
+.icon[b-ico2ku25x8]{
+color: white;
+}
+#wrapper[b-ico2ku25x8] {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#sidebar-wrapper[b-ico2ku25x8] {
+  border-radius: 10px;
+  z-index: 1000;
+  position: absolute;
+  right: 250px;
+  width: 0;
+  height: 85%;
+  margin-top: 0;
+  margin-right: -230px;
+  overflow-y: auto;
+  background: #024662;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+#wrapper[b-ico2ku25x8] {
+    padding-right: 250px;
+}
+
+#sidebar-wrapper[b-ico2ku25x8] {
+    width: 250px;
+}
+.btn[b-ico2ku25x8]{
+    color: white;
+}
+
+.preview-image[b-ico2ku25x8] {
+  height: 80vh;
+  width: 100vh;
+}
+
+.image-container[b-ico2ku25x8] {
+  display: flex;
+  padding: 15px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  border: 2px dashed skyblue;
+  width: 70vh;
+}

@@ -1,0 +1,92 @@
+*{
+color: white;
+font-family: "Segoe UI";
+}
+.title{
+    text-align: center;
+}
+
+h6 {
+    overflow: hidden;
+    text-align: center;
+  
+  }
+  
+  h6:before,
+  h6:after {
+    background-color: #ffffff;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+  }
+  
+  h6:before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+  
+  h6:after {
+    left: 0.5em;
+    margin-right: -50%;
+  }
+
+.icon{
+color: white;
+}
+#wrapper {
+    padding-left: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+#sidebar-wrapper {
+  border-radius: 10px;
+  z-index: 1000;
+  position: absolute;
+  right: 250px;
+  width: 0;
+  height: 85%;
+  margin-top: 0;
+  margin-right: -230px;
+  overflow-y: auto;
+  background: #024662;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+#wrapper {
+    padding-right: 250px;
+}
+
+#sidebar-wrapper {
+    width: 250px;
+}
+.btn{
+    color: white;
+}
+
+.preview-image {
+  height: 80vh;
+  width: 100vh;
+}
+
+.image-container {
+  display: flex;
+  padding: 15px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  border: 2px dashed skyblue;
+  width: 70vh;
+}

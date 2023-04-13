@@ -1,0 +1,138 @@
+﻿@page "/InvoiceForm"
+
+@using AzureFormRecog.Services
+@using BlazorInputFile
+@using AzureFormRecog.Data
+
+@using Azure
+@using Azure.AI.FormRecognizer
+@using Azure.AI.FormRecognizer.Models
+
+
+@inject IFileUpload fileupload
+
+<PageTitle>Invoice Regognizer</PageTitle>
+<h3>Invoice Form</h3>
+
+<BlazorInputFile.InputFile OnChange="SelectFile"></BlazorInputFile.InputFile>
+
+<div>
+   @FilePath
+</div>
+
+
+<hr />
+@if (InvoiceMainFields == null)
+{
+    <p><em>Data Loading...</em></p>
+}
+else
+{
+   <label>Doc Main Fields</label>
+    <table style="width:100%;">
+        
+         <tr>
+            <td>Field ID</td>
+            <td>Field Value</td>
+        </tr>
+    @foreach(var doc in InvoiceMainFields)
+    {
+        <tr>
+            <td>@doc.DocFieldId</td>
+            <td>@doc.DocFieldValue</td>
+        </tr>
+    }
+    </table>
+    <hr />
+
+     <label>Doc Item Fields</label>
+    <table style="width:100%;">
+        
+         <tr>
+            <td>Field ID</td>
+            <td>Field Value</td>
+        </tr>
+    @foreach(var doc in InvoiceItemsFields)
+    {
+        <tr>
+            <td>@doc.DocFieldId</td>
+            <td>@doc.DocFieldValue</td>
+        </tr>
+    }
+    </table>
+}
+
+@code {
+  
+     public List<DocModel> InvoiceMainFields;
+    public List<DocModel> InvoiceItemsFields;
+
+    string FilePath = "No File Uploaded";
+
+     static string endpoint = "https://********.cognitiveservices.azure.com/";
+          static  string apiKey = "***********";
+           static AzureKeyCredential credential = new AzureKeyCredential(apiKey);
+
+    async Task SelectFile(IFileListEntry[]  files)
+        {
+            var file = files.FirstOrDefault();
+            if (file != null)
+            {
+                await fileupload.UploadFile(file);
+              
+                 FilePath = "D:\\My Desk\\Projects\\Practice\\AzureFormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
+                
+
+            var client = new FormRecognizerClient(new Uri(endpoint), credential);
+            var options = new RecognizeInvoicesOptions() { Locale = "en-US" };
+
+            using var stream = new FileStream(FilePath, FileMode.Open);
+            RecognizeInvoicesOperation operation = await client.StartRecognizeInvoicesAsync(stream, options);
+
+            Response<RecognizedFormCollection> operationResponse = await operation.WaitForCompletionAsync();
+            RecognizedFormCollection invoices = operationResponse.Value;
+            RecognizedForm invoice = invoices.Single();
+
+             InvoiceMainFields = new List<DocModel>();
+            foreach (var doc in invoice.Fields)
+            {
+                if (doc.Key.ToString() != "Items")
+                {
+                    DocModel obj = new DocModel();
+                    obj.DocFieldId = doc.Key;
+                    obj.DocFieldValue = doc.Value.ValueData.Text;
+                    InvoiceMainFields.Add(obj);
+                }
+            }
+
+            if (invoice.Fields.TryGetValue("Items", out FormField itemsField))
+            {
+                if (itemsField.Value.ValueType == FieldValueType.List)
+                {
+                    foreach (FormField itemField in itemsField.Value.AsList())
+                    {
+                        Console.WriteLine("Item:");
+
+                        if (itemField.Value.ValueType == FieldValueType.Dictionary)
+                        {
+                            IReadOnlyDictionary<string, FormField> itemFields = itemField.Value.AsDictionary();
+
+                            InvoiceItemsFields = new List<DocModel>();
+                            foreach (var doc in itemFields)
+                            {
+                                if (doc.Key.ToString() != "Items")
+                                {
+                                    DocModel obj = new DocModel();
+                                    obj.DocFieldId = doc.Key;
+                                    obj.DocFieldValue = doc.Value.ValueData.Text;
+                                    InvoiceItemsFields.Add(obj);
+                                }
+                            }
+                        }
+                    }
+                 }
+             }
+
+            }
+        }
+}

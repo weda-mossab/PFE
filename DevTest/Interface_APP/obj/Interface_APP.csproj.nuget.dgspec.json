@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MedNourBn\\Desktop\\STAGE PFE\\DevTest\\Interface_APP\\Interface_APP.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MedNourBn\\Desktop\\STAGE PFE\\DevTest\\Interface_APP\\Interface_APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MedNourBn\\Desktop\\STAGE PFE\\DevTest\\Interface_APP\\Interface_APP.csproj",
+        "projectName": "Interface_APP",
+        "projectPath": "C:\\Users\\MedNourBn\\Desktop\\STAGE PFE\\DevTest\\Interface_APP\\Interface_APP.csproj",
+        "packagesPath": "C:\\Users\\MedNourBn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MedNourBn\\Desktop\\STAGE PFE\\DevTest\\Interface_APP\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MedNourBn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Azure.AI.FormRecognizer": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.9.0-beta.2, )"
+            },
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

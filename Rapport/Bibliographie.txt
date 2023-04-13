@@ -1,0 +1,3 @@
+https://learn.microsoft.com/fr-fr/rest/api/formrecognizer/
+
+azure devops : https://www.effidic.fr/glossaire/2799/

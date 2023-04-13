@@ -1,0 +1,82 @@
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.staticwebassets.runtime.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.exe
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.deps.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.runtimeconfig.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\ref\AzureFormRecog.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.pdb
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\BlazorInputFile.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.AssemblyReference.cache
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.AssemblyInfoInputs.cache
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.AssemblyInfo.cs
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.CoreCompileInputs.cache
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cache
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cs
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\scopedcss\bundle\AzureFormRecog.styles.css
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\scopedcss\projectbundle\AzureFormRecog.bundle.scp.css
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.CopyComplete
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\ref\AzureFormRecog.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.pdb
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.genruntimeconfig.cache
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\Azure.AI.FormRecognizer.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\Azure.Core.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\Azure.Identity.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\System.Memory.Data.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Desk\Projects\Practice\AzureFormRecog\AzureFormRecog\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\appsettings.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.staticwebassets.runtime.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.exe
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.deps.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.runtimeconfig.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\AzureFormRecog.pdb
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Azure.AI.FormRecognizer.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\BlazorInputFile.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.AssemblyReference.cache
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.AssemblyInfoInputs.cache
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.AssemblyInfo.cs
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.CoreCompileInputs.cache
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cache
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cs
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets\msbuild.AzureFormRecog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets\msbuild.build.AzureFormRecog.props
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AzureFormRecog.props
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AzureFormRecog.props
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\scopedcss\bundle\AzureFormRecog.styles.css
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\scopedcss\projectbundle\AzureFormRecog.bundle.scp.css
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.CopyComplete
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\refint\AzureFormRecog.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.pdb
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.genruntimeconfig.cache
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\obj\Debug\net6.0\ref\AzureFormRecog.dll
+C:\Users\Weda\Desktop\AzureFormRecog - PrebuiltInvoice\AzureFormRecog\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

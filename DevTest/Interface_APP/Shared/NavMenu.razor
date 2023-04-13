@@ -1,0 +1,38 @@
+﻿@inherits ViewImg
+@using Interface_APP.Pages
+@using BlazorInputFile
+@using System.IO
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu" >
+  <ul class="sidebar-nav nav navbar-inverse flex-column mb-auto">
+    <li>
+      <div>
+        <h6> 1. Choose file for analysis. </h6>
+      </div>
+    </li>
+     <br>
+    <li>
+      <div class="separator-right-pane-main root-56" >
+        <h6>2. Get prediction. </h6>
+      </div>
+    </li>
+    <li>
+      <center>
+      <div>
+          <button class="btn btn-secondary"><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Run analysis</button>
+      </div>
+      </center>
+    </li>
+      </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

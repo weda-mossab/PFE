@@ -1,0 +1,30 @@
+﻿@page "/"
+@using BlazorInputFile
+@using System.IO
+@inherits ViewImg
+
+<PageTitle>Index</PageTitle>
+
+<div id="sidebar-wrapper">
+  <ul class="sidebar-nav nav navbar-inverse flex-column mb-auto">
+    <li>
+      <div><br>
+        <h5 class="title"><span class="bi bi-braces"></span> Prediction results</h5>
+      </div>
+    </li><br>
+
+  </ul>
+</div> 
+@* <div class="col-md-5">
+  <div class="image-container" style="background-color: red;">
+      <img class="preview-image" src=@imagePreview>
+  </div>
+</div> *@
+ <div class="col-md-5">
+        <div class="image-container">
+            <img class="preview-image" src=@imagePreview>
+        </div>
+        <BlazorInputFile.InputFile OnChange="@ViewImage" />
+       
+  </div>
+        
