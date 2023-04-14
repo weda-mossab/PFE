@@ -1,0 +1,222 @@
+﻿@page "/InvoiceForm"
+
+@using AzureFormRecog.Services
+@using BlazorInputFile
+@using AzureFormRecog.Data
+
+@using Azure
+@using Azure.AI.FormRecognizer
+@using Azure.AI.FormRecognizer.Models
+
+
+@inject IFileUpload fileupload
+
+<PageTitle>Invoice Regognizer</PageTitle>
+
+<div class="row">
+    <div class="column" >
+        <div class="sidebar">
+            <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu" >
+                <ul class="sidebar-navbar nav navbar-inverse flex-column mb-auto">
+                    <li>
+                        <div>
+                            <h6> 1. Choose file for analysis. </h6>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="file">
+                             <BlazorInputFile.InputFile OnChange="RunAnalysis" style="margin-left: 150px;" class="inputfile"></BlazorInputFile.InputFile>
+                            <div class="path" style="color:black; font-size:13px;">
+                                @FileName
+                            </div>
+                        </div>
+                    </li>
+                    <br>
+                    <li>
+                        <div class="separator-right-pane-main root-56" >
+                            <h6>2. Get prediction. </h6>
+                        </div>
+                    </li>
+                    <li>
+                        <center>
+                        <div>
+                            <button class="btn" ><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Run analysis</button>
+                        </div>
+                        </center>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div> 
+
+    <div class="column2" >
+        mossab
+        @* <iframe src="/files/TalelMejri.pdf" style="width:95%; height:95%;">here</iframe> *@
+    </div>
+
+    <hr />
+
+    <div class="column" >
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav nav navbar-inverse flex-column mb-auto">
+                <li>
+                <div><br>
+                    <h5 class="title"><span class="bi bi-braces"></span> Prediction results</h5>
+                </div>
+                </li><br>
+                <li>
+                    @if (InvoiceMainFields == null)
+                    {
+                        <p><em>Data Loading...</em></p>
+                    }
+                    else
+                    {
+                    <labe class="label">Doc Main Fields</labe>
+                        <table cellpadding ="10" style="width:100%;">
+                            
+                            <tr >
+                                <td class="titles">Field ID</td>
+                                <td class="titles">Field Value</td>
+                            </tr>
+                        @foreach(var doc in InvoiceMainFields)
+                        {
+                            <tr>
+                                <td class="infos">@doc.DocFieldId</td>
+                                <td class="fields">@doc.DocFieldValue</td>
+                            </tr>
+                        }
+                        </table>
+                        <hr />
+
+                        <label class="label">Doc Item Fields</label>
+                        <table style="width:100%;" cellpadding ="15">
+                            
+                            <tr>
+                                <td class="titles">Field ID</td>
+                                <td class="titles">Field Value</td>
+                            </tr>
+                        @foreach(var doc in InvoiceItemsFields)
+                        {
+                            <tr>
+                                <td class="infos">@doc.DocFieldId</td>
+                                <td class="fields">@doc.DocFieldValue</td>
+                            </tr>
+                        }
+                        </table>
+                    }
+                </li>
+            </ul>
+        </div> 
+    </div>
+</div>
+
+    @if (InvoiceMainFields != null)
+    {
+    <hr style="border: 1px solid rgb(255, 0, 187);">
+    <div>
+        <h4 class="correction"><span class="bi bi-braces"></span>Results Correction</h4>
+        <p class="paragraph">In case you see something wrong with invoice's information, refill this form please.</p>
+        <form>
+            @foreach(var doc in InvoiceMainFields)
+            {
+                <div class="form-group">
+                    <label class="form-label">@doc.DocFieldId</label>
+                    <input class="form-control" placeholder="Enter @doc.DocFieldId" value="@doc.DocFieldValue">
+                </div>
+            }
+            <center>
+                <div class="buttons">
+                    <button type="submit" class="Sub btn-primary">Submit</button>
+                    <button type="reset" class="res btn-secondary">Cancel</button>
+                </div>
+            </center>
+        </form>
+    </div>
+    <br>
+    }
+
+@code {
+  
+    public List<DocModel> InvoiceMainFields;
+    public List<DocModel> InvoiceItemsFields;
+    string FilePath = "No File Uploaded";
+    string FileName ="";
+    static string endpoint = "https://formrecogmetam.cognitiveservices.azure.com/";
+    static  string apiKey = "4016270d4d8b494e93d355e07cf8ac57";
+    static AzureKeyCredential credential = new AzureKeyCredential(apiKey);
+    private IFileListEntry[] files;
+    
+
+    async Task RunAnalysis(IFileListEntry[] files)
+    {
+        var file = files.FirstOrDefault();
+        if (files != null && files.Length > 0)
+        {
+            if (file != null)
+            {
+                await fileupload.UploadFile(file);
+
+                FileName = file.Name;
+                FilePath = "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
+
+                var client = new FormRecognizerClient(new Uri(endpoint), credential);
+                var options = new RecognizeInvoicesOptions() { Locale = "en-US" };
+
+                using var stream = new FileStream(FilePath, FileMode.Open);
+                RecognizeInvoicesOperation operation = await client.StartRecognizeInvoicesAsync(stream, options);
+
+                Response<RecognizedFormCollection> operationResponse = await operation.WaitForCompletionAsync();
+                RecognizedFormCollection invoices = operationResponse.Value;
+                RecognizedForm invoice = invoices.Single();
+
+                InvoiceMainFields = new List<DocModel>();
+                foreach (var doc in invoice.Fields)
+                {
+                    if (doc.Key.ToString() != "Items")
+                    {
+                        DocModel obj = new DocModel();
+                        obj.DocFieldId = doc.Key;
+                        obj.DocFieldValue = doc.Value.ValueData.Text;
+                        InvoiceMainFields.Add(obj);
+                    }
+                }
+
+                if (invoice.Fields.TryGetValue("Items", out FormField itemsField))
+                {
+                    if (itemsField.Value.ValueType == FieldValueType.List)
+                    {
+                        foreach (FormField itemField in itemsField.Value.AsList())
+                        {
+                            Console.WriteLine("Item:");
+
+                            if (itemField.Value.ValueType == FieldValueType.Dictionary)
+                            {
+                                IReadOnlyDictionary<string, FormField> itemFields = itemField.Value.AsDictionary();
+
+                                InvoiceItemsFields = new List<DocModel>();
+                                foreach (var doc in itemFields)
+                                {
+                                    if (doc.Key.ToString() != "Items")
+                                    {
+                                        DocModel obj = new DocModel();
+                                        obj.DocFieldId = doc.Key;
+                                        obj.DocFieldValue = doc.Value.ValueData.Text;
+                                        InvoiceItemsFields.Add(obj);
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }   
+
+    private bool collapseNavMenu = true;
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
+
