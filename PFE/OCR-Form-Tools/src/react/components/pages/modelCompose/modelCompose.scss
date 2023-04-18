@@ -7,21 +7,44 @@ h4 {
     height: calc(100vh - 58px);
     overflow: auto;
     display: flex;
+    background-color: rgb(8, 8, 8);
+
+    .ms-Icon {
+        color: #000000;
+    }
+    .ms-TextField-field {
+        color: #000000;
+        background-color: #ffffff;
+        border: #ff4040;
+        :placeholder {
+            color: #bf0606;
+        }
+    }
 }
 
 .models-list {
+    color: #000000 !important;
     width: 100%;
     overflow-x: visible;
+    background-color: white;
 }
 
 .compact-toggle {
-    color: white;
+    color: rgb(0, 0, 0);
     margin: 2px 10px;
 }
 
 .commandbar-container {
     width: 100%;
     height: 44px;
+    background-color: #000000;
+}
+
+.app-content{
+    background-color: #ffffff;
+    height: 100%;
+    width: 100%;
+    overflow: auto;
 }
 
 .commandbar {
@@ -32,10 +55,12 @@ h4 {
 }
 
 .compose-spinner {
-    color: white;
+    color: rgb(0, 0, 0);
     height: 70vh;
 }
-
+.TooltipHost{
+    background-color: #ff4040;
+}
 .composed-icon-cell {
     text-align: left;
 }
@@ -45,14 +70,14 @@ h4 {
 }
 
 .label-filter-background {
-    background-color: #1E2024;
+    background-color: #ffffff;
     padding-bottom: 10px;
 }
 
 .label-filter-field {
     margin-left: auto;
     margin-right: 15px;
-    background-color: #1E2024;
+    background-color: #ffffff;
     max-width: 300px;
     width: 100%;
 }
@@ -62,7 +87,7 @@ h4 {
 }
 
 .commandbar-filter {
-    background-color: #1E2024;
+    background-color: #ffffff;
     display: flex;
     justify-items: center;
     align-self: center;
@@ -96,6 +121,8 @@ h4 {
 
 .list-container {
     width: 100%;
+        background-color: #ffffff;
+
 }
 
 .scrollpane-container {
@@ -109,6 +136,7 @@ h4 {
     left: auto;
     right: 0px;
     bottom: auto;
+    background-color: #ffffff;
 }
 
 .modal-container {
