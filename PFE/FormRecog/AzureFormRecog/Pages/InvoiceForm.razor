@@ -157,7 +157,7 @@
                 await fileupload.UploadFile(file);
 
                 FileName = file.Name;
-                FilePath = "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
+                FilePath = "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
 
                 var client = new FormRecognizerClient(new Uri(endpoint), credential);
                 var options = new RecognizeInvoicesOptions() { Locale = "en-US" };

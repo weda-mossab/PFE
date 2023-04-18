@@ -110,7 +110,7 @@
         {
             await fileupload.UploadFile(file);
             FileName = file.Name;
-            FilePath = "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
+            FilePath = "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\UploadloadedFiles\\" + file.Name;
                         
             var client = new FormRecognizerClient(new Uri(endpoint), credential);
 
@@ -122,7 +122,7 @@
                 IncludeFieldElements = true
             };
 
-            RecognizeCustomFormsOperation operation = await client.StartRecognizeCustomFormsAsync("0dccaa09-070b-4439-8392-0abff52aaee6", stream, options);
+            RecognizeCustomFormsOperation operation = await client.StartRecognizeCustomFormsAsync("94d18b3a-4329-4fe0-bd66-6e8c42636dc6", stream, options);
 
             Response<RecognizedFormCollection> operationResponse = await operation.WaitForCompletionAsync();
 
