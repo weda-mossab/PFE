@@ -105,42 +105,78 @@ export class TitleBar extends React.Component<ITitleBarProps, ITitleBarState> {
         };
 
         return (
-            <div className="title-bar bg-lighter-3 shadow-lg">
-                {isNotElectronAndMacOrLinux &&
+            <div className="title-bar  ">
+                {/* {isElectron() && (
+                    <img
+                        id="menudots"
+                        src="./dots.svg"
+                        alt="Menu"
+                        draggable="false"
+                    />
+                )} */}
+                {isNotElectronAndMacOrLinux && (
                     <div className="title-bar-icon">
-                    <a href="http://localhost:5059/"><img id="logo"src="https://www.emploisenadministration.com/uploads/logos/original/171834969efebcc5cea20ffb9e1416a3518937d3.png" alt="MDB Logo"draggable="false" height="30" /></a>
+                        <a href="http://localhost:3000/">
+                            <img
+                                id="logo"
+                                src="./logosnoeuron.svg"
+                                alt="Noeuron"
+                                draggable="false"
+                            />
+                        </a>
                     </div>
-                }
-                {isElectronAndNotMacOrLinux &&
+                )}
+
+                {/* {isElectronAndNotMacOrLinux && (
                     <Customizer {...titleBarTheme}>
                         <OverflowSet
                             role="menubar"
                             items={this.addDefaultMenuItems(this.state.menu)}
                             onRenderOverflowButton={onRenderOverflowButton}
                             onRenderItem={onRenderItem}
+
                         />
                     </Customizer>
-                }
-                {/* <div className="title-bar-main">{this.props.title || "Welcome"}</div> */}
+                )} */}
+                <div className="title-bar-main">{this.props.title}</div>
                 <div className="title-bar-controls">
                     {this.props.children}
-                    {isElectronAndNotMacOrLinux &&
-                        [
-                            <Separator vertical key="seperator" className="mr-2 ml-2"/>,
-                            <div key="minimizeDiv">
-                                <FontIcon className="end-icons" iconName="ChromeMinimize" onClick={this.minimizeWindow}/>
-                            </div>,
-                            <div key="resizeDiv">
-                                {this.state.maximized
-                                    ? <FontIcon  className="end-icons" iconName="ChromeRestore" onClick={this.unmaximizeWindow}/>
-                                    : <FontIcon className="end-icons" iconName="SquareShape" onClick={this.maximizeWindow}/>
-                                }
-                            </div>,
-                            <div key="closeDiv">
-                                <FontIcon className="app-close-icon" iconName="Cancel" onClick={this.closeWindow}/>
-                            </div>
-                        ]
-                    }
+                    {isElectronAndNotMacOrLinux && [
+                        <Separator
+                            vertical
+                            key="seperator"
+                            className="mr-2 ml-2"
+                        />,
+                        <div key="minimizeDiv">
+                            <FontIcon
+                                className="end-icons"
+                                iconName="ChromeMinimize"
+                                onClick={this.minimizeWindow}
+                            />
+                        </div>,
+                        <div key="resizeDiv">
+                            {this.state.maximized ? (
+                                <FontIcon
+                                    className="end-icons"
+                                    iconName="ChromeRestore"
+                                    onClick={this.unmaximizeWindow}
+                                />
+                            ) : (
+                                <FontIcon
+                                    className="end-icons"
+                                    iconName="SquareShape"
+                                    onClick={this.maximizeWindow}
+                                />
+                            )}
+                        </div>,
+                        <div key="closeDiv">
+                            <FontIcon
+                                className="app-close-icon"
+                                iconName="Cancel"
+                                onClick={this.closeWindow}
+                            />
+                        </div>,
+                    ]}
                 </div>
             </div>
         );
