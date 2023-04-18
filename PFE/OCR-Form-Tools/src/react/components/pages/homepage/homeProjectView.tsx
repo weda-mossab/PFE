@@ -113,7 +113,7 @@ export class HomeProjectView extends React.Component<Partial<IHomeProjectViewPro
                                 </ul>
                             </div>
                             {(this.props.recentProjects && this.props.recentProjects.length > 0) &&
-                                <div className="modal-right bg-lighter-1">
+                                <div className="modal-right">
                                     <CondensedList
                                         title={strings.homePage.recentProjects}
                                         Component={RecentProjectItem}
