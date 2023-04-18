@@ -1,11 +1,13 @@
 @import '../../../../assets/sass/theme.scss';
 
 .train-page {
+    background-color: white ;
     display: flex;
     flex-grow: 1;
     flex-direction: row;
     height: 10px; // Not sure why it helps
     user-select: text;
+    color :black;
 }
 
 .train-page-main {
@@ -17,6 +19,7 @@
 }
 
 .train-page-menu {
+    background-color: #f3f3f3;
     display: flex;
     width: 400px;
     overflow: auto;
@@ -31,13 +34,13 @@
     .accuracy-table {
         width: 100%;
         th, td {
-            border-top: #999 1px solid;
+            border-top: #000000 1px solid;
         }
         &:first-child {
-            border-top: #999 2px solid;
+            border-top: #000000 2px solid;
         }
         &:last-child {
-            border-bottom: #999 2px solid;
+            border-bottom: #000000 2px solid;
         }
         .tag-name {
             max-width: calc(100vw - 550px);
@@ -52,7 +55,7 @@
     height: 95%;
     width: 100%;
     .train-chart {
-        background: #fff !important;
+        background: #b62525 !important;
     }
 }
 
@@ -78,6 +81,10 @@
     &-text {
         padding-left:4px;
     }
+}
+.ms-Icon{
+    background: transparent;
+    color: #ffffff;
 }
 
 .label-folder-url-input {
