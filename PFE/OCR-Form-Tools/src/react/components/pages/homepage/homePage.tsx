@@ -75,7 +75,7 @@ export default class HomePage extends React.Component<IHomePageProps, IHomePageS
     private importConfirmRef: React.RefObject<Confirm> = React.createRef();
 
     public async componentDidMount() {
-        this.props.appTitleActions.setTitle("Welcome");
+        this.props.appTitleActions.setTitle("");
         document.title = strings.homePage.title + " - " + strings.appName;
     }
 

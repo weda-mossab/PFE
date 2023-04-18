@@ -19,13 +19,23 @@
         }
     }
 }
-#logo{
-    margin-top: -10%;
-    width: 70px;
-    height: 25px;
-    border: white;
 
+// #menudots{
+//     margin-top: -10%;
+//     width: 15%;
+//     height: 30px;
+//     border:none;
+
+// }
+
+#logo{
+  
+    width: 100px;
+    height: 30px;
+    border:none;
+    margin-left: 4%;
 }
+
 .title-bar {
     background-color: white;
     color: #C04799 ;
@@ -53,8 +63,8 @@
         -webkit-app-region: drag;
         -webkit-user-select: none;
 
-        padding: 0.4em 0.8em;
-        color: $color-green;
+        padding: 0.6em 0.8em;
+        color: #ccc;
     }
 
     @media (max-width: 640px) {
@@ -155,7 +165,6 @@
 
   &-item-selected {
     background-color: $lighter-3;
-    // fix chrome render bug
     transform: translateZ(0);
   }
 
@@ -392,20 +401,21 @@
 .app-close-icon {
   padding: 6px 18px;
   display: inline-block;
+  color: #000000;
   &:hover {
-    color: white;
-    background-color: red;
+    color: rgb(246, 245, 245);
+    background-color: #C04799;
     cursor: pointer;
   }
 }
 
 .end-icons {
   padding: 6px 18px;
-  color: #ccc;
+  color: #000000;
   display: inline-block;
 
   &:hover {
-      color: #fff;
+      color: #C04799;
       background-color: $lighter-2;
       cursor: pointer;
   }

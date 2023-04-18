@@ -149,7 +149,7 @@ export default class TrainPage extends React.Component<ITrainPageProps, ITrainPa
                             projectTags={this.props.project.tags} />
                     }
                 </main>
-                <div className="train-page-menu bg-lighter-1">
+                <div className="train-page-menu ">
                     <div className="condensed-list">
                         <div className="condensed-list-body">
                             <div className="m-3">
@@ -192,7 +192,7 @@ export default class TrainPage extends React.Component<ITrainPageProps, ITrainPa
                                             onClick={this.handleTrainClick}
                                             disabled={this.state.isTraining}>
                                             <FontIcon iconName="MachineLearning" />
-                                            <h6 className="d-inline text-shadow-none ml-2 mb-0">
+                                            <h6 className="d-inline text-shadow-none ml-2 mb-0 black">
                                                 {strings.train.title} </h6>
                                         </PrimaryButton>
                                     </div>
@@ -229,7 +229,7 @@ export default class TrainPage extends React.Component<ITrainPageProps, ITrainPa
                                             <FontIcon
                                                 iconName="Download"
                                                 style={{ fontWeight: 600 }} />
-                                            <h6 className="d-inline text-shadow-none ml-2 mb-0">
+                                            <h6 className="d-inline text-shadow-none ml-2 mb-0 black">
                                                 {strings.train.downloadJson}</h6>
                                         </PrimaryButton>
                                     </>

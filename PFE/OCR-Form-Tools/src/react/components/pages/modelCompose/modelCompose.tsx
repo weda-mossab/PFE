@@ -32,7 +32,7 @@ import {
 } from "@fluentui/react";
 import "./modelCompose.scss";
 import { strings, interpolate } from "../../../../common/strings";
-import { getDarkGreyTheme, getDefaultDarkTheme } from "../../../../common/themes";
+import { getDarkGreyTheme, getDefaultDarkTheme, getDefaultTheme, getPrimaryWhiteTheme } from "../../../../common/themes";
 import { ModelComposeCommandBar } from "./composeCommandBar";
 import { bindActionCreators } from "redux";
 import IProjectActions, * as projectActions from "../../../../redux/actions/projectActions";
@@ -248,7 +248,7 @@ export default class ModelComposePage extends React.Component<IModelComposePageP
         const { modelList, isCompactMode, columns } = this.state;
         const dark: ICustomizations = {
             settings: {
-                theme: getDarkGreyTheme(),
+                theme: getDefaultTheme(),
             },
             scopedSettings: {},
         };

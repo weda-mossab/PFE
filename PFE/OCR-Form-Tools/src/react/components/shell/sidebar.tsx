@@ -22,47 +22,68 @@ export function Sidebar({ project }) {
         <div className="app-sidebar " id="appSidebar">
             <ul>
                 <li>
-                    <NavLink title={"Home"} to={`/`} exact role="button">
+                    <a
+                        title={"Client"}
+                        href="http://localhost:8080/"
+                        role="button"
+                    >
+                        <img src="./Back_Arrow.svg" alt="Client" />
+                    </a>
+                </li>
+                <li>
+                    <NavLink title={"Home"} to={"http://localhost:3000/"} exact role="button">
                         <FontIcon iconName="Home" />
                     </NavLink>
                 </li>
                 <li>
-                    <ConditionalNavLink disabled={!projectId}
+                    <ConditionalNavLink
+                        disabled={!projectId}
                         title={strings.tags.editor}
-                        to={`/projects/${projectId}/edit`}>
+                        to={`/projects/${projectId}/edit`}
+                    >
                         <FontIcon iconName="Tag" />
                     </ConditionalNavLink>
                 </li>
-               <li>
-                    <ConditionalNavLink disabled={!projectId}
+                <li>
+                    <ConditionalNavLink
+                        disabled={!projectId}
                         title={strings.train.title}
-                        to={`/projects/${projectId}/train`}>
+                        to={`/projects/${projectId}/train`}
+                    >
                         <FontIcon iconName="MachineLearning" />
                     </ConditionalNavLink>
                 </li>
                 <li>
-                    <ConditionalNavLink disabled={!projectId}
+                    <ConditionalNavLink
+                        disabled={!projectId}
                         title={`Model Compose`}
-                        to={`/projects/${projectId}/modelcompose`}>
-                        <FontIcon iconName="Merge"/>
+                        to={`/projects/${projectId}/modelcompose`}
+                    >
+                        <FontIcon iconName="Merge" />
                     </ConditionalNavLink>
                 </li>
-                <li>
+                {/* <li>
                     <ConditionalNavLink disabled={!projectId}
                         title={`Analyze`}
                         to={`/projects/${projectId}/predict`}>
                         <FontIcon iconName="Insights" />
                     </ConditionalNavLink>
-                </li>
+                </li> */}
                 <li>
-                    <ConditionalNavLink disabled={!projectId}
+                    <ConditionalNavLink
+                        disabled={!projectId}
                         title={strings.projectSettings.title}
-                        to={`/projects/${projectId}/settings`}>
+                        to={`/projects/${projectId}/settings`}
+                    >
                         <FontIcon iconName="DocumentManagement" />
                     </ConditionalNavLink>
                 </li>
                 <li>
-                    <NavLink title={strings.connections.title} to={`/connections`} role="button">
+                    <NavLink
+                        title={strings.connections.title}
+                        to={`/connections`}
+                        role="button"
+                    >
                         <FontIcon iconName="Plug" />
                     </NavLink>
                 </li>
@@ -80,7 +101,11 @@ export function Sidebar({ project }) {
             <div className="app-sidebar-fill"></div>
             <ul>
                 <li>
-                    <NavLink title={strings.appSettings.title} to={`/settings`} role="button">
+                    <NavLink
+                        title={strings.appSettings.title}
+                        to={`/settings`}
+                        role="button"
+                    >
                         <FontIcon iconName="Settings" />
                     </NavLink>
                 </li>

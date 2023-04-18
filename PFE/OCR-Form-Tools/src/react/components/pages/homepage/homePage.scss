@@ -48,7 +48,7 @@ $lighter-8: rgba(255,255,255,0.60);
                         padding: 1rem;
                     }
                     .ms-Icon {
-                        color:grey;
+                        color:rgb(0, 0, 0);
                     }
                     .title {
                         max-width: 12em;
@@ -60,9 +60,8 @@ $lighter-8: rgba(255,255,255,0.60);
                         margin-bottom: 1em;
                     }
 
-                    &.active,
-                    &:hover {
-                        color: #fff;
+                    &.active,&:hover {
+                        color: #000000;
                         text-decoration: none;
                         flex-wrap: wrap;
                         .ms-Icon {
@@ -121,11 +120,12 @@ $lighter-8: rgba(255,255,255,0.60);
             margin: 10px;
         }
     }
+    .app-homepage-open-cloud-project,.condensed-list-header,.condensed-list-item,.ms-Icon{
+        color: rgb(0, 0, 0);
+    }
 }
 
-.app-homepage-open-cloud-project,.condensed-list-header,.condensed-list-item,.ms-Icon{
-    color: black;
-}
+
 .app-homepage-open-cloud-project:hover,.ms-Icon:hover,.ms-Fabric:hover,.condensed-list-item:hover{
     color: #C04799;
     box-shadow: none;
@@ -140,6 +140,16 @@ $lighter-8: rgba(255,255,255,0.60);
         display: flex;
         padding: 0 !important;
 
+        h5 {
+            color: rgb(255, 255, 255);
+        }
+
+        .ms-Icon{
+            color: rgb(0, 0, 0);
+            &:hover{
+                color: #C04799;
+            }
+        }
         .modal-content {
             flex: 1;
             display: flex;
@@ -183,7 +193,6 @@ $lighter-8: rgba(255,255,255,0.60);
                                     margin: auto;
                                     font-size: 1.3em;
                                     font-weight: bold;
-                                    color: white;
                                     text-align: center;
                                     margin-bottom: 1em;
                                     color: black;
@@ -213,6 +222,12 @@ $lighter-8: rgba(255,255,255,0.60);
                     overflow-y: auto;
                     background-color: #fff;
                     color: black;
+                        span{
+                            color: black;
+                            &:hover{
+                                color: #C04799;
+                            }
+                        }
                 }
             }
         }

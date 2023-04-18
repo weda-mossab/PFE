@@ -32,6 +32,7 @@ export class SecurityTokenPicker extends React.Component<ISecurityTokenPickerPro
     public render() {
         return (
             <select id={this.props.id}
+                disabled
                 className="form-control"
                 value={this.props.value}
                 onChange={this.onChange}>

@@ -21,7 +21,7 @@
   outline: none;
   background-color: $darker-1;
   border: solid 1px $lighter-2;
-  color: rgb(0, 161, 241);
+  color: rgb(241, 0, 197);
   z-index: 10;
 
   &:hover, &.active {
@@ -75,7 +75,7 @@
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
   display: flex;
   z-index: 11;
@@ -103,5 +103,5 @@
 .ol-dragbox-style {
   border: dashed;
   border-width: 1px ;
-  border-color: black;
+  border-color: rgb(253, 253, 253);
 }

@@ -106,21 +106,7 @@ export default class ConnectionForm extends React.Component<IConnectionFormProps
                     </span>
                 </h3>
                 <div className="m-3">
-                    {isBrowser() &&
-                        <div className="alert alert-warning warning"
-                            role="alert">
-                            <FontIcon iconName="WarningSolid" className="mr-1" />
-                            {strings.formatString(
-                                strings.connections.blobCorsWarning,
-                                <a
-                                    href="https://aka.ms/blob-cors"
-                                    target="_blank"
-                                    rel="noopener noreferrer">
-                                    {strings.connections.azDocLinkText}
-                                </a>)
-                            }
-                        </div>
-                    }
+                  
                     <Form
                         className={this.state.classNames.join(" ")}
                         showErrorList={false}
