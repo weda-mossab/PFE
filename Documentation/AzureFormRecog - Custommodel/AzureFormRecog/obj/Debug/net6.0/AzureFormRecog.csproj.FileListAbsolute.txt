@@ -56,3 +56,13 @@ C:\Users\Weda\Desktop\PFE Mossab Nour\Documentation\AzureFormRecog - Custommodel
 C:\Users\Weda\Desktop\PFE Mossab Nour\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cs
 C:\Users\Weda\Desktop\PFE Mossab Nour\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.dll
 C:\Users\Weda\Desktop\PFE Mossab Nour\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.pdb
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.AssemblyReference.cache
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.AssemblyInfoInputs.cache
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.AssemblyInfo.cs
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.csproj.CoreCompileInputs.cache
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cache
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.RazorAssemblyInfo.cs
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.dll
+C:\Users\MedNourBn\Desktop\PFE\Documentation\AzureFormRecog - Custommodel\AzureFormRecog\obj\Debug\net6.0\AzureFormRecog.pdb

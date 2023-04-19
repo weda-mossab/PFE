@@ -1,5 +1,4 @@
-﻿@inherits LayoutComponentBase
- <nav class="navbar navbar-expand-sm navbar-light bg-light ">
+﻿<nav class="navbar navbar-expand-sm navbar-light bg-light ">
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ">
         <li class="nav-item">
@@ -38,70 +37,6 @@
   </div>
 </nav>
           
-
-
-@* <Navbar/> *@
- <div class="page">
-    
-<Sidebar IsShown=_isSidebarShown Width="200"></Sidebar>
-@code {   
-     private bool _isSidebarShown = true;
+@code {
+    private bool _isSidebarShown = true;
 }
-    <main>
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-</div>
-
-<style>
-    i{
-    color: #C04799 ;
-    font-weight: bold; 
-}
-
-a{
- color: #024662;
-}
-
-nav {
-    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.075);
-}
-.navbar{
-    padding: 0rem ;
-}
-
-.logo{
-    margin-left: 1%;
-}
-
-.logo-app {
-    width:140px;
-    height:1;
-    margin-left: 0.5rem;
-} 
-
-.hide-show-btn {
-    position: absolute;
-    background-color: greenyellow;
-    height: 36px;
-    width: 36px;
-    border-bottom-right-radius: 4px;
-    padding: 4px;
-}
-
-    .hide-show-btn:hover {
-        cursor: pointer;
-        opacity: 0.9;
-    }
-
-.arrow {
-    transition: var(--transition-props);
-}
-
-    .arrow.reversed {
-        transform: rotate(180deg);
-        transition: var(--transition-props);
-    }
-
-    </style>

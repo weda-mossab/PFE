@@ -985,19 +985,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Weda\\.nuget\\packages\\": {}
+    "C:\\Users\\MedNourBn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Weda\\Desktop\\PFE Mossab Nour\\Documentation\\AzureFormRecog - Custommodel\\AzureFormRecog\\AzureFormRecog.csproj",
+      "projectUniqueName": "C:\\Users\\MedNourBn\\Desktop\\PFE\\Documentation\\AzureFormRecog - Custommodel\\AzureFormRecog\\AzureFormRecog.csproj",
       "projectName": "AzureFormRecog",
-      "projectPath": "C:\\Users\\Weda\\Desktop\\PFE Mossab Nour\\Documentation\\AzureFormRecog - Custommodel\\AzureFormRecog\\AzureFormRecog.csproj",
-      "packagesPath": "C:\\Users\\Weda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Weda\\Desktop\\PFE Mossab Nour\\Documentation\\AzureFormRecog - Custommodel\\AzureFormRecog\\obj\\",
+      "projectPath": "C:\\Users\\MedNourBn\\Desktop\\PFE\\Documentation\\AzureFormRecog - Custommodel\\AzureFormRecog\\AzureFormRecog.csproj",
+      "packagesPath": "C:\\Users\\MedNourBn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MedNourBn\\Desktop\\PFE\\Documentation\\AzureFormRecog - Custommodel\\AzureFormRecog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Weda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MedNourBn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
