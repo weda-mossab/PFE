@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj": {}
+    "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj": {
+    "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj",
+        "projectUniqueName": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj",
         "projectName": "Noeuron",
-        "projectPath": "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj",
-        "packagesPath": "C:\\Users\\MedNourBn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\",
+        "projectPath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Noeuron.csproj",
+        "packagesPath": "C:\\Users\\Weda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MedNourBn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Weda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,22 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Azure.AI.FormRecognizer": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.11, )"
@@ -48,6 +64,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.11, )"
+            },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Noeuron
 build_property.RootNamespace = Noeuron
-build_property.ProjectDir = C:\Users\MedNourBn\Desktop\PFE\PFE\Noeuron\Noeuron\
+build_property.ProjectDir = c:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\MedNourBn\Desktop\PFE\PFE\Noeuron\Noeuron
+build_property.MSBuildProjectDirectory = c:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/App.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Counter.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/FetchData.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Index.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/SurveyPrompt.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/_Imports.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/MainLayout.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cdmj34ocy0
 
-[C:/Users/MedNourBn/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/NavMenu.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-2x3iqpldhf
