@@ -1,0 +1,54 @@
+﻿@page "/fetchdata"
+
+<PageTitle>Models</PageTitle>
+
+@using AzureFormRecog.Data
+@using AzureFormRecog.Pages
+@inject IModalService Modal 
+
+<h2>Models</h2>
+<br>
+    <center>
+        <div class="input-group">
+            <input class="form-control" type="search" id="example-search-input" placeholder="Search models...">
+        </div>
+    </center>
+<br><br>
+
+    <div>
+        <center>
+        <table class="table">
+            <thead>
+              <tr>
+                    <th>Model name</th>
+                    <th>Model ID</th>
+                    <th>Status</th>
+                    <th>Date Creation</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                    <tr>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>
+                            <button class="action-btn"><span class="bi bi-trash-fill" ></span></button>
+                            <button class="action-btn" type="button" @onclick="@(()=>Modal.Show<Models_infos>("Model Infors"))"><span class="bi bi-info-circle" ></span></button>
+                        </td>
+                    </tr>
+                       <tr>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>DFDMCPZNSPZNXM</td>
+                        <td>
+                            <button class="action-btn"><span class="bi bi-trash-fill" ></span></button>
+                            <button class="action-btn" type="button" @onclick="@(()=>Modal.Show<Models_infos>("Model Infors"))"><span class="bi bi-info-circle" ></span></button>
+                        </td>
+                    </tr>
+            </tbody>
+        </table>
+        </center>
+    </div>
