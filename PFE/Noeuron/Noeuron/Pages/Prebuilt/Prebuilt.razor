@@ -1,0 +1,116 @@
+﻿@page "/Prebuilt"
+
+@inject IModalService Modal 
+
+@using BlazorInputFile
+
+
+@using Azure
+@using Azure.AI.FormRecognizer
+@using Azure.AI.FormRecognizer.Models
+
+
+@* @inject IFileUpload fileupload *@
+
+<PageTitle>Pre-built modèle</PageTitle>
+
+<div class="row">
+    <div class="column" >
+        <div class="sidebar">
+            <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu" >
+                <ul class="sidebar-navbar nav navbar-inverse flex-column mb-auto">
+                    <li>
+                        <div>
+                            <h6> 1. Choose file for analysis. </h6>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="file">
+                             <BlazorInputFile.InputFile style="margin-left: 150px;" class="inputfile"></BlazorInputFile.InputFile>
+                            <div class="path" style="color:black; font-size:13px;">
+                            
+                            </div>
+                        </div>
+                    </li>
+                    <br>
+                    <li>
+                        <div class="separator-right-pane-main root-56" >
+                            <h6>2. Get prediction. </h6>
+                        </div>
+                    </li>
+                    <li>
+                        <center>
+                        <div>
+                            <button class="btn" ><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Exécuter l'analyse</button>
+                        </div>
+                        </center>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div> 
+
+    <div class="column2" >
+     
+    </div>
+
+    <hr />
+
+    <div class="column" >
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav nav navbar-inverse flex-column mb-auto">
+                <li><br>
+                    <div>
+                        <h5 class="title"><span class="bi bi-braces"></span> Prediction results</h5>
+                    </div>
+                </li><br>
+                <li>
+                    <p><em>Data Loading...</em></p>
+                    
+                    <label class="label">Doc Main Fields</label>
+                    <table cellpadding ="10" style="width:100%;">
+                        <tr >
+                            <td class="titles">Field ID</td>
+                            <td class="titles">Field Value</td>
+                        </tr>
+                        <tr>
+                            <td class="infos">doc.DocFieldId</td>
+                            <td class="fields">doc.DocFieldValue</td>
+                        </tr>
+                    </table>
+
+                        <hr />
+
+                    <label class="label">Doc Item Fields</label>
+                    <table style="width:100%;" cellpadding ="15">
+                        <tr>
+                            <td class="titles">Field ID</td>
+                            <td class="titles">Field Value</td>
+                        </tr>
+                        <tr>
+                            <td class="infos">doc.DocFieldId</td>
+                            <td class="fields">doc.DocFieldValue</td>
+                        </tr>
+                    </table>
+                </li>
+                <li>
+                    <center>
+                        <button class="btn-edit" @onclick="@(()=>Modal.Show<Edit_fact>("Correction des résultats"))"><span class="bi bi-pencil-square icon"></span>&nbsp;Modifier</button>
+                        <button class="btn-save"><span class="bi bi-bookmark-check icon"></span>&nbsp;Enregistrer</button>
+                    </center>
+                </li>
+            </ul>
+        </div> 
+    </div>
+</div>
+
+
+@code {
+
+    private bool collapseNavMenu = true;
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

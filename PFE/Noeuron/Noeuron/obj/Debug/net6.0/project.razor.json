@@ -9,43 +9,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 561968780,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.FetchData",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.FetchData",
-          "Common.TypeNamespace": "Noeuron.Pages",
-          "Common.TypeNameIdentifier": "FetchData"
-        }
-      },
-      {
-        "HashCode": 409038321,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.FetchData",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Noeuron.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.FetchData",
-          "Common.TypeNamespace": "Noeuron.Pages",
-          "Common.TypeNameIdentifier": "FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 325485137,
         "Kind": "Components.Component",
         "Name": "Noeuron.Pages.Modèles.Models",
@@ -79,6 +42,43 @@
           "Common.TypeName": "Noeuron.Pages.Modèles.Models",
           "Common.TypeNamespace": "Noeuron.Pages.Modèles",
           "Common.TypeNameIdentifier": "Models",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -759815263,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Scan_facture.ScanFacture",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ScanFacture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Scan_facture.ScanFacture",
+          "Common.TypeNamespace": "Noeuron.Pages.Scan_facture",
+          "Common.TypeNameIdentifier": "ScanFacture"
+        }
+      },
+      {
+        "HashCode": -110244473,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Scan_facture.ScanFacture",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.Scan_facture.ScanFacture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Scan_facture.ScanFacture",
+          "Common.TypeNamespace": "Noeuron.Pages.Scan_facture",
+          "Common.TypeNameIdentifier": "ScanFacture",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -157,80 +157,6 @@
         }
       },
       {
-        "HashCode": -759815263,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Scan_facture.ScanFacture",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ScanFacture"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Scan_facture.ScanFacture",
-          "Common.TypeNamespace": "Noeuron.Pages.Scan_facture",
-          "Common.TypeNameIdentifier": "ScanFacture"
-        }
-      },
-      {
-        "HashCode": -110244473,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Scan_facture.ScanFacture",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Noeuron.Pages.Scan_facture.ScanFacture"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Scan_facture.ScanFacture",
-          "Common.TypeNamespace": "Noeuron.Pages.Scan_facture",
-          "Common.TypeNameIdentifier": "ScanFacture",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 997254252,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Modeles_infos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
-          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles_infos"
-        }
-      },
-      {
-        "HashCode": -957691190,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Noeuron.Pages.Modeles.Modeles_infos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
-          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles_infos",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -212006775,
         "Kind": "Components.Component",
         "Name": "Noeuron.Pages.Modeles.Modeles",
@@ -301,6 +227,117 @@
           "Common.TypeName": "Noeuron.Pages.Modeles.Delete_modele",
           "Common.TypeNamespace": "Noeuron.Pages.Modeles",
           "Common.TypeNameIdentifier": "Delete_modele",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 997254252,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Modeles_infos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
+          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles_infos"
+        }
+      },
+      {
+        "HashCode": -957691190,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.Modeles.Modeles_infos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
+          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles_infos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1064895311,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Prebuilt.Prebuilt",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Prebuilt"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Prebuilt.Prebuilt",
+          "Common.TypeNamespace": "Noeuron.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Prebuilt"
+        }
+      },
+      {
+        "HashCode": -1003842402,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Prebuilt.Prebuilt",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.Prebuilt.Prebuilt"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Prebuilt.Prebuilt",
+          "Common.TypeNamespace": "Noeuron.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Prebuilt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -513712361,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Prebuilt.Edit_fact",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit_fact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Prebuilt.Edit_fact",
+          "Common.TypeNamespace": "Noeuron.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Edit_fact"
+        }
+      },
+      {
+        "HashCode": -1276612483,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Prebuilt.Edit_fact",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.Prebuilt.Edit_fact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Prebuilt.Edit_fact",
+          "Common.TypeNamespace": "Noeuron.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Edit_fact",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -397,43 +434,6 @@
           "Common.TypeName": "Noeuron.Shared.SurveyPrompt",
           "Common.TypeNamespace": "Noeuron.Shared",
           "Common.TypeNameIdentifier": "SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1616699639,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Shared.NavMenu",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Shared.NavMenu",
-          "Common.TypeNamespace": "Noeuron.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
-        }
-      },
-      {
-        "HashCode": -1645649143,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Shared.NavMenu",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Noeuron.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Shared.NavMenu",
-          "Common.TypeNamespace": "Noeuron.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -540,6 +540,43 @@
           "Common.TypeNamespace": "Noeuron.Shared",
           "Common.TypeNameIdentifier": "MainLayout",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1616699639,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Shared.NavMenu",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Shared.NavMenu",
+          "Common.TypeNamespace": "Noeuron.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": -1645649143,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Shared.NavMenu",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Shared.NavMenu",
+          "Common.TypeNamespace": "Noeuron.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16900,8 +16937,8 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\Prebuilt\\Prebuilt.razor",
+      "TargetPath": "Pages\\Prebuilt\\Prebuilt.razor",
       "FileKind": "component"
     },
     {
@@ -16912,6 +16949,11 @@
     {
       "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\Scan facture\\ScanFacture.razor",
       "TargetPath": "Pages\\Scan facture\\ScanFacture.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\Prebuilt\\Edit_fact.razor",
+      "TargetPath": "Pages\\Prebuilt\\Edit_fact.razor",
       "FileKind": "component"
     }
   ],

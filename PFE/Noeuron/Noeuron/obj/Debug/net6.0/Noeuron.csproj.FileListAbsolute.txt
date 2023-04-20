@@ -1741,3 +1741,4 @@ C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\build-gz\vepELXU2
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\build-gz\olOd3vpQ.gz
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\build-gz\LJWFWdUU.gz
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\Modeles\Modeles.razor.rz.scp.css
+C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\Prebuilt\Prebuilt.razor.rz.scp.css
