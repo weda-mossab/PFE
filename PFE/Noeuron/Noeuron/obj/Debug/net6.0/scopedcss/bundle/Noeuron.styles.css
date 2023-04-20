@@ -27,7 +27,107 @@
 .facture[b-gugf1s4508]{
     text-decoration: none;
 }
-/* /Pages/ScanFacture/ScanFacture.razor.rz.scp.css */
+/* /Pages/Modeles/Modeles.razor.rz.scp.css */
+*[b-v6d44g2e5z]{
+    font-family: "Segoe UI";
+}
+h2[b-v6d44g2e5z]{
+    font-weight: bold;
+    margin-top: 2%;
+    text-align: center;
+}
+.input-group[b-v6d44g2e5z]{
+    width:95%;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    border-radius:20px ;
+
+}
+.form-control[b-v6d44g2e5z]{
+    border-radius:20px ;
+}
+.form-control:focus[b-v6d44g2e5z]{
+    color: black;
+    box-shadow: 0 0 8px #c0479ac9;
+    border-color: rgba(0, 0, 0, 0.015);
+}
+.table[b-v6d44g2e5z]{
+    width: 95%;
+    align-self: center;
+}
+th[b-v6d44g2e5z]{
+    font-size: 15px;
+}
+.action-btn[b-v6d44g2e5z]{
+    border: none;
+    background-color: transparent;
+}
+.bi-trash-fill[b-v6d44g2e5z]{
+    color: #C04799 ;
+}
+.bi-info-circle[b-v6d44g2e5z]{
+    color:#024662;
+}
+/* /Pages/Scan facture/ScanFacture.razor.rz.scp.css */
+ul[b-7p3rq0yyh5] {
+    margin-left: -3%;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+    margin-top: 8%;
+}
+li[b-7p3rq0yyh5] {
+    flex: 0.5;
+    list-style-type: none;
+    text-align: center;
+    margin: 1rem;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+}
+a[b-7p3rq0yyh5] {
+    display: inline-block;
+    text-decoration: none;
+}
+.click:hover .icon[b-7p3rq0yyh5] {
+    color: #C04799;
+    box-shadow: none;
+}
+.click:hover .title[b-7p3rq0yyh5] {
+    color: #C04799;
+    box-shadow: none;
+}
+
+.title[b-7p3rq0yyh5] {
+    max-width: 12em;
+    margin: auto;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 1em;
+    flex-wrap: wrap;
+    font-weight: blod;
+    margin-bottom: 5px;
+}
+.description[b-7p3rq0yyh5]{
+color: grey;
+text-align: center;
+overflow-wrap: break-word;
+width:90%;
+margin-left: 5%;
+font-size: 15px;
+}
+.icon[b-7p3rq0yyh5]{
+    color:rgb(0, 0, 0);
+    font-size: 4em;
+    margin-bottom: -10px;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-cdmj34ocy0] {
     position: relative;

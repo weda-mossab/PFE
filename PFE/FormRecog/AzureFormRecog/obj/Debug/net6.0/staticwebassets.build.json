@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DICTWPmiLUIMw4fibz/SFHhqSwlhnR7QLgvWMeiRPKo=",
+  "Hash": "ZttbCcUIAy3IOZm9o9OcNvnKP5VV0keTuZVshHOL0J0=",
   "Source": "AzureFormRecog",
   "BasePath": "_content/AzureFormRecog",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "AzureFormRecog\\wwwroot",
       "Source": "AzureFormRecog",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "Pattern": "**"
     }
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\syncfusion.blazor.splitbuttons\\20.4.0.53\\staticwebassets\\scripts\\splitbuttonsbase.min.js"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AzureFormRecog.styles.css",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AzureFormRecog.styles.css",
       "SourceId": "AzureFormRecog",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "AzureFormRecog.styles.css",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AzureFormRecog.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AzureFormRecog.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AzureFormRecog.bundle.scp.css",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AzureFormRecog.bundle.scp.css",
       "SourceId": "AzureFormRecog",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "AzureFormRecog.bundle.scp.css",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AzureFormRecog.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AzureFormRecog.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\Js\\blazorInterop.js",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\Js\\blazorInterop.js",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/Js/blazorInterop.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Js\\blazorInterop.js"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\Js\\Session.js",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\Js\\Session.js",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/Js/Session.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Js\\Session.js"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\css\\site.css",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\favicon.ico",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\files\\malek_zanjabil_pfe.pdf",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\files\\malek_zanjabil_pfe.pdf",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "files/malek_zanjabil_pfe.pdf",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\files\\malek_zanjabil_pfe.pdf"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\files\\TalelMejri.pdf",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\files\\TalelMejri.pdf",
       "SourceId": "AzureFormRecog",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\wwwroot\\",
       "BasePath": "_content/AzureFormRecog",
       "RelativePath": "files/TalelMejri.pdf",
       "AssetKind": "All",

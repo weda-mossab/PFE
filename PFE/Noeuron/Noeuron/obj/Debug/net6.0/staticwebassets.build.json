@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ks2Z2XsfPdbCno4f/pcTcXlmQiVuws7p03ThJM1/ppg=",
+  "Hash": "5WjOn22fQUVDLz5ELBvEcE37r6JETH+eaFv5iDPaGJQ=",
   "Source": "Noeuron",
   "BasePath": "/",
   "Mode": "Root",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.5\\lib\\netstandard2.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -391,6 +391,125 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Abstractions.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Hosting.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\lib\\netstandard2.0\\Microsoft.AspNetCore.Hosting.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Extensions.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Extensions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Extensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Features.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -405,7 +524,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.5\\lib\\netstandard2.0\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.WebUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Bcl.AsyncInterfaces.dll",
@@ -493,6 +629,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.2.4\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -541,7 +694,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
@@ -612,6 +765,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Hosting.Abstractions.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Hosting.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.Extensions.Hosting.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -626,7 +796,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -646,6 +816,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Logging.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.ObjectPool.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\lib\\netstandard2.0\\Microsoft.Extensions.ObjectPool.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -660,7 +847,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\lib\\net6.0\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
@@ -763,6 +950,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.11\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib\\netstandard2.0\\Microsoft.Net.Http.Headers.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -3672,6 +3876,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\+BOiUnvg.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\+OojhZzK.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -4012,23 +4233,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Mail.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\5LPbNwc3.gz",
-      "SourceId": "Noeuron",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\5pBOwmnD.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -4265,6 +4469,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\9G1cwf76.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Extensions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Extensions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Extensions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\9hjvrEZg.gz",
@@ -4556,6 +4777,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\d2fRkfBk.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\d5xv6lJk.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -4726,6 +4964,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\e8vLxcaF.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\e9Px4fLg.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -4794,6 +5049,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\Fgh4JnxD.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Features.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\Fnj+mTrq.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -4826,6 +5098,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\FOFQmJ+Z.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\FY6Vw+H8.gz",
@@ -5047,23 +5336,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\iMBGWJck.gz",
-      "SourceId": "Noeuron",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\imLJMvrI.gz",
@@ -5491,6 +5763,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\WindowsBase.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\LJWFWdUU.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\LM2sTxY2.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -5627,23 +5916,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\MUN9bUD1.gz",
-      "SourceId": "Noeuron",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\MwhPla+s.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -5695,6 +5967,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\n41KXYO1.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\NqPmjF4Q.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -5710,6 +5999,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Expressions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\nunDHmHF.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\nXFmSjWX.gz",
@@ -5778,6 +6084,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\olOd3vpQ.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\ooGtXEFd.gz",
@@ -6171,23 +6494,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.Extensions.Msal.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\RL7Y9W5A.gz",
-      "SourceId": "Noeuron",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\rnua0ODW.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -6443,6 +6749,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\tWCQPo08.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\TXtrzqhk.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -6545,6 +6868,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Serialization.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\v+QZTnCM.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\VBAjCQpk.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -6596,21 +6936,55 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\VJy4yV43.gz",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\ve7s030K.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Abstractions.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Abstractions.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\vepELXU2.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.ObjectPool.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\vm341eNk.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.EnvironmentVariables.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\vmX+5I46.gz",
@@ -7072,6 +7446,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\y2SnpCSv.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\y7+mjkoh.gz",
       "SourceId": "Noeuron",
       "SourceType": "Computed",
@@ -7223,6 +7614,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\build-gz\\zZTR7Kmu.gz",
+      "SourceId": "Noeuron",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Hosting.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Hosting.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Hosting.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Noeuron.styles.css",

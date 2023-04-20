@@ -3330,11 +3330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\AzureFormRecog.csproj",
+      "projectUniqueName": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\AzureFormRecog.csproj",
       "projectName": "AzureFormRecog",
-      "projectPath": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\AzureFormRecog.csproj",
+      "projectPath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\AzureFormRecog.csproj",
       "packagesPath": "C:\\Users\\Weda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\obj\\",
+      "outputPath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Weda\\AppData\\Roaming\\NuGet\\NuGet.Config",
