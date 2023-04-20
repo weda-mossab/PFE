@@ -1,0 +1,112 @@
+@page "/Scanner Facture"
+@* 
+<div class="flex-container center">
+  <div class="row">
+    <i class="bi bi-card-text" style="color: black;"></i>
+    <span class="flex-item">Facture connue</span>
+  </div>
+  <div class="row">
+    <span class="flex-item">Nouvelle facture</span>
+  </div>
+  <div class="row">
+    <span class="flex-item">Pre-built modèle</span>
+  </div>
+
+</div> *@
+
+
+<ul>
+    <li> 
+        <a href="" >
+            <div class="click">
+                <i class="fa fa-file-text-o icon"></i>
+                <div class="title">Utilisez un modèle connu pour avoir des résultats précis</div>
+                <div class="description">Essayez de sélectionner un modèle pour extraire le texte, les tableaux, les repères de sélection et la structure de votre document de facon plus précise.</div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href=""> 
+            <div class="click">
+                <i class="fa fa-address-card-o icon"></i>
+                <div class="title">Utiliser un modèle pré-établi pour obtenir des données</div>
+                <div class="description">Commencez par un modèle pré-établi pour extraire les données de vos formulaires – Factures. Soumettez vos données et obtenez des résultats immédiatement.</div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="">
+            <div class="click">
+                <i class="fa fa-plus icon" aria-hidden="true"></i>
+                <div class="title">Créer un modèle personnalisé pour l'entrainer</div>
+                <div class="description">Essayez de fournir vos propres données de formation et de faire l’apprentissage. Le modèle que vous créez peut former à vos factures spécifiques.</div>
+            </div>
+        </a>
+    </li>
+</ul>
+
+
+
+<style>
+ul {
+    margin-left: -3%;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+    margin-top: 8%;
+}
+li {
+    flex: 0.5;
+    list-style-type: none;
+    text-align: center;
+    margin: 1rem;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+.click:hover .icon {
+    color: #C04799;
+    box-shadow: none;
+}
+.click:hover .title {
+    color: #C04799;
+    box-shadow: none;
+}
+
+.title {
+    max-width: 12em;
+    margin: auto;
+    font-size: 1.3em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 1em;
+    flex-wrap: wrap;
+    font-weight: blod;
+    margin-bottom: 5px;
+}
+.description{
+color: grey;
+text-align: center;
+overflow-wrap: break-word;
+width:90%;
+margin-left: 5%;
+font-size: 15px;
+}
+.icon{
+    color:rgb(0, 0, 0);
+    font-size: 4em;
+    margin-bottom: -10px;
+}
+
+
+      
+</style>

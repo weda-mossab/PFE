@@ -83,6 +83,43 @@
         }
       },
       {
+        "HashCode": 1767040906,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.ScanFacture.ScanFacture",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ScanFacture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.ScanFacture.ScanFacture",
+          "Common.TypeNamespace": "Noeuron.Pages.ScanFacture",
+          "Common.TypeNameIdentifier": "ScanFacture"
+        }
+      },
+      {
+        "HashCode": -1006901368,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.ScanFacture.ScanFacture",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.ScanFacture.ScanFacture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.ScanFacture.ScanFacture",
+          "Common.TypeNamespace": "Noeuron.Pages.ScanFacture",
+          "Common.TypeNameIdentifier": "ScanFacture",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -193239121,
         "Kind": "Components.Component",
         "Name": "Noeuron.Pages.Index.Index",
@@ -16677,6 +16714,11 @@
     {
       "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\ScanFacture\\ScanFacture.razor",
+      "TargetPath": "Pages\\ScanFacture\\ScanFacture.razor",
       "FileKind": "component"
     },
     {

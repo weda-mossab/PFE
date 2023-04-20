@@ -1691,3 +1691,4 @@ C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\refint\Noeuron.dl
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\Noeuron.pdb
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\ref\Noeuron.dll
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\Index\Index.razor.rz.scp.css
+C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\ScanFacture\ScanFacture.razor.rz.scp.css
