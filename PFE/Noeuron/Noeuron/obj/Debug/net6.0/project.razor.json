@@ -194,6 +194,43 @@
         }
       },
       {
+        "HashCode": 997254252,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Modeles_infos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
+          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles_infos"
+        }
+      },
+      {
+        "HashCode": -957691190,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.Modeles.Modeles_infos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
+          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles_infos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -212006775,
         "Kind": "Components.Component",
         "Name": "Noeuron.Pages.Modeles.Modeles",
@@ -231,39 +268,39 @@
         }
       },
       {
-        "HashCode": 997254252,
+        "HashCode": -1609496485,
         "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
+        "Name": "Noeuron.Pages.Modeles.Delete_modele",
         "AssemblyName": "Noeuron",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Modeles_infos"
+            "TagName": "Delete_modele"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Delete_modele",
           "Common.TypeNamespace": "Noeuron.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles_infos"
+          "Common.TypeNameIdentifier": "Delete_modele"
         }
       },
       {
-        "HashCode": -957691190,
+        "HashCode": 530692340,
         "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Modeles.Modeles_infos",
+        "Name": "Noeuron.Pages.Modeles.Delete_modele",
         "AssemblyName": "Noeuron",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Noeuron.Pages.Modeles.Modeles_infos"
+            "TagName": "Noeuron.Pages.Modeles.Delete_modele"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Delete_modele",
           "Common.TypeNamespace": "Noeuron.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles_infos",
+          "Common.TypeNameIdentifier": "Delete_modele",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16817,6 +16854,11 @@
   },
   "RootNamespace": "Noeuron",
   "Documents": [
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\Pages\\Modeles\\Delete_modele.razor",
+      "TargetPath": "Pages\\Modeles\\Delete_modele.razor",
+      "FileKind": "component"
+    },
     {
       "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\App.razor",
       "TargetPath": "App.razor",

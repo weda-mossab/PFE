@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Modeles/Delete_modele.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xEZWxldGVfbW9kZWxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Modeles/Modeles_infos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xNb2RlbGVzX2luZm9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
