@@ -1,5 +1,5 @@
 .row[b-gugf1s4508]{
-    margin-left: -12%;
+    margin-left: -10%;
 }
 .columns[b-gugf1s4508] {
     width: auto;
@@ -16,6 +16,7 @@
 }
 .icon[b-gugf1s4508]{
     color: rgb(0, 0, 0);
+    font-size: 14px;
 }
 .icon:hover[b-gugf1s4508]{
     box-shadow: none;
@@ -23,4 +24,25 @@
 }
 .facture[b-gugf1s4508]{
     text-decoration: none;
+}
+
+@media (max-width: 1250px) {  
+    .row[b-gugf1s4508]{
+        margin-left: -3%;
+    }
+}
+@media (max-width: 1000px) {  
+    .row[b-gugf1s4508]{
+        margin-left: -18%;
+    }
+}
+@media (max-width: 700px) {  
+    .row[b-gugf1s4508]{
+        margin-left: -8%;
+    }
+}
+@media (max-width: 500px) {  
+    .row[b-gugf1s4508]{
+        margin-left: -8%;
+    }
 }
