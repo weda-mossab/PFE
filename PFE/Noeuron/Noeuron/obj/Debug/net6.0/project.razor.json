@@ -83,43 +83,6 @@
         }
       },
       {
-        "HashCode": -212006775,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Modeles.Modeles",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Modeles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles",
-          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles"
-        }
-      },
-      {
-        "HashCode": 585499907,
-        "Kind": "Components.Component",
-        "Name": "Noeuron.Pages.Modeles.Modeles",
-        "AssemblyName": "Noeuron",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Noeuron.Pages.Modeles.Modeles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles",
-          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1609496485,
         "Kind": "Components.Component",
         "Name": "Noeuron.Pages.Modeles.Delete_modele",
@@ -190,6 +153,43 @@
           "Common.TypeName": "Noeuron.Pages.Modeles.Modeles_infos",
           "Common.TypeNamespace": "Noeuron.Pages.Modeles",
           "Common.TypeNameIdentifier": "Modeles_infos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -212006775,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Modeles.Modeles",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Modeles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles",
+          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles"
+        }
+      },
+      {
+        "HashCode": 585499907,
+        "Kind": "Components.Component",
+        "Name": "Noeuron.Pages.Modeles.Modeles",
+        "AssemblyName": "Noeuron",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Noeuron.Pages.Modeles.Modeles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Noeuron.Pages.Modeles.Modeles",
+          "Common.TypeNamespace": "Noeuron.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

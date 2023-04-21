@@ -73,7 +73,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-8r8yOoFrQHgtntJ7EFa\/FNVkMpGLnGStWThSaIxIOMw=",
+      "hash": "sha256-ebpKRqDO4OeCZZ2CUXDV7HiR\/ynCzCDzyRK\/BLg88P0=",
       "url": "Noeuron.styles.css"
     },
     {
@@ -953,11 +953,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-l72bFc78WzPz9eDvtq\/DdPkznM1rldSh6CuVp\/1nivs=",
+      "hash": "sha256-HN4WwXlYl5cXiB8DbuAiY43K9T7qNH8YPAjQBsQ9t1Y=",
       "url": "_framework\/Noeuron.dll"
     },
     {
-      "hash": "sha256-6HXTtdHvaUmPtmRwc8CMWYAmjLOglVRkIaB6\/Y08lKA=",
+      "hash": "sha256-vDdSccPHVSMI1todRKocKLHCg1tTeCuy+JrvJk\/IiNY=",
       "url": "_framework\/Noeuron.pdb"
     },
     {
@@ -965,7 +965,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-nHDsGDKbbSlpo3gYLTZhS\/6gOD0w3SYSgexx9efe0fc=",
+      "hash": "sha256-UBWtiHgAvC9SJyBVTe0O6DDpdS3JArg692SyqAIzA+8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -981,5 +981,5 @@
       "url": "_content\/Blazored.Modal\/Blazored.Modal.bundle.scp.css"
     }
   ],
-  "version": "NBi+upbX"
+  "version": "3E59dai0"
 };
