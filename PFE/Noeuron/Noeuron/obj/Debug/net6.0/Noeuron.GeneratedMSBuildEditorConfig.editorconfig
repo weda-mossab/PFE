@@ -24,6 +24,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Index/UModeles/UModeles_infos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhcVU1vZGVsZXNcVU1vZGVsZXNfaW5mb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Modeles/Delete_modele.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xEZWxldGVfbW9kZWxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +52,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-gugf1s4508
 
+[C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Index/UModeles/UModeles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhcVU1vZGVsZXNcVU1vZGVsZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-inodc7pola
+
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Modeles/Modeles.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xNb2RlbGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-v6d44g2e5z
@@ -59,6 +67,10 @@ build_metadata.AdditionalFiles.CssScope = b-f14ggkn5el
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/Scan facture/ScanFacture.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhbiBmYWN0dXJlXFNjYW5GYWN0dXJlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-7p3rq0yyh5
+
+[C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Pages/User Scan Facture/UScan_facture.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlciBTY2FuIEZhY3R1cmVcVVNjYW5fZmFjdHVyZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5xnzspfn3o
 
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

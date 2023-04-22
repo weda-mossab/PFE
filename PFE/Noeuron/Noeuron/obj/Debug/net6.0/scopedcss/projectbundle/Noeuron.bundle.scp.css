@@ -61,11 +61,18 @@ h2[b-v6d44g2e5z]{
     justify-content: center;
     display: flex;
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
-    border-radius:20px ;
-
+    border-radius:10px ;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
 }
 .form-control[b-v6d44g2e5z]{
-    border-radius:20px ;
+    border-radius:5px ;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:5px ;
+    -ms-border-radius:5px ;
+    -o-border-radius:5px ;
 }
 .form-control:focus[b-v6d44g2e5z]{
     color: black;
@@ -88,6 +95,23 @@ th[b-v6d44g2e5z]{
 }
 .bi-info-circle[b-v6d44g2e5z]{
     color:#024662;
+}
+.btn[b-v6d44g2e5z]{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    background-color: #C04799;
+    font-size: 14px;
+    float: right;
+    font-weight: 600;
+    margin: 0% 3% 1% 0%;
+    color: white;
+}
+.btn:hover[b-v6d44g2e5z]{
+    background-color: #a93986;
 }
 /* /Pages/Prebuilt/Prebuilt.razor.rz.scp.css */
 *[b-f14ggkn5el]{
@@ -516,18 +540,19 @@ a[b-7p3rq0yyh5] {
 color: grey;
 text-align: center;
 overflow-wrap: break-word;
-width:90%;
-margin-left: 5%;
+width:80%;
+margin-left: 10%;
 font-size: 15px;
 }
 .icon[b-7p3rq0yyh5]{
     color:rgb(0, 0, 0);
     font-size: 4em;
-    margin-bottom: -10px;
+    margin-bottom: 15px;
 }
 
 @media (max-width: 1250px) {  
 }
+/* /Pages/User Scan Facture/UScan_facture.razor.rz.scp.css */
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-cdmj34ocy0] {
     position: relative;
