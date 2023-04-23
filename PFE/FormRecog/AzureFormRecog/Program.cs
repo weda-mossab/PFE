@@ -1,8 +1,5 @@
 using AzureFormRecog.Data;
 using AzureFormRecog.Services;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Components.Web;
-using Microsoft.Extensions.FileProviders;
 using Blazored.Modal;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,7 +9,6 @@ builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
 builder.Services.AddScoped<IFileUpload, FileUpload>();
 builder.Services.AddBlazoredModal();
-builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor().AddHubOptions(o => { o.MaximumReceiveMessageSize = 102400000; });
 
 

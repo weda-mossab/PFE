@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AzureFormRecog
 build_property.RootNamespace = AzureFormRecog
-build_property.ProjectDir = c:\Users\Weda\Desktop\Sujet 4 PFE\PFE\FormRecog\AzureFormRecog\
+build_property.ProjectDir = c:\Users\Weda\Desktop\PFE\PFE\FormRecog\AzureFormRecog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Weda\Desktop\Sujet 4 PFE\PFE\FormRecog\AzureFormRecog
+build_property.MSBuildProjectDirectory = c:\Users\Weda\Desktop\PFE\PFE\FormRecog\AzureFormRecog
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/App.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/Counter.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/IDCard.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/IDCard.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSURDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/Index.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/Models_infos.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/Models_infos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxzX2luZm9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/Receipt.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/Receipt.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVjZWlwdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Shared/SurveyPrompt.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/_Imports.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/CustomRecog.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/CustomRecog.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tUmVjb2cucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-a73uxleqef
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/InvoiceForm.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/InvoiceForm.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52b2ljZUZvcm0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-g0jtbcrkkw
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/Models.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/Models.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-p4mhdccdkg
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Shared/MainLayout.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-xfhkfw31u5
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Shared/Navbar.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Shared/Navbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-p402udr356
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/Error.cshtml]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/_Host.cshtml]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Weda/Desktop/Sujet 4 PFE/PFE/FormRecog/AzureFormRecog/Pages/_Layout.cshtml]
+[c:/Users/Weda/Desktop/PFE/PFE/FormRecog/AzureFormRecog/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
