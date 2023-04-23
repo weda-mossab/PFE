@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ILqwo0W4LgzA+270A9xBr6XAAOKbHRaQ7Cz+W7Oa0OsRf9xV6msah1BziVmehZnIDrXNsXMitsV7f1BtkXUZgw==",
+  "dgSpecHash": "rxUiHq+PxbtjMW6/LYdpm3w46IrxFTk1QXtPLzbYp7WFtQ8fzDuVq43A4JJOeljodhzXFZIEWCaXrlUHSenK6g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Weda\\Desktop\\FormRecog\\AzureFormRecog\\AzureFormRecog.csproj",
+  "projectFilePath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\FormRecog\\AzureFormRecog\\AzureFormRecog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Weda\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\azure.ai.formrecognizer.4.0.0.nupkg.sha512",
     "C:\\Users\\Weda\\.nuget\\packages\\azure.core\\1.28.0\\azure.core.1.28.0.nupkg.sha512",

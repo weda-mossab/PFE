@@ -1,0 +1,65 @@
+*[b-v6d44g2e5z]{
+    font-family: "Segoe UI";
+}
+h2[b-v6d44g2e5z]{
+    font-weight: bold;
+    margin-top: 2%;
+    text-align: center;
+}
+.input-group[b-v6d44g2e5z]{
+    width:95%;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    border-radius:10px ;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+}
+.form-control[b-v6d44g2e5z]{
+    border-radius:5px ;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:5px ;
+    -ms-border-radius:5px ;
+    -o-border-radius:5px ;
+}
+.form-control:focus[b-v6d44g2e5z]{
+    color: black;
+    box-shadow: 0 0 8px #c0479ac9;
+    border-color: rgba(0, 0, 0, 0.015);
+}
+.table[b-v6d44g2e5z]{
+    width: 95%;
+    align-self: center;
+}
+th[b-v6d44g2e5z]{
+    font-size: 15px;
+}
+.action-btn[b-v6d44g2e5z]{
+    border: none;
+    background-color: transparent;
+}
+.bi-trash-fill[b-v6d44g2e5z]{
+    color: #C04799 ;
+}
+.bi-info-circle[b-v6d44g2e5z]{
+    color:#024662;
+}
+.btn[b-v6d44g2e5z]{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: none;
+    background-color: #C04799;
+    font-size: 14px;
+    float: right;
+    font-weight: 600;
+    margin: 0% 3% 1% 0%;
+    color: white;
+}
+.btn:hover[b-v6d44g2e5z]{
+    background-color: #a93986;
+}
