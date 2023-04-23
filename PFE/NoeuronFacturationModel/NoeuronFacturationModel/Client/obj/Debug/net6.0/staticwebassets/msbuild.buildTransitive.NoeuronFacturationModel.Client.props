@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NoeuronFacturationModel.Client.props" />
+</Project>
