@@ -373,4 +373,8 @@ color: #ffffff;
     margin-left: 34%;
 }
 .custom-file-input[b-f14ggkn5el]{
-margin-left: 60px;}
+margin-left: 60px;
+}
+.inputfile[b-f14ggkn5el]{
+    margin-top: 10%;
+}

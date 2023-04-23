@@ -1743,4 +1743,4 @@ C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\M
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\Prebuilt\Prebuilt.razor.rz.scp.css
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\Scan facture\ScanFacture.razor.rz.scp.css
 C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\User Scan Facture\UScan_facture.razor.rz.scp.css
-C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\Index\UModeles\UModeles.razor.rz.scp.css
+C:\Users\Weda\Desktop\PFE\PFE\Noeuron\Noeuron\obj\Debug\net6.0\scopedcss\Pages\UModeles\UModeles.razor.rz.scp.css

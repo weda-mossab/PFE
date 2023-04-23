@@ -1,12 +1,12 @@
-*[b-inodc7pola]{
+*[b-4i9ed2pjwm]{
     font-family: "Segoe UI";
 }
-h2[b-inodc7pola]{
+h2[b-4i9ed2pjwm]{
     font-weight: bold;
     margin-top: 2%;
     text-align: center;
 }
-.input-group[b-inodc7pola]{
+.input-group[b-4i9ed2pjwm]{
     width:95%;
     justify-content: center;
     display: flex;
@@ -14,28 +14,28 @@ h2[b-inodc7pola]{
     border-radius:20px ;
 
 }
-.form-control[b-inodc7pola]{
+.form-control[b-4i9ed2pjwm]{
     border-radius:20px ;
 }
-.form-control:focus[b-inodc7pola]{
+.form-control:focus[b-4i9ed2pjwm]{
     color: black;
     box-shadow: 0 0 8px #c0479ac9;
     border-color: rgba(0, 0, 0, 0.015);
 }
-.table[b-inodc7pola]{
+.table[b-4i9ed2pjwm]{
     width: 95%;
     align-self: center;
 }
-th[b-inodc7pola]{
+th[b-4i9ed2pjwm]{
     font-size: 15px;
 }
-.action-btn[b-inodc7pola]{
+.action-btn[b-4i9ed2pjwm]{
     border: none;
     background-color: transparent;
 }
-.bi-trash-fill[b-inodc7pola]{
+.bi-trash-fill[b-4i9ed2pjwm]{
     color: #C04799 ;
 }
-.bi-info-circle[b-inodc7pola]{
+.bi-info-circle[b-4i9ed2pjwm]{
     color:#024662;
 }
