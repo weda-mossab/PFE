@@ -10,3 +10,15 @@ C:\Users\MedNourBn\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationMod
 C:\Users\MedNourBn\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\refint\NoeuronFacturationModel.Shared.dll
 C:\Users\MedNourBn\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.pdb
 C:\Users\MedNourBn\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\ref\NoeuronFacturationModel.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\bin\Debug\net6.0\NoeuronFacturationModel.Shared.deps.json
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\bin\Debug\net6.0\NoeuronFacturationModel.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\bin\Debug\net6.0\NoeuronFacturationModel.Shared.pdb
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.csproj.AssemblyReference.cache
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.AssemblyInfoInputs.cache
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.AssemblyInfo.cs
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\refint\NoeuronFacturationModel.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\NoeuronFacturationModel.Shared.pdb
+C:\Users\Weda\Desktop\PFE\PFE\NoeuronFacturationModel\NoeuronFacturationModel\Shared\obj\Debug\net6.0\ref\NoeuronFacturationModel.Shared.dll

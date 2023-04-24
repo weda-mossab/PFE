@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\content-scan.svg",
+      "PackagePath": "staticwebassets\\content-scan.svg"
+    },
+    {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -69,20 +73,40 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\dots.svg",
+      "PackagePath": "staticwebassets\\dots.svg"
+    },
+    {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\gear.svg",
+      "PackagePath": "staticwebassets\\gear.svg"
     },
     {
-      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-512.png",
-      "PackagePath": "staticwebassets\\icon-512.png"
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-192.ico",
+      "PackagePath": "staticwebassets\\icon-192.ico"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-512.ico",
+      "PackagePath": "staticwebassets\\icon-512.ico"
     },
     {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\label.svg",
+      "PackagePath": "staticwebassets\\label.svg"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\logoapp.svg",
+      "PackagePath": "staticwebassets\\logoapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\logosnoeuron.svg",
+      "PackagePath": "staticwebassets\\logosnoeuron.svg"
     },
     {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\manifest.json",

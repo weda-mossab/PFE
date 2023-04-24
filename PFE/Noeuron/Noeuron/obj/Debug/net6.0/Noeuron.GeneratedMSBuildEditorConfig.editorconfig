@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVU1vZGVsZXNcVU1vZGVsZXNfaW5mb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/Sidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNpZGViYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -75,6 +79,10 @@ build_metadata.AdditionalFiles.CssScope = b-5xnzspfn3o
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cdmj34ocy0
+
+[C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c7b4og35nu
 
 [C:/Users/Weda/Desktop/PFE/PFE/Noeuron/Noeuron/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=

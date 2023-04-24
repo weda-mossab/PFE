@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj": {}
+    "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj": {
+    "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj",
         "projectName": "NoeuronFacturationModel.Shared",
-        "projectPath": "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj",
-        "packagesPath": "C:\\Users\\MedNourBn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MedNourBn\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\NoeuronFacturationModel.Shared.csproj",
+        "packagesPath": "C:\\Users\\Weda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MedNourBn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Weda\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,40 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.AI.FormRecognizer": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

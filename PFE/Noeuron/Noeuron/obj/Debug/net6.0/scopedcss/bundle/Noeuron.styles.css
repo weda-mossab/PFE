@@ -683,6 +683,66 @@ main[b-cdmj34ocy0] {
         padding-right: 1.5rem !important;
     }
 }
+/* /Shared/Navbar.razor.rz.scp.css */
+/* nav ul li{   
+ margin:0 20px; 
+ font-weight: 600;
+}
+
+.links{
+    margin-left: 10%;
+}
+
+*/
+
+i[b-c7b4og35nu]{
+    color: #C04799 ;
+    font-weight: bold; 
+}
+
+a[b-c7b4og35nu]{
+ color: #024662;
+}
+
+nav[b-c7b4og35nu] {
+    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.075);
+}
+.navbar[b-c7b4og35nu]{
+    padding: 0rem ;
+}
+
+.logo[b-c7b4og35nu]{
+    margin-left: 1%;
+}
+
+.logo-app[b-c7b4og35nu] {
+    width:140px;
+    height:1;
+    margin-left: 0.5rem;
+} 
+
+.hide-show-btn[b-c7b4og35nu] {
+    position: absolute;
+    background-color: greenyellow;
+    height: 36px;
+    width: 36px;
+    border-bottom-right-radius: 4px;
+    padding: 4px;
+}
+
+    .hide-show-btn:hover[b-c7b4og35nu] {
+        cursor: pointer;
+        opacity: 0.9;
+    }
+
+.arrow[b-c7b4og35nu] {
+    transition: var(--transition-props);
+}
+
+    .arrow.reversed[b-c7b4og35nu] {
+        transform: rotate(180deg);
+        transition: var(--transition-props);
+    }
 /* /Shared/NavMenu.razor.rz.scp.css */
 .navbar-toggler[b-2x3iqpldhf] {
     background-color: rgba(255, 255, 255, 0.1);

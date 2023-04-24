@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5WjOn22fQUVDLz5ELBvEcE37r6JETH+eaFv5iDPaGJQ=",
+  "Hash": "dFtGT9EeKSRMrHOcWCxbLAHcxOOIsqtI4mhQXSbsu4o=",
   "Source": "Noeuron",
   "BasePath": "/",
   "Mode": "Root",
@@ -7735,6 +7735,23 @@
       "OriginalItemSpec": "wwwroot\\service-worker.published.js"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\content-scan.svg",
+      "SourceId": "Noeuron",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "content-scan.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content-scan.svg"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\css\\app.css",
       "SourceId": "Noeuron",
       "SourceType": "Discovered",
@@ -7939,6 +7956,23 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\dots.svg",
+      "SourceId": "Noeuron",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "dots.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dots.svg"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\favicon.ico",
       "SourceId": "Noeuron",
       "SourceType": "Discovered",
@@ -7956,12 +7990,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-192.png",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\gear.svg",
       "SourceId": "Noeuron",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "icon-192.png",
+      "RelativePath": "gear.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7970,15 +8004,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
+      "OriginalItemSpec": "wwwroot\\gear.svg"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-512.png",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-192.ico",
       "SourceId": "Noeuron",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "icon-512.png",
+      "RelativePath": "icon-192.ico",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7987,7 +8021,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-512.png"
+      "OriginalItemSpec": "wwwroot\\icon-192.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\icon-512.ico",
+      "SourceId": "Noeuron",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icon-512.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon-512.ico"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\index.html",
@@ -8005,6 +8056,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\label.svg",
+      "SourceId": "Noeuron",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "label.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\label.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\logoapp.svg",
+      "SourceId": "Noeuron",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logoapp.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logoapp.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\logosnoeuron.svg",
+      "SourceId": "Noeuron",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logosnoeuron.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logosnoeuron.svg"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\Noeuron\\Noeuron\\wwwroot\\manifest.json",
