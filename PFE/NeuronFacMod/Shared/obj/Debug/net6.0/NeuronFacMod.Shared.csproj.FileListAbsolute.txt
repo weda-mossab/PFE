@@ -1,0 +1,12 @@
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\bin\Debug\net6.0\NeuronFacMod.Shared.deps.json
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\bin\Debug\net6.0\NeuronFacMod.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\bin\Debug\net6.0\NeuronFacMod.Shared.pdb
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.csproj.AssemblyReference.cache
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.AssemblyInfoInputs.cache
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.AssemblyInfo.cs
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\refint\NeuronFacMod.Shared.dll
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\NeuronFacMod.Shared.pdb
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Shared\obj\Debug\net6.0\ref\NeuronFacMod.Shared.dll

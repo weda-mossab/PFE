@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZN2YIqyIhTnsIIPjDy4ViJ0e/cljOGkXSlIHglCHJJT+8nIefL0N02zX3asctLEbbJNxr8DmekEjmcOwdg/DZw==",
+  "dgSpecHash": "XnIPYfmEt8wnetf98PLADdMcza/AhxeFUW3Q1D23uuzqaQ8X+CDRh0KEynSZckaMn7GoIR3AghrmdHqVZ4pk4g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NoeuronFacturationModel\\NoeuronFacturationModel\\Client\\NoeuronFacturationModel.Client.csproj",
   "expectedPackageFiles": [
@@ -64,8 +64,7 @@
     "C:\\Users\\Weda\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Weda\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\Weda\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\Weda\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.13.nupkg.sha512"
+    "C:\\Users\\Weda\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

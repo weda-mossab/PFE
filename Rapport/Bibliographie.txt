@@ -1,3 +1,25 @@
+1: https://www.planzone.fr/blog/quest-ce-que-la-methodologie-scrum
+2: https://www.appvizer.fr/magazine/operations/gestion-de-projet/sprint-planning
+3: https://www.planzone.fr/blog/quest-ce-que-la-methodologie-scrum
+4: https://www.appvizer.fr/magazine/operations/gestion-de-projet/sprint-review
+5: https://www.appvizer.fr/magazine/operations/gestion-de-projet/sprint-retrospective
+6: https://learn.microsoft.com/fr-fr/visualstudio/get-started/visual-studio-ide?view=vs-2022
+7: https://framalibre.org/content/visual-studio-code
+8: https://fr.wikipedia.org/wiki/GitHub
+9: https://www.tice-education.fr/tous-les-articles-er-ressources/articles-internet/819-draw-io-un-outil-pour-dessiner-des-diagrammes-en-ligne
+10: https://www.effidic.fr/glossaire/2799/
+11: https://easypartner.fr/blog/asp-net-le-framework-web-de-microsoft/
+12: https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/
+13: https://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1511271-azure-le-cloud-de-microsoft-en-un-coup-d-oeil/
+
+
 https://learn.microsoft.com/fr-fr/rest/api/formrecognizer/
 
 azure devops : https://www.effidic.fr/glossaire/2799/
+
+3 nimo pfe: https://miro.com/app/board/uXjVPpZYJi8=/#_=_
+
+4 fragment : https://fr.reactjs.org/docs/fragments.html
+
+
+
