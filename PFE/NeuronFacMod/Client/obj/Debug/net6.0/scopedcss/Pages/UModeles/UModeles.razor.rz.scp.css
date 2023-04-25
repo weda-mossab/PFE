@@ -1,0 +1,49 @@
+*[b-eox5lfxmaa] {
+    font-family: "Segoe UI";
+}
+
+h2[b-eox5lfxmaa] {
+    font-weight: bold;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.input-group[b-eox5lfxmaa] {
+    width: 95%;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+
+.form-control[b-eox5lfxmaa] {
+    border-radius: 20px;
+}
+
+    .form-control:focus[b-eox5lfxmaa] {
+        color: black;
+        box-shadow: 0 0 8px #c0479ac9;
+        border-color: rgba(0, 0, 0, 0.015);
+    }
+
+.table[b-eox5lfxmaa] {
+    width: 95%;
+    align-self: center;
+}
+
+th[b-eox5lfxmaa] {
+    font-size: 15px;
+}
+
+.action-btn[b-eox5lfxmaa] {
+    border: none;
+    background-color: transparent;
+}
+
+.bi-trash-fill[b-eox5lfxmaa] {
+    color: #C04799;
+}
+
+.bi-info-circle[b-eox5lfxmaa] {
+    color: #024662;
+}
