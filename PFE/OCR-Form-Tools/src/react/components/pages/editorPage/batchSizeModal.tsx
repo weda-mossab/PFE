@@ -2,7 +2,7 @@ import {Customizer, ICustomizations, IModalStyles, Modal, PrimaryButton, Slider}
 import React from "react";
 import {ModalBody} from "reactstrap";
 import {constants} from "../../../../common/constants";
-import {getDarkGreyTheme, getPrimaryGreenTheme, getPrimaryGreyTheme} from "../../../../common/themes";
+import {getDefaultTheme, getPrimaryGreenTheme, getPrimaryGreyTheme} from "../../../../common/themes";
 
 interface IBatchSizeModalProps {
     onConfirm?: (batchSize: number) => void;
@@ -45,7 +45,7 @@ export class BatchSizeModal extends React.Component<IBatchSizeModalProps, IBatch
     render() {
         const dark: ICustomizations = {
             settings: {
-                theme: getDarkGreyTheme(),
+                theme: getDefaultTheme(),
             },
             scopedSettings: {},
         };

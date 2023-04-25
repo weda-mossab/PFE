@@ -7,7 +7,7 @@ import React, {SyntheticEvent} from 'react';
 import {ModalHeader} from 'reactstrap';
 import {isElectron} from "../../../../common/hostProcess";
 import {strings} from '../../../../common/strings';
-import {getDarkGreyTheme, getPrimaryRedTheme} from '../../../../common/themes';
+import {getDefaultTheme, getPrimaryRedTheme} from '../../../../common/themes';
 import {IConnection, IProject} from '../../../../models/applicationState';
 import CondensedList from '../../common/condensedList/condensedList';
 import Confirm from '../../common/confirm/confirm';
@@ -57,7 +57,7 @@ export class HomeProjectView extends React.Component<Partial<IHomeProjectViewPro
     render() {
         const dark: ICustomizations = {
             settings: {
-                theme: getDarkGreyTheme(),
+                theme: getDefaultTheme(),
             },
             scopedSettings: {},
         };
