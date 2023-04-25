@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronFacMod.Server", "Server\NeuronFacMod.Server.csproj", "{A9AB683D-11E1-4DB0-96FF-C5FC0F7AF71E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuronFacMod.Server", "Server\NeuronFacMod.Server.csproj", "{A9AB683D-11E1-4DB0-96FF-C5FC0F7AF71E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronFacMod.Client", "Client\NeuronFacMod.Client.csproj", "{B08ABAAE-5966-423C-95DE-E930326CD7AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuronFacMod.Client", "Client\NeuronFacMod.Client.csproj", "{B08ABAAE-5966-423C-95DE-E930326CD7AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronFacMod.Shared", "Shared\NeuronFacMod.Shared.csproj", "{7FC1C4D5-B953-4F2A-BEFE-3CE32F790D00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuronFacMod.Shared", "Shared\NeuronFacMod.Shared.csproj", "{7FC1C4D5-B953-4F2A-BEFE-3CE32F790D00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\content-scan.svg",
+      "PackagePath": "staticwebassets\\content-scan.svg"
+    },
+    {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -69,8 +73,16 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\dots.svg",
+      "PackagePath": "staticwebassets\\dots.svg"
+    },
+    {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\gear.svg",
+      "PackagePath": "staticwebassets\\gear.svg"
     },
     {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\icon-192.png",
@@ -83,6 +95,18 @@
     {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\label.svg",
+      "PackagePath": "staticwebassets\\label.svg"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\logoapp.svg",
+      "PackagePath": "staticwebassets\\logoapp.svg"
+    },
+    {
+      "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\logosnoeuron.svg",
+      "PackagePath": "staticwebassets\\logosnoeuron.svg"
     },
     {
       "Id": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\manifest.json",

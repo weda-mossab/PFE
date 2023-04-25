@@ -1,0 +1,49 @@
+﻿* {
+    font-family: "Segoe UI";
+}
+
+h2 {
+    font-weight: bold;
+    margin-top: 2%;
+    text-align: center;
+}
+
+.input-group {
+    width: 95%;
+    justify-content: center;
+    display: flex;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+    .form-control:focus {
+        color: black;
+        box-shadow: 0 0 8px #c0479ac9;
+        border-color: rgba(0, 0, 0, 0.015);
+    }
+
+.table {
+    width: 95%;
+    align-self: center;
+}
+
+th {
+    font-size: 15px;
+}
+
+.action-btn {
+    border: none;
+    background-color: transparent;
+}
+
+.bi-trash-fill {
+    color: #C04799;
+}
+
+.bi-info-circle {
+    color: #024662;
+}

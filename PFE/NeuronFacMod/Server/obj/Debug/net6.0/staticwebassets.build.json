@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xdNC0MD4lU3AbdridMilyZADt9M7e6yz5IQQ0KfPLe0=",
+  "Hash": "8k8O/NaYV2AsAVUwPbD9MILQGil81SqaydH922oh0+8=",
   "Source": "NeuronFacMod.Server",
   "BasePath": "_content/NeuronFacMod.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "NeuronFacMod.Client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
@@ -28,6 +28,108 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css",
+      "SourceId": "Blazored.Modal",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Modal",
+      "RelativePath": "Blazored.Modal.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\Blazored.Modal.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js",
+      "SourceId": "Blazored.Modal",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Modal",
+      "RelativePath": "BlazoredModal.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\staticwebassets\\BlazoredModal.razor.js"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\.nuget\\packages\\blazorinputfile\\0.2.0\\staticwebassets\\inputfile.js",
+      "SourceId": "BlazorInputFile",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Weda\\.nuget\\packages\\blazorinputfile\\0.2.0\\staticwebassets\\",
+      "BasePath": "_content/BlazorInputFile",
+      "RelativePath": "inputfile.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\blazorinputfile\\0.2.0\\staticwebassets\\inputfile.js"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.AI.FormRecognizer.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Azure.AI.FormRecognizer.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\lib\\netstandard2.0\\Azure.AI.FormRecognizer.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.Core.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Azure.Core.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\azure.core\\1.31.0\\lib\\net6.0\\Azure.Core.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.Identity.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Azure.Identity.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\azure.identity\\1.9.0-beta.3\\lib\\netstandard2.0\\Azure.Identity.dll"
+    },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "NeuronFacMod.Client",
@@ -61,6 +163,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.11\\build\\net6.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Modal.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Modal.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\blazored.modal\\7.1.0\\lib\\net6.0\\Blazored.Modal.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorInputFile.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorInputFile.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\blazorinputfile\\0.2.0\\lib\\netstandard2.1\\BlazorInputFile.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.13.9ax1w4ojaz.js",
@@ -114,23 +250,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -182,6 +301,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\native\\icudt.dat"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -196,7 +332,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0-preview.3.23177.8\\lib\\netstandard2.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -267,6 +403,125 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Abstractions.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Hosting.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\lib\\netstandard2.0\\Microsoft.AspNetCore.Hosting.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Extensions.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Extensions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Extensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Features.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -281,7 +536,41 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.11\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.0-preview.3.23177.8\\lib\\netstandard2.0\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.WebUtilities.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Bcl.AsyncInterfaces.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\lib\\netstandard2.1\\Microsoft.Bcl.AsyncInterfaces.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -352,6 +641,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.2.4\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -400,7 +706,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
@@ -434,7 +740,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll",
@@ -451,7 +757,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.FileProviders.Physical.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll",
@@ -468,7 +774,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Hosting.Abstractions.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Hosting.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\lib\\netstandard2.0\\Microsoft.Extensions.Hosting.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
@@ -485,7 +808,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -505,6 +828,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Logging.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.ObjectPool.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\lib\\netstandard2.0\\Microsoft.Extensions.ObjectPool.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -519,7 +859,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.options\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
@@ -536,7 +876,58 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.3.23174.8\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Identity.Client.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.identity.client\\4.49.1\\lib\\net6.0\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Identity.Client.Extensions.Msal.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.25.3\\lib\\netcoreapp3.1\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Abstractions.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\lib\\net6.0\\Microsoft.IdentityModel.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
@@ -571,6 +962,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.11\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib\\netstandard2.0\\Microsoft.Net.Http.Headers.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -1712,6 +2120,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\lib\\net6.0\\System.Linq.Queryable.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.Data.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Memory.Data.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\system.memory.data\\1.0.2\\lib\\netstandard2.0\\System.Memory.Data.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.dll",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -2800,6 +3225,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.13\\runtimes\\browser-wasm\\lib\\net6.0\\System.Security.Cryptography.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.ProtectedData.dll",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Cryptography.ProtectedData.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\lib\\netstandard2.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.dll",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -3599,6 +4041,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\1FTYWLNg.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Bcl.AsyncInterfaces.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\1jv4MkKe.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -3803,23 +4262,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Mail.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\5LPbNwc3.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\5pBOwmnD.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -3835,6 +4277,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.Linq.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\6BIs3VF7.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\6eE+2zzh.gz",
@@ -4041,6 +4500,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\9G1cwf76.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Extensions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Extensions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Extensions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\9hjvrEZg.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4090,6 +4566,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\a07agkn5.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Memory.Data.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.Data.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.Data.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\a3+WVXPZ.gz",
@@ -4177,6 +4670,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\bHu+j+fH.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Azure.Identity.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.Identity.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.Identity.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\BjWT40rH.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4262,40 +4772,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\c+gIvwKt.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\CM5YZJ1o.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\cVMsIQK0.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4313,6 +4789,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\d2fRkfBk.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\d5xv6lJk.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4328,6 +4821,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Primitives.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\DbkWJwZB.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.IdentityModel.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.IdentityModel.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\DbzsvQu1.gz",
@@ -4449,6 +4959,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\e8vLxcaF.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\e9Px4fLg.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4483,6 +5010,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\eq+mCXwx.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Azure.AI.FormRecognizer.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.AI.FormRecognizer.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.AI.FormRecognizer.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\F6Nz7gn7.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4500,6 +5044,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\Fgh4JnxD.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Features.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Features.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\Fnj+mTrq.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4515,6 +5076,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\FOFQmJ+Z.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\FUTDmX8D.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\FY6Vw+H8.gz",
@@ -4617,6 +5212,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\HhFzbiCP.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\HS3N2+OF.gz",
@@ -4738,23 +5350,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\iMBGWJck.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\imLJMvrI.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -4872,6 +5467,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\j5SS0OHb.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\JaYYeta6.gz",
@@ -5146,6 +5758,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\KZOYBbU2.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Security.Cryptography.ProtectedData.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.ProtectedData.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\L+UolqaQ.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5197,6 +5826,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\WindowsBase.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\LJWFWdUU.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\LM2sTxY2.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5229,6 +5875,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Primitives.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\lrsR884U.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\lU0ICJfB.gz",
@@ -5350,23 +6013,6 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\MUN9bUD1.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\MwhPla+s.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5435,6 +6081,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Expressions.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\nunDHmHF.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\nXFmSjWX.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5501,6 +6164,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\OjfmjyCW.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\ooGtXEFd.gz",
@@ -5673,6 +6353,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\QEXWtJ9j.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\qfXF+oxY.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5775,6 +6472,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\R0cos+u4.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Modal.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Modal.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.Modal.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\rdD+Zbv7.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5809,21 +6523,21 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Thread.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\RL7Y9W5A.gz",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\RhLZE7u0.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "RelativePath": "_framework/Microsoft.Identity.Client.Extensions.Msal.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.Extensions.Msal.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.Extensions.Msal.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\rnua0ODW.gz",
@@ -5841,6 +6555,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\rpba1aLZ.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Azure.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Azure.Core.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\RPLJhK3G.gz",
@@ -5877,6 +6608,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Web.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\S0O9QCqH.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Identity.Client.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Identity.Client.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\S3ugDVwV.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5894,6 +6642,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\sF66vG6O.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\SMhRV5Uu.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -5909,23 +6674,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\sO3vir3x.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\SqExdzBJ.gz",
@@ -5994,6 +6742,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\TcO6jyPS.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\TGpPqkgb.gz",
@@ -6098,6 +6863,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NeuronFacMod.Shared.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\tWCQPo08.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\TXtrzqhk.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -6130,23 +6912,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\UENSrCg2.gz",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\UjSWqwpL.gz",
@@ -6268,21 +7033,55 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\VJy4yV43.gz",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\ve7s030K.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Hosting.Abstractions.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Abstractions.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Hosting.Abstractions.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\vepELXU2.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.ObjectPool.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.ObjectPool.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\vm341eNk.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Configuration.EnvironmentVariables.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.EnvironmentVariables.dll"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\vmX+5I46.gz",
@@ -6829,6 +7628,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\z9sc+lH7.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorInputFile.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorInputFile.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\BlazorInputFile.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\Zj3E+zp+.gz",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -6880,6 +7696,23 @@
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.dll"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\build-gz\\zZTR7Kmu.gz",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Hosting.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Hosting.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Hosting.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NeuronFacMod.Client.styles.css",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -6895,6 +7728,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NeuronFacMod.Client.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js.build",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker-assets.js",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorServiceWorker",
+      "AssetTraitValue": "ServiceWorkerManifest",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js.build"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.js",
@@ -6914,21 +7764,21 @@
       "OriginalItemSpec": "wwwroot\\service-worker.js"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js.build",
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\content-scan.svg",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "service-worker-assets.js",
-      "AssetKind": "Build",
+      "RelativePath": "content-scan.svg",
+      "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
       "RelatedAsset": "",
-      "AssetTraitName": "BlazorServiceWorker",
-      "AssetTraitValue": "ServiceWorkerManifest",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js.build"
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\content-scan.svg"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\css\\app.css",
@@ -6980,6 +7830,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -7084,23 +7951,6 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "NeuronFacMod.Client",
-      "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -7135,6 +7985,23 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\dots.svg",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "dots.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dots.svg"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\favicon.ico",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -7150,6 +8017,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\gear.svg",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "gear.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gear.svg"
     },
     {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\icon-192.png",
@@ -7203,6 +8087,57 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\label.svg",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "label.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\label.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\logoapp.svg",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logoapp.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logoapp.svg"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\logosnoeuron.svg",
+      "SourceId": "NeuronFacMod.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "logosnoeuron.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logosnoeuron.svg"
+    },
+    {
       "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\wwwroot\\manifest.json",
       "SourceId": "NeuronFacMod.Client",
       "SourceType": "Project",
@@ -7218,6 +8153,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Server\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NeuronFacMod.Server.styles.css",
+      "SourceId": "NeuronFacMod.Server",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Server\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/NeuronFacMod.Server",
+      "RelativePath": "NeuronFacMod.Server.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Server\\obj\\Debug\\net6.0\\scopedcss\\bundle\\NeuronFacMod.Server.styles.css"
     }
   ]
 }
