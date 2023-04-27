@@ -2,7 +2,9 @@
     color: white;
     font-family: "Segoe UI";
 }
-
+li{
+    margin-bottom: 15px;
+}
 .title {
     text-align: center;
 }
@@ -26,8 +28,7 @@
     right: 250px;
     width: 0;
     height: 550px;
-    margin-top: -43%;
-    margin-right: -230px;
+    margin-right: -245px;
     overflow-y: auto;
     background: #1F466F;
     -webkit-transition: all 0.5s ease;
@@ -46,7 +47,7 @@
 }
 
 #sidebar-wrapper {
-    width: 350px;
+    width: 27%;
 }
 
 .btn {
@@ -70,10 +71,12 @@
 }
 
 .sidebar {
-    background-color: aqua;
     width: 100%;
 }
  .choose_file{
+  margin-bottom: 10px;
+ }
+ .steps{
     text-align: center;
     overflow: hidden;
     color: #024662;
@@ -84,31 +87,19 @@
 /* Create two equal columns that floats next to each other */
 .column1 {
     float: left;
-    width: 20%;
-    background-color: brown;
+    width: 23%;
+    height: 89vh;
 }
 
 .column3 {
     float: left;
-    width: 30%;
-  background-color: #024662;
+    width: 28%;
 }
 
 .column2 {
     float: left;
-    width: 50%;
-    background-color: rgb(0, 0, 0);
-
-}
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.row {
-    margin-top: -10px;
+    width: 49%;
+    height: 89vh;
 }
 
 table tr {

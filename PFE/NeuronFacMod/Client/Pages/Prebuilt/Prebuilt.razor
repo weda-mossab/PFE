@@ -13,42 +13,25 @@
 <PageTitle>Pre-built modèle</PageTitle>
 
 <div class="row">
-    <div class="column1">
-        <div class="sidebar">
-            <div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
-                <ul class="sidebar-navbar nav ">
-                    <li>
-                        <div class="choose_file">
-                             1. Choisissez un fichier.
-                        </div>
-                    </li>
-                    <li>
-                        <div class="file">
-                            <BlazorInputFile.InputFile class="inputfile"></BlazorInputFile.InputFile>
-                            <div class="path" style="color:black; font-size:13px;">
-                            </div>
-                        </div>
-                    </li>
-                    <br>
-                    <li>
-                            <div class="choose_file">2. Obtenir des prévisions. </div>
-                    </li>
-                    <li>
-                        <center>
-                            <div>
-                                <button class="btn"><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Exécuter l'analyse</button>
-                            </div>
-                        </center>
-                    </li>
-                </ul>
-            </div>
-        </div>
+    <div class="column1 sidebar">
+        <ul class="sidebar-navbar nav ">
+            <li>
+                <span class="steps choose_file">1. Choisissez un fichier.</span>
+
+                <BlazorInputFile.InputFile></BlazorInputFile.InputFile>
+
+                <div class="path" style="color:black; font-size:13px;"></div>
+            </li>
+            <li>
+                <span class="steps">2. Obtenir des prévisions. </span>
+                <button class="btn"><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Exécuter l'analyse</button>
+            </li>
+        </ul>
     </div>
 
-    <div class="column2">
+    <div class="column2">   
+        
     </div>
-
-    <hr />
 
     <div class="column3">
         <div id="sidebar-wrapper">
@@ -92,20 +75,10 @@
                 <li>
                     <center>
                         <button class="btn-edit" @onclick="@(()=>Modal.Show<Edit_fact>("Correction des résultats"))"><span class="bi bi-pencil-square icon"></span>&nbsp;Modifier</button>
-                        <button class="btn-save"><span class="bi bi-bookmark-check icon"></span>&nbsp;Enregistrer</button>
+                        <button class="btn-save" type="submit"><span class="bi bi-bookmark-check icon"></span>&nbsp;Enregistrer</button>
                     </center>
                 </li>
             </ul>
         </div>
     </div>
 </div>
-
-
-@code {
-    private bool collapseNavMenu = true;
-    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-    private void ToggleNavMenu()
-    {
-        collapseNavMenu = !collapseNavMenu;
-    }
-}

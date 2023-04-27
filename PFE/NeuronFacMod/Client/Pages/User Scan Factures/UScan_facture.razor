@@ -1,7 +1,7 @@
 ﻿@page "/UScanner Facture"
 <ul>
     <li class="modele">
-        <a href="http://localhost:3000/">
+        <a href="/ModelAnalysis">
             <div class="click">
                 <i class="fa fa-file-text-o icon"></i>
                 <div class="title">Utilisez un modèle connu pour avoir des résultats précis</div>
@@ -18,69 +18,13 @@
             </div>
         </a>
     </li>
+    <li>
+        <a href="/Umodeles">
+            <div class="click">
+                <i class="fa fa-cubes icon" aria-hidden="true"></i>
+                <div class="title">Voir les modèles existants</div>
+                <div class="description">Essayez de consulter les modèles connus pour avoir une idée génrale sur les types des ractures existants.</div>
+            </div>
+        </a>
+    </li>
 </ul>
-<style>
-    ul {
-        margin-left: -3%;
-        display: flex;
-        flex-direction: row;
-        align-items: stretch;
-        justify-content: space-around;
-        margin-top: 8%;
-    }
-
-    li {
-        list-style-type: none;
-        text-align: center;
-        margin: 1rem;
-        border-radius: 2px;
-        display: flex;
-        flex-direction: column;
-        align-items: stretch;
-    }
-
-    a {
-        display: inline-block;
-        text-decoration: none;
-    }
-
-    .click:hover .icon {
-        color: #C04799;
-        box-shadow: none;
-    }
-
-    .click:hover .title {
-        color: #C04799;
-        box-shadow: none;
-    }
-
-    .title {
-        max-width: 12em;
-        margin: auto;
-        font-size: 1.3em;
-        font-weight: bold;
-        color: black;
-        text-align: center;
-        text-decoration: none;
-        margin-bottom: 1em;
-        flex-wrap: wrap;
-        font-weight: blod;
-        margin-bottom: 5px;
-    }
-
-    .description {
-        color: grey;
-        text-align: center;
-        overflow-wrap: break-word;
-        width: 60%;
-        margin-left: 20%;
-        font-size: 15px;
-    }
-
-    .icon {
-        color: rgb(0, 0, 0);
-        font-size: 4em;
-        margin-bottom: 15px;
-    }
-
-</style>
