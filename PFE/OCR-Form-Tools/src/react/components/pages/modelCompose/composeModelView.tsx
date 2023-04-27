@@ -3,7 +3,7 @@
 
 import React from "react";
 import { Customizer, IColumn, ICustomizations, Modal, DetailsList, SelectionMode, DetailsListLayoutMode, PrimaryButton, TextField, FontIcon, Spinner, SpinnerSize } from "@fluentui/react";
-import { getDarkGreyTheme, getPrimaryGreenTheme, getPrimaryGreyTheme, getDefaultDarkTheme } from "../../../../common/themes";
+import { getPrimaryGreenTheme, getPrimaryGreyTheme, getDefaultDarkTheme, getDefaultTheme } from "../../../../common/themes";
 import { strings } from "../../../../common/strings";
 import { IModel } from "./modelCompose";
 import { getAppInsights } from '../../../../services/telemetryService';
@@ -111,7 +111,7 @@ export default class ComposeModelView extends React.Component<IComposeModelViewP
 
         const dark: ICustomizations = {
             settings: {
-                theme: getDarkGreyTheme(),
+                theme: getDefaultTheme(),
             },
             scopedSettings: {},
         };

@@ -4,7 +4,7 @@
 import * as React from "react";
 import { CommandBar, ICommandBarItemProps } from "@fluentui/react/lib/CommandBar";
 import { ICustomizations, Customizer } from "@fluentui/react/lib/Utilities";
-import { getDarkGreyTheme } from "../../../../common/themes";
+import { getDefaultTheme } from "../../../../common/themes";
 import { strings } from '../../../../common/strings';
 import { ContextualMenuItemType } from "@fluentui/react";
 import { IProject, IAssetMetadata, AssetLabelingState } from "../../../../models/applicationState";
@@ -35,7 +35,7 @@ interface ICanvasCommandBarProps {
 export const CanvasCommandBar: React.FunctionComponent<ICanvasCommandBarProps> = (props: ICanvasCommandBarProps) => {
     const dark: ICustomizations = {
         settings: {
-            theme: getDarkGreyTheme(),
+            theme: getDefaultTheme(),
         },
         scopedSettings: {},
     };

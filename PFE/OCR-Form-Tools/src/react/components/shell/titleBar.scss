@@ -1,13 +1,10 @@
 @import '../../../assets/sass/theme.scss';
 
 .platform-web, .platform-win32 {
+
     .title-bar {
         min-height: 34px;
         height: 34px;
-
-        &-controls li {
-            padding: 0.4em 0.8em;
-        }
     }
 }
 
@@ -20,36 +17,26 @@
     }
 }
 
-// #menudots{
-//     margin-top: -10%;
-//     width: 15%;
-//     height: 30px;
-//     border:none;
 
-// }
-
-#logo{
-  
-    width: 100px;
-    height: 30px;
-    border:none;
-    margin-left: 4%;
-}
 
 .title-bar {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     color: #C04799 ;
     font-weight: bold;
     display: flex;
     flex-direction: row;
     align-items: stretch;
-    box-shadow: 0 6px 8px 0 rgba(0, 0, 0, 0.942);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 
+    #logo {
+        width: 120px;
+         padding-bottom: 19%;
+
+    }
 
     &-main {
         -webkit-app-region: drag;
         -webkit-user-select: none;
-
         display: flex;
         flex-direction: column;
         justify-content: center;

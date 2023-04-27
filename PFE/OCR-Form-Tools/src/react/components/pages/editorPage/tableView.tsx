@@ -1,6 +1,6 @@
 import * as React from "react";
 import { ICustomizations, Customizer, ContextualMenu, IDragOptions, Modal, FontIcon } from "@fluentui/react";
-import { getDarkGreyTheme } from "../../../../common/themes";
+import { getDefaultTheme } from "../../../../common/themes";
 import "./tableView.scss";
 import { TooltipHost, TooltipDelay, DirectionalHint, ITooltipProps, ITooltipHostStyles } from "@fluentui/react";
 import { useId } from '@uifabric/react-hooks';
@@ -38,7 +38,7 @@ interface ITableViewProps {
 export const TableView: React.FunctionComponent<ITableViewProps> = ({ handleTableViewClose, tableToView, showToolTips = false }) => {
     const dark: ICustomizations = {
         settings: {
-            theme: getDarkGreyTheme(),
+            theme: getDefaultTheme(),
         },
         scopedSettings: {},
     };

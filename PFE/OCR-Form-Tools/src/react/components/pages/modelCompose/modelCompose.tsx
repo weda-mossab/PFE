@@ -32,7 +32,7 @@ import {
 } from "@fluentui/react";
 import "./modelCompose.scss";
 import { strings, interpolate } from "../../../../common/strings";
-import { getDarkGreyTheme, getDefaultDarkTheme, getDefaultTheme, getPrimaryWhiteTheme } from "../../../../common/themes";
+import { getDefaultDarkTheme, getDefaultTheme, getPrimaryWhiteTheme } from "../../../../common/themes";
 import { ModelComposeCommandBar } from "./composeCommandBar";
 import { bindActionCreators } from "redux";
 import IProjectActions, * as projectActions from "../../../../redux/actions/projectActions";

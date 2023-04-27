@@ -31,7 +31,7 @@ export function Sidebar({ project }) {
                     </a>
                 </li>
                 <li>
-                    <NavLink title={"Home"} to={"http://localhost:3000/"} exact role="button">
+                    <NavLink title={"Home"} to={"/"} exact role="button">
                         <FontIcon iconName="Home" />
                     </NavLink>
                 </li>

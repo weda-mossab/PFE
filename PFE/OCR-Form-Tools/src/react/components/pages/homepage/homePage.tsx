@@ -84,52 +84,26 @@ export default class HomePage extends React.Component<IHomePageProps, IHomePageS
             <div className="app-homepage" id="pageHome">
                 <div className="app-homepage-main">
                     <ul>
-                        {/* <li>
-                            <a id="home_prebuilt"
-                                onClick={this.onPrebuiltClicked}
-                                className="primary-link"
-                                role="button">
-                                <FontIcon iconName="ContactCard" className="icon-7x" />
-                                <div className="title">{strings.homePage.prebuiltPredict.title}</div>
-                                <div className="description">{strings.homePage.prebuiltPredict.description}</div>
-                            </a>
-                            <a className="quickstart"
-                                href="https://aka.ms/form-recognizer/pre-built"
-                                target="_blank"
-                                rel="noopener noreferrer">
-                                <FontIcon iconName="Rocket" />{strings.homePage.quickStartGuide}</a>
-                        </li>
                         <li>
-                            <a onClick={this.onUseLayoutToGetTextAndTAblesClicked}
+                            <a
+                                onClick={this.createNewProject}
                                 className="primary-link"
-                                role="button">
-                                <FontIcon iconName="KeyPhraseExtraction" className="icon-7x" />
-                                <div className="title">{strings.homePage.layoutPredict.title}</div>
+                                role="button"
+                            >
+                                <FontIcon
+                                    iconName="AddTo"
+                                    className="icon-7x"
+                                />
+                                <div className="title">
+                                    {strings.homePage.trainWithLabels.title}
+                                </div>
                                 <div className="description">
-                                    {strings.homePage.layoutPredict.description}
+                                    {
+                                        strings.homePage.trainWithLabels
+                                            .description
+                                    }
                                 </div>
                             </a>
-                            <a className="quickstart"
-                                href="https://aka.ms/form-recognizer/layout"
-                                target="_blank"
-                                rel="noopener noreferrer">
-                                <FontIcon iconName="Rocket" />{strings.homePage.quickStartGuide}</a>
-                        </li> */}
-                        <li>
-                            <a onClick={this.onTrainAndUseAModelWithLables}
-                                className="primary-link"
-                                role="button">
-                                <FontIcon iconName="AddTo" className="icon-7x" />
-                                <div className="title">{strings.homePage.trainWithLabels.title}</div>
-                                <div className="description">
-                                    {strings.homePage.trainWithLabels.description}
-                                </div>
-                            </a>
-                            <a className="quickstart"
-                                href="https://aka.ms/form-recognizer/custom"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            ><FontIcon iconName="Rocket" />{strings.homePage.quickStartGuide}</a>
                         </li>
                         <CloudFilePicker
                             ref={this.cloudFilePickerRef}
@@ -139,21 +113,29 @@ export default class HomePage extends React.Component<IHomePageProps, IHomePageS
                         />
                     </ul>
                 </div>
-                {(this.props.recentProjects && this.props.recentProjects.length > 0) &&
-                    <div className="app-homepage-recent bg-light">
-                        <CondensedList
-                            title={strings.homePage.recentProjects}
-                            Component={RecentProjectItem}
-                            items={this.props.recentProjects}
-                            onClick={this.freshLoadSelectedProject}
-                            onDelete={(project) => this.deleteConfirmRef.current.open(project)} />
-                    </div>
-                }
-                <Confirm title="Delete Project"
+                {this.props.recentProjects &&
+                    this.props.recentProjects.length > 0 && (
+                        <div className="app-homepage-recent bg-light">
+                            <CondensedList
+                                title={strings.homePage.recentProjects}
+                                Component={RecentProjectItem}
+                                items={this.props.recentProjects}
+                                onClick={this.freshLoadSelectedProject}
+                                onDelete={(project) =>
+                                    this.deleteConfirmRef.current.open(project)
+                                }
+                            />
+                        </div>
+                    )}
+                <Confirm
+                    title="Delete Project"
                     ref={this.deleteConfirmRef as any}
-                    message={(project: IProject) => `${strings.homePage.deleteProject.confirmation} ${project.name}?`}
+                    message={(project: IProject) =>
+                        `${strings.homePage.deleteProject.confirmation} ${project.name}?`
+                    }
                     confirmButtonTheme={getPrimaryRedTheme()}
-                    onConfirm={this.deleteProject} />
+                    onConfirm={this.deleteProject}
+                />
 
                 <HomeProjectView
                     ref={this.homeProjectViewRef}

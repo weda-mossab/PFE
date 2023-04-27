@@ -1,7 +1,7 @@
 import { Customizer, ICustomizations, Modal, PrimaryButton, Spinner, SpinnerSize } from '@fluentui/react';
 import React from 'react';
 import { strings } from "../../../../common/strings";
-import { getDarkGreyTheme, getDefaultDarkTheme, getPrimaryGreenTheme, getPrimaryGreyTheme } from '../../../../common/themes';
+import { getDefaultTheme, getPrimaryGreenTheme, getPrimaryGreyTheme } from '../../../../common/themes';
 import './uploadToTrainingSetView.scss';
 
 interface IUploadToTrainingSetViewProp {
@@ -42,7 +42,7 @@ export class UploadToTrainingSetView extends React.Component<IUploadToTrainingSe
     render() {
         const dark: ICustomizations = {
             settings: {
-                theme: getDarkGreyTheme(),
+                theme: getDefaultTheme(),
             },
             scopedSettings: {},
         };
@@ -57,34 +57,43 @@ export class UploadToTrainingSetView extends React.Component<IUploadToTrainingSe
                         containerClassName="modal-container upload-to-training-set-modal"
                         scrollableContentClassName="scrollable-content"
                     >
-                        <h4>Notice: <small>{notifyMessage}</small></h4>
+                        <h4>
+                            Notice: <small>{notifyMessage}</small>
+                        </h4>
                         <div className="modal-buttons-container mt-4">
-                            {this.state.isLoading ?
+                            {this.state.isLoading ? (
                                 <div>
                                     <Spinner
                                         label={strings.predict.uploadInPrgoress}
                                         ariaLive="assertive"
                                         labelPosition="right"
-                                        theme={getDefaultDarkTheme()}
-                                        size={SpinnerSize.large} />
-                                </div> :
+                                        theme={getDefaultTheme()}
+                                        size={SpinnerSize.large}
+                                    />
+                                </div>
+                            ) : (
                                 <div>
                                     <PrimaryButton
                                         className="mr-3"
-                                        text={strings.predict.editAndUploadToTrainingSet}
+                                        text={
+                                            strings.predict
+                                                .editAndUploadToTrainingSet
+                                        }
                                         theme={getPrimaryGreenTheme()}
-                                        onClick={this.onConfirm} />
+                                        onClick={this.onConfirm}
+                                    />
                                     <PrimaryButton
                                         className="modal-cancel"
                                         theme={getPrimaryGreyTheme()}
                                         onClick={this.close}
-                                        text="Cancel" />
+                                        text="Cancel"
+                                    />
                                 </div>
-                            }
+                            )}
                         </div>
                     </Modal>
                 </Customizer>
             </>
-        )
+        );
     }
 }

@@ -3,7 +3,7 @@
 
 import React from "react";
 import { Customizer, IColumn, ICustomizations, Modal, DetailsList, SelectionMode, DetailsListLayoutMode, PrimaryButton, ISelection } from "@fluentui/react";
-import { getDarkGreyTheme, getPrimaryGreenTheme, getPrimaryGreyTheme } from "../../../../common/themes";
+import { getDefaultTheme, getPrimaryGreenTheme, getPrimaryGreyTheme } from "../../../../common/themes";
 import { strings } from "../../../../common/strings";
 import { IRecentModel } from "../../../../models/applicationState";
 
@@ -47,7 +47,7 @@ export default function RecentModelsView(props: IRecentModelsViewProps) {
 
     const dark: ICustomizations = {
         settings: {
-            theme: getDarkGreyTheme(),
+            theme: getDefaultTheme(),
         },
         scopedSettings: {},
     };
