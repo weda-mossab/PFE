@@ -9,451 +9,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1188463794,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Counter",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Counter",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
-          "Common.TypeNameIdentifier": "Counter"
-        }
-      },
-      {
-        "HashCode": -931853104,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Counter",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Counter",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
-          "Common.TypeNameIdentifier": "Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1100030212,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.FetchData",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.FetchData",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
-          "Common.TypeNameIdentifier": "FetchData"
-        }
-      },
-      {
-        "HashCode": 1718767309,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.FetchData",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.FetchData",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
-          "Common.TypeNameIdentifier": "FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1155794067,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DeleteModele"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
-          "Common.TypeNameIdentifier": "DeleteModele"
-        }
-      },
-      {
-        "HashCode": -408469356,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Modeles.DeleteModele"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
-          "Common.TypeNameIdentifier": "DeleteModele",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1989861397,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ModelesInfos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
-          "Common.TypeNameIdentifier": "ModelesInfos"
-        }
-      },
-      {
-        "HashCode": -875160352,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
-          "Common.TypeNameIdentifier": "ModelesInfos",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 864278318,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Modeles.Modeles",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Modeles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.Modeles",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles"
-        }
-      },
-      {
-        "HashCode": 1230188389,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Modeles.Modeles",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Modeles.Modeles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.Modeles",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
-          "Common.TypeNameIdentifier": "Modeles",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1616230731,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Edit_fact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
-          "Common.TypeNameIdentifier": "Edit_fact"
-        }
-      },
-      {
-        "HashCode": 1389158955,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
-          "Common.TypeNameIdentifier": "Edit_fact",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1149639116,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Prebuilt"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
-          "Common.TypeNameIdentifier": "Prebuilt"
-        }
-      },
-      {
-        "HashCode": 1585012406,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
-          "Common.TypeNameIdentifier": "Prebuilt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 505551050,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UModeles_infos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
-          "Common.TypeNameIdentifier": "UModeles_infos"
-        }
-      },
-      {
-        "HashCode": 54264288,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
-          "Common.TypeNameIdentifier": "UModeles_infos",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -651968853,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UModeles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
-          "Common.TypeNameIdentifier": "UModeles"
-        }
-      },
-      {
-        "HashCode": -54330793,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.UModeles.UModeles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
-          "Common.TypeNameIdentifier": "UModeles",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 921014371,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Index.Index",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Index.Index",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Index",
-          "Common.TypeNameIdentifier": "Index"
-        }
-      },
-      {
-        "HashCode": 585301136,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Index.Index",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Index.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Index.Index",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Index",
-          "Common.TypeNameIdentifier": "Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -610357852,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ScanFacture"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Scan_facture",
-          "Common.TypeNameIdentifier": "ScanFacture"
-        }
-      },
-      {
-        "HashCode": -444212092,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Scan_facture",
-          "Common.TypeNameIdentifier": "ScanFacture",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1111765137,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "UScan_facture"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.User_Scan_Factures",
-          "Common.TypeNameIdentifier": "UScan_facture"
-        }
-      },
-      {
-        "HashCode": -131268516,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.User_Scan_Factures",
-          "Common.TypeNameIdentifier": "UScan_facture",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 627491498,
+        "HashCode": 1123925491,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.App",
         "AssemblyName": "NeuronFacMod.Client",
@@ -471,7 +27,7 @@
         }
       },
       {
-        "HashCode": 929115840,
+        "HashCode": -1802077171,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.App",
         "AssemblyName": "NeuronFacMod.Client",
@@ -490,7 +46,525 @@
         }
       },
       {
-        "HashCode": 558161739,
+        "HashCode": 1825364705,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Counter",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Counter",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
+          "Common.TypeNameIdentifier": "Counter"
+        }
+      },
+      {
+        "HashCode": 1023106297,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Counter",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Counter",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
+          "Common.TypeNameIdentifier": "Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1432599560,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.FetchData",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.FetchData",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
+          "Common.TypeNameIdentifier": "FetchData"
+        }
+      },
+      {
+        "HashCode": 1771863336,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.FetchData",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.FetchData",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages",
+          "Common.TypeNameIdentifier": "FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1974621275,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.ModelAnalysis.Edit_fact",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit_fact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.ModelAnalysis.Edit_fact",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.ModelAnalysis",
+          "Common.TypeNameIdentifier": "Edit_fact"
+        }
+      },
+      {
+        "HashCode": 1530200441,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.ModelAnalysis.Edit_fact",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.ModelAnalysis.Edit_fact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.ModelAnalysis.Edit_fact",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.ModelAnalysis",
+          "Common.TypeNameIdentifier": "Edit_fact",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -696062185,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.ModelAnalysis.ModelAnalysis",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModelAnalysis"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.ModelAnalysis.ModelAnalysis",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.ModelAnalysis",
+          "Common.TypeNameIdentifier": "ModelAnalysis"
+        }
+      },
+      {
+        "HashCode": -64054921,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.ModelAnalysis.ModelAnalysis",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.ModelAnalysis.ModelAnalysis"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.ModelAnalysis.ModelAnalysis",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.ModelAnalysis",
+          "Common.TypeNameIdentifier": "ModelAnalysis",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1258814746,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteModele"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
+          "Common.TypeNameIdentifier": "DeleteModele"
+        }
+      },
+      {
+        "HashCode": 898606879,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Modeles.DeleteModele"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.DeleteModele",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
+          "Common.TypeNameIdentifier": "DeleteModele",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1232922018,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ModelesInfos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
+          "Common.TypeNameIdentifier": "ModelesInfos"
+        }
+      },
+      {
+        "HashCode": 1918013745,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.ModelesInfos",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
+          "Common.TypeNameIdentifier": "ModelesInfos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2054770244,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Modeles.Modeles",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Modeles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.Modeles",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles"
+        }
+      },
+      {
+        "HashCode": -556744990,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Modeles.Modeles",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Modeles.Modeles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Modeles.Modeles",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Modeles",
+          "Common.TypeNameIdentifier": "Modeles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -537231106,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Edit_fact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Edit_fact"
+        }
+      },
+      {
+        "HashCode": -1476617813,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Edit_fact",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Edit_fact",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2084295721,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Prebuilt"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Prebuilt"
+        }
+      },
+      {
+        "HashCode": -1757962096,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Prebuilt.Prebuilt",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Prebuilt",
+          "Common.TypeNameIdentifier": "Prebuilt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1640005859,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UModeles_infos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
+          "Common.TypeNameIdentifier": "UModeles_infos"
+        }
+      },
+      {
+        "HashCode": -645103787,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles_infos",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
+          "Common.TypeNameIdentifier": "UModeles_infos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 666667268,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UModeles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
+          "Common.TypeNameIdentifier": "UModeles"
+        }
+      },
+      {
+        "HashCode": 1004440795,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.UModeles.UModeles",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.UModeles.UModeles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.UModeles.UModeles",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.UModeles",
+          "Common.TypeNameIdentifier": "UModeles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1603061926,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Index.Index",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Index.Index",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Index",
+          "Common.TypeNameIdentifier": "Index"
+        }
+      },
+      {
+        "HashCode": -13032787,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Index.Index",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Index.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Index.Index",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Index",
+          "Common.TypeNameIdentifier": "Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -176572841,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ScanFacture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Scan_facture",
+          "Common.TypeNameIdentifier": "ScanFacture"
+        }
+      },
+      {
+        "HashCode": 1706527437,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.Scan_facture.ScanFacture",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.Scan_facture",
+          "Common.TypeNameIdentifier": "ScanFacture",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -698755882,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "UScan_facture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.User_Scan_Factures",
+          "Common.TypeNameIdentifier": "UScan_facture"
+        }
+      },
+      {
+        "HashCode": 2129147646,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Pages.User_Scan_Factures.UScan_facture",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Pages.User_Scan_Factures",
+          "Common.TypeNameIdentifier": "UScan_facture",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1953217390,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.Shared.SurveyPrompt",
         "AssemblyName": "NeuronFacMod.Client",
@@ -519,7 +593,7 @@
         }
       },
       {
-        "HashCode": -1291337933,
+        "HashCode": -408254532,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.Shared.SurveyPrompt",
         "AssemblyName": "NeuronFacMod.Client",
@@ -549,44 +623,7 @@
         }
       },
       {
-        "HashCode": 1918958172,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Shared.Navbar",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Shared.Navbar",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Shared",
-          "Common.TypeNameIdentifier": "Navbar"
-        }
-      },
-      {
-        "HashCode": -1080061893,
-        "Kind": "Components.Component",
-        "Name": "NeuronFacMod.Client.Shared.Navbar",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NeuronFacMod.Client.Shared.Navbar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "NeuronFacMod.Client.Shared.Navbar",
-          "Common.TypeNamespace": "NeuronFacMod.Client.Shared",
-          "Common.TypeNameIdentifier": "Navbar",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1196373635,
+        "HashCode": -2014219095,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.Shared.MainLayout",
         "AssemblyName": "NeuronFacMod.Client",
@@ -617,7 +654,7 @@
         }
       },
       {
-        "HashCode": 120849759,
+        "HashCode": 1340568526,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.Shared.MainLayout",
         "AssemblyName": "NeuronFacMod.Client",
@@ -649,7 +686,7 @@
         }
       },
       {
-        "HashCode": 503706211,
+        "HashCode": 1953358859,
         "Kind": "Components.ChildContent",
         "Name": "NeuronFacMod.Client.Shared.MainLayout.Body",
         "AssemblyName": "NeuronFacMod.Client",
@@ -670,7 +707,7 @@
         }
       },
       {
-        "HashCode": -1506023285,
+        "HashCode": 778735571,
         "Kind": "Components.ChildContent",
         "Name": "NeuronFacMod.Client.Shared.MainLayout.Body",
         "AssemblyName": "NeuronFacMod.Client",
@@ -692,7 +729,44 @@
         }
       },
       {
-        "HashCode": 2009042549,
+        "HashCode": 1200212784,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Shared.Navbar",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Shared.Navbar",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Shared",
+          "Common.TypeNameIdentifier": "Navbar"
+        }
+      },
+      {
+        "HashCode": 229628765,
+        "Kind": "Components.Component",
+        "Name": "NeuronFacMod.Client.Shared.Navbar",
+        "AssemblyName": "NeuronFacMod.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NeuronFacMod.Client.Shared.Navbar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "NeuronFacMod.Client.Shared.Navbar",
+          "Common.TypeNamespace": "NeuronFacMod.Client.Shared",
+          "Common.TypeNameIdentifier": "Navbar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -723682212,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.Shared.NavMenu",
         "AssemblyName": "NeuronFacMod.Client",
@@ -710,7 +784,7 @@
         }
       },
       {
-        "HashCode": 656831296,
+        "HashCode": 2110440828,
         "Kind": "Components.Component",
         "Name": "NeuronFacMod.Client.Shared.NavMenu",
         "AssemblyName": "NeuronFacMod.Client",
@@ -729,84 +803,7 @@
         }
       },
       {
-        "HashCode": 2099400011,
-        "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IsShown",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "IsShown",
-              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Width",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "Width",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916",
-          "Common.TypeNamespace": "__GeneratedComponent",
-          "Common.TypeNameIdentifier": "AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916"
-        }
-      },
-      {
-        "HashCode": 316425837,
-        "Kind": "Components.Component",
-        "Name": "__GeneratedComponent.AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916",
-        "AssemblyName": "NeuronFacMod.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "__GeneratedComponent.AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IsShown",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "IsShown",
-              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Width",
-            "TypeName": "System.Int32",
-            "Metadata": {
-              "Common.PropertyName": "Width",
-              "Common.GloballyQualifiedTypeName": "global::System.Int32"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "__GeneratedComponent.AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916",
-          "Common.TypeNamespace": "__GeneratedComponent",
-          "Common.TypeNameIdentifier": "AspNetCore_8c9cde9c35bef2d68ac75cea631c8dccee722916",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 218221755,
+        "HashCode": 1161380870,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.BlazoredModalInstance",
         "AssemblyName": "Blazored.Modal",
@@ -865,7 +862,7 @@
         }
       },
       {
-        "HashCode": -97136319,
+        "HashCode": 1549216096,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.BlazoredModalInstance",
         "AssemblyName": "Blazored.Modal",
@@ -925,7 +922,7 @@
         }
       },
       {
-        "HashCode": 1432173918,
+        "HashCode": 1311215386,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Modal.BlazoredModalInstance.Content",
         "AssemblyName": "Blazored.Modal",
@@ -945,7 +942,7 @@
         }
       },
       {
-        "HashCode": 533724079,
+        "HashCode": 461167322,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Modal.BlazoredModalInstance.Content",
         "AssemblyName": "Blazored.Modal",
@@ -966,7 +963,7 @@
         }
       },
       {
-        "HashCode": -1097554998,
+        "HashCode": 1182788110,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.BlazoredModal",
         "AssemblyName": "Blazored.Modal",
@@ -1094,7 +1091,7 @@
         }
       },
       {
-        "HashCode": 2115790769,
+        "HashCode": -1017500682,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.BlazoredModal",
         "AssemblyName": "Blazored.Modal",
@@ -1223,7 +1220,7 @@
         }
       },
       {
-        "HashCode": 2007294911,
+        "HashCode": 217412094,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.CascadingBlazoredModal",
         "AssemblyName": "Blazored.Modal",
@@ -1370,7 +1367,7 @@
         }
       },
       {
-        "HashCode": 1451982377,
+        "HashCode": 1341232102,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.CascadingBlazoredModal",
         "AssemblyName": "Blazored.Modal",
@@ -1518,7 +1515,7 @@
         }
       },
       {
-        "HashCode": 600018006,
+        "HashCode": 1319966675,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Modal.CascadingBlazoredModal.ChildContent",
         "AssemblyName": "Blazored.Modal",
@@ -1538,7 +1535,7 @@
         }
       },
       {
-        "HashCode": 1426601119,
+        "HashCode": -694754835,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Modal.CascadingBlazoredModal.ChildContent",
         "AssemblyName": "Blazored.Modal",
@@ -1559,7 +1556,7 @@
         }
       },
       {
-        "HashCode": -1732302873,
+        "HashCode": -1279917079,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.FocusTrap",
         "AssemblyName": "Blazored.Modal",
@@ -1598,7 +1595,7 @@
         }
       },
       {
-        "HashCode": 1112250956,
+        "HashCode": 1110466955,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal.FocusTrap",
         "AssemblyName": "Blazored.Modal",
@@ -1638,7 +1635,7 @@
         }
       },
       {
-        "HashCode": 2073873730,
+        "HashCode": 2094175027,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Modal.FocusTrap.ChildContent",
         "AssemblyName": "Blazored.Modal",
@@ -1658,7 +1655,7 @@
         }
       },
       {
-        "HashCode": -1768276348,
+        "HashCode": 202412418,
         "Kind": "Components.ChildContent",
         "Name": "Blazored.Modal.FocusTrap.ChildContent",
         "AssemblyName": "Blazored.Modal",
@@ -1679,7 +1676,7 @@
         }
       },
       {
-        "HashCode": 1301501775,
+        "HashCode": -1869187233,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal._Imports",
         "AssemblyName": "Blazored.Modal",
@@ -1697,7 +1694,7 @@
         }
       },
       {
-        "HashCode": 1273342578,
+        "HashCode": -1754256229,
         "Kind": "Components.Component",
         "Name": "Blazored.Modal._Imports",
         "AssemblyName": "Blazored.Modal",
@@ -1716,7 +1713,7 @@
         }
       },
       {
-        "HashCode": 219634979,
+        "HashCode": 1004548886,
         "Kind": "Components.Component",
         "Name": "BlazorInputFile.InputFile",
         "AssemblyName": "BlazorInputFile",
@@ -1773,7 +1770,7 @@
         }
       },
       {
-        "HashCode": -1397259018,
+        "HashCode": -960781333,
         "Kind": "Components.Component",
         "Name": "BlazorInputFile.InputFile",
         "AssemblyName": "BlazorInputFile",
@@ -1831,7 +1828,7 @@
         }
       },
       {
-        "HashCode": 1711057508,
+        "HashCode": 1170783533,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1906,7 +1903,7 @@
         }
       },
       {
-        "HashCode": -1772975799,
+        "HashCode": -1957092996,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1982,7 +1979,7 @@
         }
       },
       {
-        "HashCode": -1389444430,
+        "HashCode": -1225920876,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2003,7 +2000,7 @@
         }
       },
       {
-        "HashCode": 352733566,
+        "HashCode": 1875481562,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2025,7 +2022,7 @@
         }
       },
       {
-        "HashCode": -966311008,
+        "HashCode": -1120361683,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2067,7 +2064,7 @@
         }
       },
       {
-        "HashCode": 1899934054,
+        "HashCode": 387513407,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2110,7 +2107,7 @@
         }
       },
       {
-        "HashCode": -1668832327,
+        "HashCode": -176069463,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2152,7 +2149,7 @@
         }
       },
       {
-        "HashCode": 927201095,
+        "HashCode": -870698255,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2195,7 +2192,7 @@
         }
       },
       {
-        "HashCode": -973092436,
+        "HashCode": 1131241639,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2216,7 +2213,7 @@
         }
       },
       {
-        "HashCode": 1432886161,
+        "HashCode": -1382864169,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2238,7 +2235,7 @@
         }
       },
       {
-        "HashCode": 2057136408,
+        "HashCode": 731323902,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2280,7 +2277,7 @@
         }
       },
       {
-        "HashCode": 721957435,
+        "HashCode": -228341934,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2323,7 +2320,7 @@
         }
       },
       {
-        "HashCode": -815284481,
+        "HashCode": -2011145699,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2431,7 +2428,7 @@
         }
       },
       {
-        "HashCode": -1863443919,
+        "HashCode": -1643088879,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2540,7 +2537,7 @@
         }
       },
       {
-        "HashCode": -309857254,
+        "HashCode": 26862112,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2561,7 +2558,7 @@
         }
       },
       {
-        "HashCode": 2070739704,
+        "HashCode": -698226234,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2583,7 +2580,7 @@
         }
       },
       {
-        "HashCode": 250107048,
+        "HashCode": -697488760,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2616,7 +2613,7 @@
         }
       },
       {
-        "HashCode": 1594823942,
+        "HashCode": -805779102,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2650,7 +2647,7 @@
         }
       },
       {
-        "HashCode": 322033894,
+        "HashCode": 890400600,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2671,7 +2668,7 @@
         }
       },
       {
-        "HashCode": -2024507074,
+        "HashCode": 1218882281,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2693,7 +2690,7 @@
         }
       },
       {
-        "HashCode": -1108313146,
+        "HashCode": -1411421058,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -2712,7 +2709,7 @@
         }
       },
       {
-        "HashCode": 942102714,
+        "HashCode": -351481826,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -2732,7 +2729,7 @@
         }
       },
       {
-        "HashCode": -1127892899,
+        "HashCode": 1274800267,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2837,7 +2834,7 @@
         }
       },
       {
-        "HashCode": 106628539,
+        "HashCode": 94994199,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2943,7 +2940,7 @@
         }
       },
       {
-        "HashCode": -1779959998,
+        "HashCode": 570412428,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2976,7 +2973,7 @@
         }
       },
       {
-        "HashCode": -950684273,
+        "HashCode": -1330463691,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3010,7 +3007,7 @@
         }
       },
       {
-        "HashCode": -333722713,
+        "HashCode": -115302588,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3082,7 +3079,7 @@
         }
       },
       {
-        "HashCode": 757897580,
+        "HashCode": -1759277340,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3155,7 +3152,7 @@
         }
       },
       {
-        "HashCode": -2094901412,
+        "HashCode": 186568634,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3263,7 +3260,7 @@
         }
       },
       {
-        "HashCode": 645072023,
+        "HashCode": 1805079894,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3372,7 +3369,7 @@
         }
       },
       {
-        "HashCode": 758409871,
+        "HashCode": 1296207468,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3414,7 +3411,7 @@
         }
       },
       {
-        "HashCode": 1311823866,
+        "HashCode": -214552250,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3457,7 +3454,7 @@
         }
       },
       {
-        "HashCode": 981287014,
+        "HashCode": 1623589057,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3554,7 +3551,7 @@
         }
       },
       {
-        "HashCode": -1327099140,
+        "HashCode": -1683241527,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3652,7 +3649,7 @@
         }
       },
       {
-        "HashCode": -117573578,
+        "HashCode": -1977488064,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3716,7 +3713,7 @@
         }
       },
       {
-        "HashCode": -495729102,
+        "HashCode": 1647540961,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3781,7 +3778,7 @@
         }
       },
       {
-        "HashCode": -1574871978,
+        "HashCode": 554219831,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3889,7 +3886,7 @@
         }
       },
       {
-        "HashCode": 2069337769,
+        "HashCode": -1825367288,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3998,7 +3995,7 @@
         }
       },
       {
-        "HashCode": 217876920,
+        "HashCode": 1395006856,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4019,7 +4016,7 @@
         }
       },
       {
-        "HashCode": 1970873149,
+        "HashCode": -917664645,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4041,7 +4038,7 @@
         }
       },
       {
-        "HashCode": 132135381,
+        "HashCode": -1826330688,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4139,7 +4136,7 @@
         }
       },
       {
-        "HashCode": -1135039951,
+        "HashCode": -36770940,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4238,7 +4235,7 @@
         }
       },
       {
-        "HashCode": -810064111,
+        "HashCode": -238766111,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4259,7 +4256,7 @@
         }
       },
       {
-        "HashCode": 1677647171,
+        "HashCode": 42421933,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4281,7 +4278,7 @@
         }
       },
       {
-        "HashCode": -160769873,
+        "HashCode": -976316768,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4353,7 +4350,7 @@
         }
       },
       {
-        "HashCode": -976152927,
+        "HashCode": 1891020142,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4426,7 +4423,7 @@
         }
       },
       {
-        "HashCode": 1105388056,
+        "HashCode": 1847399906,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4498,7 +4495,7 @@
         }
       },
       {
-        "HashCode": -918462094,
+        "HashCode": -1995368287,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4571,7 +4568,7 @@
         }
       },
       {
-        "HashCode": -1504555602,
+        "HashCode": -557960805,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4625,7 +4622,7 @@
         }
       },
       {
-        "HashCode": 1840262610,
+        "HashCode": 416995734,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4680,7 +4677,7 @@
         }
       },
       {
-        "HashCode": -1933516143,
+        "HashCode": -333513330,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4721,7 +4718,7 @@
         }
       },
       {
-        "HashCode": -1363979866,
+        "HashCode": -903031465,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4763,7 +4760,7 @@
         }
       },
       {
-        "HashCode": 1789987859,
+        "HashCode": -823218051,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4804,7 +4801,7 @@
         }
       },
       {
-        "HashCode": 1339310515,
+        "HashCode": 1789708603,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4846,7 +4843,7 @@
         }
       },
       {
-        "HashCode": 2103094720,
+        "HashCode": 1368401608,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4909,7 +4906,7 @@
         }
       },
       {
-        "HashCode": -2069371050,
+        "HashCode": -476604998,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4973,7 +4970,7 @@
         }
       },
       {
-        "HashCode": -1772095583,
+        "HashCode": 1511473059,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4994,7 +4991,7 @@
         }
       },
       {
-        "HashCode": -928321621,
+        "HashCode": 268098838,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5016,7 +5013,7 @@
         }
       },
       {
-        "HashCode": 1306372539,
+        "HashCode": 1413104852,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5048,7 +5045,7 @@
         }
       },
       {
-        "HashCode": 1522065005,
+        "HashCode": -1046005814,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5081,7 +5078,7 @@
         }
       },
       {
-        "HashCode": -1433533282,
+        "HashCode": -1309181509,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5102,7 +5099,7 @@
         }
       },
       {
-        "HashCode": 613105259,
+        "HashCode": 707064621,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5124,7 +5121,7 @@
         }
       },
       {
-        "HashCode": 1253989301,
+        "HashCode": -2100795492,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5143,7 +5140,7 @@
         }
       },
       {
-        "HashCode": 1057411006,
+        "HashCode": 2145195764,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5163,7 +5160,7 @@
         }
       },
       {
-        "HashCode": 807163440,
+        "HashCode": -1749707977,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5195,7 +5192,7 @@
         }
       },
       {
-        "HashCode": 1088395305,
+        "HashCode": 917863096,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5228,7 +5225,7 @@
         }
       },
       {
-        "HashCode": 1096032143,
+        "HashCode": -1874717105,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5249,7 +5246,7 @@
         }
       },
       {
-        "HashCode": -969513940,
+        "HashCode": 1200410822,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5271,7 +5268,7 @@
         }
       },
       {
-        "HashCode": 30087519,
+        "HashCode": -1479084989,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5334,7 +5331,7 @@
         }
       },
       {
-        "HashCode": -1526987362,
+        "HashCode": 14601380,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5398,7 +5395,7 @@
         }
       },
       {
-        "HashCode": 710584746,
+        "HashCode": 1150176829,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5419,7 +5416,7 @@
         }
       },
       {
-        "HashCode": 881320798,
+        "HashCode": -67827726,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5441,7 +5438,7 @@
         }
       },
       {
-        "HashCode": -787934423,
+        "HashCode": 1172896571,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5474,7 +5471,7 @@
         }
       },
       {
-        "HashCode": 891120119,
+        "HashCode": -309685975,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5508,7 +5505,7 @@
         }
       },
       {
-        "HashCode": 1666183249,
+        "HashCode": 1964293782,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5630,7 +5627,7 @@
         }
       },
       {
-        "HashCode": -1369272561,
+        "HashCode": -1362836268,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5753,7 +5750,7 @@
         }
       },
       {
-        "HashCode": 1427226817,
+        "HashCode": -1144226525,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5786,7 +5783,7 @@
         }
       },
       {
-        "HashCode": -1434473935,
+        "HashCode": 1724010614,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5820,7 +5817,7 @@
         }
       },
       {
-        "HashCode": -1803084094,
+        "HashCode": -814942188,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5853,7 +5850,7 @@
         }
       },
       {
-        "HashCode": 1942518328,
+        "HashCode": 1543546240,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5887,7 +5884,7 @@
         }
       },
       {
-        "HashCode": -28039353,
+        "HashCode": 1463273285,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5920,7 +5917,7 @@
         }
       },
       {
-        "HashCode": -114236799,
+        "HashCode": 840254970,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5954,7 +5951,7 @@
         }
       },
       {
-        "HashCode": 1132535771,
+        "HashCode": 108037837,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6037,7 +6034,7 @@
         }
       },
       {
-        "HashCode": 1084383154,
+        "HashCode": -1251790779,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6120,7 +6117,7 @@
         }
       },
       {
-        "HashCode": 1793381380,
+        "HashCode": -319960665,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6203,7 +6200,7 @@
         }
       },
       {
-        "HashCode": -95540196,
+        "HashCode": 1332529927,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6286,7 +6283,7 @@
         }
       },
       {
-        "HashCode": 714010453,
+        "HashCode": -1215864353,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6369,7 +6366,7 @@
         }
       },
       {
-        "HashCode": 302959122,
+        "HashCode": -822848054,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6452,7 +6449,7 @@
         }
       },
       {
-        "HashCode": 1224754274,
+        "HashCode": 1152106829,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6535,7 +6532,7 @@
         }
       },
       {
-        "HashCode": -1118316264,
+        "HashCode": -1413656528,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6618,7 +6615,7 @@
         }
       },
       {
-        "HashCode": -496196217,
+        "HashCode": -1633085521,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6701,7 +6698,7 @@
         }
       },
       {
-        "HashCode": -819809461,
+        "HashCode": -1884390048,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6784,7 +6781,7 @@
         }
       },
       {
-        "HashCode": 605524068,
+        "HashCode": -1667093111,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6867,7 +6864,7 @@
         }
       },
       {
-        "HashCode": -516822454,
+        "HashCode": 1084046691,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6950,7 +6947,7 @@
         }
       },
       {
-        "HashCode": -319802483,
+        "HashCode": 1460716015,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7033,7 +7030,7 @@
         }
       },
       {
-        "HashCode": -1638660414,
+        "HashCode": 313898189,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7116,7 +7113,7 @@
         }
       },
       {
-        "HashCode": 223104015,
+        "HashCode": -770007489,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7199,7 +7196,7 @@
         }
       },
       {
-        "HashCode": 741788002,
+        "HashCode": -160757441,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7282,7 +7279,7 @@
         }
       },
       {
-        "HashCode": -1279513273,
+        "HashCode": 396767384,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7365,7 +7362,7 @@
         }
       },
       {
-        "HashCode": 133900573,
+        "HashCode": -1020843792,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7448,7 +7445,7 @@
         }
       },
       {
-        "HashCode": -1502136894,
+        "HashCode": -41476506,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7531,7 +7528,7 @@
         }
       },
       {
-        "HashCode": -127174471,
+        "HashCode": -45736957,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7614,7 +7611,7 @@
         }
       },
       {
-        "HashCode": -1491948372,
+        "HashCode": 483289548,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7697,7 +7694,7 @@
         }
       },
       {
-        "HashCode": -937029727,
+        "HashCode": -27584878,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7780,7 +7777,7 @@
         }
       },
       {
-        "HashCode": -970722756,
+        "HashCode": -815716998,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7863,7 +7860,7 @@
         }
       },
       {
-        "HashCode": 1927925734,
+        "HashCode": 1005028749,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7946,7 +7943,7 @@
         }
       },
       {
-        "HashCode": 1942856811,
+        "HashCode": -1787833941,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8029,7 +8026,7 @@
         }
       },
       {
-        "HashCode": 2111436109,
+        "HashCode": -1146001179,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8112,7 +8109,7 @@
         }
       },
       {
-        "HashCode": 295537932,
+        "HashCode": 1970899696,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8195,7 +8192,7 @@
         }
       },
       {
-        "HashCode": -947790722,
+        "HashCode": 1956647735,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8278,7 +8275,7 @@
         }
       },
       {
-        "HashCode": -396514537,
+        "HashCode": 643796262,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8361,7 +8358,7 @@
         }
       },
       {
-        "HashCode": -628223743,
+        "HashCode": 1517021004,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8444,7 +8441,7 @@
         }
       },
       {
-        "HashCode": 449219818,
+        "HashCode": -17791351,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8527,7 +8524,7 @@
         }
       },
       {
-        "HashCode": 1161324339,
+        "HashCode": -1029816296,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8610,7 +8607,7 @@
         }
       },
       {
-        "HashCode": -613861894,
+        "HashCode": -1460938841,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8693,7 +8690,7 @@
         }
       },
       {
-        "HashCode": 1119609429,
+        "HashCode": 886783114,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8776,7 +8773,7 @@
         }
       },
       {
-        "HashCode": -1867827417,
+        "HashCode": -1362809066,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8859,7 +8856,7 @@
         }
       },
       {
-        "HashCode": 2069918635,
+        "HashCode": -1158401421,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8942,7 +8939,7 @@
         }
       },
       {
-        "HashCode": -328271318,
+        "HashCode": 1103775379,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9025,7 +9022,7 @@
         }
       },
       {
-        "HashCode": -476179208,
+        "HashCode": -1282891533,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9108,7 +9105,7 @@
         }
       },
       {
-        "HashCode": -1063470829,
+        "HashCode": 1475997360,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9191,7 +9188,7 @@
         }
       },
       {
-        "HashCode": -1979378762,
+        "HashCode": 1466907466,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9274,7 +9271,7 @@
         }
       },
       {
-        "HashCode": -981240573,
+        "HashCode": -1798263546,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9357,7 +9354,7 @@
         }
       },
       {
-        "HashCode": 1433698007,
+        "HashCode": -321506513,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9440,7 +9437,7 @@
         }
       },
       {
-        "HashCode": 780484155,
+        "HashCode": -1985315919,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9523,7 +9520,7 @@
         }
       },
       {
-        "HashCode": 366452251,
+        "HashCode": 2139706547,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9606,7 +9603,7 @@
         }
       },
       {
-        "HashCode": 554728920,
+        "HashCode": 401781524,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9689,7 +9686,7 @@
         }
       },
       {
-        "HashCode": -1505940299,
+        "HashCode": -797553728,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9772,7 +9769,7 @@
         }
       },
       {
-        "HashCode": 2132218692,
+        "HashCode": -660687713,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9855,7 +9852,7 @@
         }
       },
       {
-        "HashCode": -1099696717,
+        "HashCode": -696084063,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9938,7 +9935,7 @@
         }
       },
       {
-        "HashCode": 1936360370,
+        "HashCode": -1528997233,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10021,7 +10018,7 @@
         }
       },
       {
-        "HashCode": -1463726155,
+        "HashCode": 1809608291,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10104,7 +10101,7 @@
         }
       },
       {
-        "HashCode": 285393629,
+        "HashCode": -363032430,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10187,7 +10184,7 @@
         }
       },
       {
-        "HashCode": -1925312435,
+        "HashCode": -1504568986,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10270,7 +10267,7 @@
         }
       },
       {
-        "HashCode": 709913509,
+        "HashCode": -1413173963,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10353,7 +10350,7 @@
         }
       },
       {
-        "HashCode": -1950427305,
+        "HashCode": 243919200,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10436,7 +10433,7 @@
         }
       },
       {
-        "HashCode": -1849431641,
+        "HashCode": 1246160326,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10519,7 +10516,7 @@
         }
       },
       {
-        "HashCode": 759778852,
+        "HashCode": 2053895480,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10602,7 +10599,7 @@
         }
       },
       {
-        "HashCode": -1995311773,
+        "HashCode": 27675194,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10685,7 +10682,7 @@
         }
       },
       {
-        "HashCode": -779207648,
+        "HashCode": 1516548690,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10768,7 +10765,7 @@
         }
       },
       {
-        "HashCode": 1245434163,
+        "HashCode": -1194735480,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10851,7 +10848,7 @@
         }
       },
       {
-        "HashCode": 1864480307,
+        "HashCode": -2072610288,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10934,7 +10931,7 @@
         }
       },
       {
-        "HashCode": 424509461,
+        "HashCode": 1718196658,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11017,7 +11014,7 @@
         }
       },
       {
-        "HashCode": 569161945,
+        "HashCode": -1379041716,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11100,7 +11097,7 @@
         }
       },
       {
-        "HashCode": 1434093897,
+        "HashCode": 1039330136,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11183,7 +11180,7 @@
         }
       },
       {
-        "HashCode": 1716366298,
+        "HashCode": -801004049,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11266,7 +11263,7 @@
         }
       },
       {
-        "HashCode": -663163880,
+        "HashCode": 326924171,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11349,7 +11346,7 @@
         }
       },
       {
-        "HashCode": 269128955,
+        "HashCode": 1354550213,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11432,7 +11429,7 @@
         }
       },
       {
-        "HashCode": 49511101,
+        "HashCode": -2036143037,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11515,7 +11512,7 @@
         }
       },
       {
-        "HashCode": 1164430597,
+        "HashCode": 1934441831,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11598,7 +11595,7 @@
         }
       },
       {
-        "HashCode": 212361689,
+        "HashCode": 1101524946,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11681,7 +11678,7 @@
         }
       },
       {
-        "HashCode": 1656667430,
+        "HashCode": 1235872663,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11764,7 +11761,7 @@
         }
       },
       {
-        "HashCode": 283716313,
+        "HashCode": 1740250038,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11847,7 +11844,7 @@
         }
       },
       {
-        "HashCode": -2064106746,
+        "HashCode": -1362792051,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11930,7 +11927,7 @@
         }
       },
       {
-        "HashCode": 1411398543,
+        "HashCode": -2123761428,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12013,7 +12010,7 @@
         }
       },
       {
-        "HashCode": 1654686078,
+        "HashCode": 911027481,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12096,7 +12093,7 @@
         }
       },
       {
-        "HashCode": -181110642,
+        "HashCode": 1870697572,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12179,7 +12176,7 @@
         }
       },
       {
-        "HashCode": 155687378,
+        "HashCode": -664905039,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12262,7 +12259,7 @@
         }
       },
       {
-        "HashCode": -485715062,
+        "HashCode": -9860874,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12345,7 +12342,7 @@
         }
       },
       {
-        "HashCode": -2051861608,
+        "HashCode": -270202360,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12428,7 +12425,7 @@
         }
       },
       {
-        "HashCode": 449140485,
+        "HashCode": 796871102,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12511,7 +12508,7 @@
         }
       },
       {
-        "HashCode": 1738726975,
+        "HashCode": -1236245152,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12594,7 +12591,7 @@
         }
       },
       {
-        "HashCode": 1325704085,
+        "HashCode": 1763044435,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12677,7 +12674,7 @@
         }
       },
       {
-        "HashCode": 228386291,
+        "HashCode": 1696576236,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12760,7 +12757,7 @@
         }
       },
       {
-        "HashCode": -1568766504,
+        "HashCode": -1868768238,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12843,7 +12840,7 @@
         }
       },
       {
-        "HashCode": -1717586928,
+        "HashCode": -1251653943,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12926,7 +12923,7 @@
         }
       },
       {
-        "HashCode": -1410744449,
+        "HashCode": -876368188,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13009,7 +13006,7 @@
         }
       },
       {
-        "HashCode": -1211519899,
+        "HashCode": -1497177813,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13092,7 +13089,7 @@
         }
       },
       {
-        "HashCode": 1163764271,
+        "HashCode": -636323496,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13175,7 +13172,7 @@
         }
       },
       {
-        "HashCode": 186406457,
+        "HashCode": 601471791,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13258,7 +13255,7 @@
         }
       },
       {
-        "HashCode": 230432062,
+        "HashCode": -1744305980,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13341,7 +13338,7 @@
         }
       },
       {
-        "HashCode": -248477443,
+        "HashCode": -1082695132,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13424,7 +13421,7 @@
         }
       },
       {
-        "HashCode": -1282532968,
+        "HashCode": -103456442,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13507,7 +13504,7 @@
         }
       },
       {
-        "HashCode": 1881489996,
+        "HashCode": -1831129146,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13590,7 +13587,7 @@
         }
       },
       {
-        "HashCode": -259706157,
+        "HashCode": 1241658017,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13629,7 +13626,7 @@
         }
       },
       {
-        "HashCode": -562356299,
+        "HashCode": 260706838,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13725,7 +13722,7 @@
         }
       },
       {
-        "HashCode": -211833727,
+        "HashCode": 364265779,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13847,7 +13844,7 @@
         }
       },
       {
-        "HashCode": 364644715,
+        "HashCode": -1501943566,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13969,7 +13966,7 @@
         }
       },
       {
-        "HashCode": 187120244,
+        "HashCode": -409517537,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14102,7 +14099,7 @@
         }
       },
       {
-        "HashCode": -1810547686,
+        "HashCode": 864109579,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14235,7 +14232,7 @@
         }
       },
       {
-        "HashCode": 1681794152,
+        "HashCode": -2026894230,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14368,7 +14365,7 @@
         }
       },
       {
-        "HashCode": 631631117,
+        "HashCode": -418288690,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14501,7 +14498,7 @@
         }
       },
       {
-        "HashCode": -685668414,
+        "HashCode": 618017242,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14634,7 +14631,7 @@
         }
       },
       {
-        "HashCode": 2027806034,
+        "HashCode": -1080731802,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14767,7 +14764,7 @@
         }
       },
       {
-        "HashCode": 261047099,
+        "HashCode": 662553735,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14900,7 +14897,7 @@
         }
       },
       {
-        "HashCode": 777199724,
+        "HashCode": -250500023,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15033,7 +15030,7 @@
         }
       },
       {
-        "HashCode": 979418405,
+        "HashCode": 1899357578,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15166,7 +15163,7 @@
         }
       },
       {
-        "HashCode": -1386392008,
+        "HashCode": 281711153,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15299,7 +15296,7 @@
         }
       },
       {
-        "HashCode": -46137101,
+        "HashCode": 58743167,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15432,7 +15429,7 @@
         }
       },
       {
-        "HashCode": -1379995149,
+        "HashCode": 924468773,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15565,7 +15562,7 @@
         }
       },
       {
-        "HashCode": -673048869,
+        "HashCode": -1260491560,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15687,7 +15684,7 @@
         }
       },
       {
-        "HashCode": -495484445,
+        "HashCode": -868020263,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15809,7 +15806,7 @@
         }
       },
       {
-        "HashCode": 1231746501,
+        "HashCode": 1047524512,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15896,7 +15893,7 @@
         }
       },
       {
-        "HashCode": -1682201007,
+        "HashCode": -757302760,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -15984,7 +15981,7 @@
         }
       },
       {
-        "HashCode": -2102883881,
+        "HashCode": -919111640,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16071,7 +16068,7 @@
         }
       },
       {
-        "HashCode": -1702867147,
+        "HashCode": 572587351,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16159,7 +16156,7 @@
         }
       },
       {
-        "HashCode": -1104505412,
+        "HashCode": -675803436,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16246,7 +16243,7 @@
         }
       },
       {
-        "HashCode": -747673593,
+        "HashCode": -1646351908,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16334,7 +16331,7 @@
         }
       },
       {
-        "HashCode": -1392252544,
+        "HashCode": -1735938296,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16421,7 +16418,7 @@
         }
       },
       {
-        "HashCode": -370517136,
+        "HashCode": -1727970309,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16509,7 +16506,7 @@
         }
       },
       {
-        "HashCode": -945312028,
+        "HashCode": 519307774,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16596,7 +16593,7 @@
         }
       },
       {
-        "HashCode": 25297997,
+        "HashCode": -379763302,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16684,7 +16681,7 @@
         }
       },
       {
-        "HashCode": -1057809515,
+        "HashCode": -1943863470,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16771,7 +16768,7 @@
         }
       },
       {
-        "HashCode": -1425861583,
+        "HashCode": 444456190,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16859,7 +16856,7 @@
         }
       },
       {
-        "HashCode": 1449941387,
+        "HashCode": 285146809,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -16946,7 +16943,7 @@
         }
       },
       {
-        "HashCode": -879163468,
+        "HashCode": -1672119363,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -17034,7 +17031,7 @@
         }
       },
       {
-        "HashCode": 534671520,
+        "HashCode": 1348818237,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17073,7 +17070,7 @@
         }
       },
       {
-        "HashCode": 1934689903,
+        "HashCode": -112106250,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17117,13 +17114,18 @@
   "RootNamespace": "NeuronFacMod.Client",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Modeles\\DeleteModele.razor",
+      "TargetPath": "Pages\\Modeles\\DeleteModele.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Modeles\\Modeles.razor",
       "TargetPath": "Pages\\Modeles\\Modeles.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Shared\\Navbar.razor",
-      "TargetPath": "Shared\\Navbar.razor",
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
@@ -17132,18 +17134,48 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\App.razor",
-      "TargetPath": "App.razor",
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\ModelAnalysis\\ModelAnalysis.razor",
+      "TargetPath": "Pages\\ModelAnalysis\\ModelAnalysis.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Prebuilt\\Prebuilt.razor",
-      "TargetPath": "Pages\\Prebuilt\\Prebuilt.razor",
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Prebuilt\\Edit_fact.razor",
+      "TargetPath": "Pages\\Prebuilt\\Edit_fact.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Modeles\\DeleteModele.razor",
-      "TargetPath": "Pages\\Modeles\\DeleteModele.razor",
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\UModeles\\UModeles_infos.razor",
+      "TargetPath": "Pages\\UModeles\\UModeles_infos.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Shared\\Navbar.razor",
+      "TargetPath": "Shared\\Navbar.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\ModelAnalysis\\Edit_fact.razor",
+      "TargetPath": "Pages\\ModelAnalysis\\Edit_fact.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\UModeles\\UModeles.razor",
+      "TargetPath": "Pages\\UModeles\\UModeles.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Modeles\\ModelesInfos.razor",
+      "TargetPath": "Pages\\Modeles\\ModelesInfos.razor",
       "FileKind": "component"
     },
     {
@@ -17157,18 +17189,18 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Prebuilt\\Prebuilt.razor",
+      "TargetPath": "Pages\\Prebuilt\\Prebuilt.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Scan facture\\ScanFacture.razor",
       "TargetPath": "Pages\\Scan facture\\ScanFacture.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\UModeles\\UModeles.razor",
-      "TargetPath": "Pages\\UModeles\\UModeles.razor",
       "FileKind": "component"
     },
     {
@@ -17177,33 +17209,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Prebuilt\\Edit_fact.razor",
-      "TargetPath": "Pages\\Prebuilt\\Edit_fact.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\Modeles\\ModelesInfos.razor",
-      "TargetPath": "Pages\\Modeles\\ModelesInfos.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\Pages\\UModeles\\UModeles_infos.razor",
-      "TargetPath": "Pages\\UModeles\\UModeles_infos.razor",
+      "FilePath": "c:\\Users\\Weda\\Desktop\\PFE\\PFE\\NeuronFacMod\\Client\\App.razor",
+      "TargetPath": "App.razor",
       "FileKind": "component"
     }
   ],

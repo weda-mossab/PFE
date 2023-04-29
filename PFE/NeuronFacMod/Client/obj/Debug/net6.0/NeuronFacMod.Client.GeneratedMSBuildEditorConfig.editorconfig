@@ -9,81 +9,89 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = NeuronFacMod.Client
 build_property.RootNamespace = NeuronFacMod.Client
-build_property.ProjectDir = C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\
+build_property.ProjectDir = c:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client
+build_property.MSBuildProjectDirectory = c:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/App.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Counter.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/FetchData.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Modeles/DeleteModele.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/ModelAnalysis/Edit_fact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxBbmFseXNpc1xFZGl0X2ZhY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Modeles/DeleteModele.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xEZWxldGVNb2RlbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Modeles/ModelesInfos.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Modeles/ModelesInfos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xNb2RlbGVzSW5mb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Prebuilt/Edit_fact.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Prebuilt/Edit_fact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlYnVpbHRcRWRpdF9mYWN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/UModeles/UModeles_infos.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/UModeles/UModeles_infos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVU1vZGVsZXNcVU1vZGVsZXNfaW5mb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/SurveyPrompt.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/_Imports.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Index/Index.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Index/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-wcnusweqqg
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Modeles/Modeles.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/ModelAnalysis/ModelAnalysis.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxBbmFseXNpc1xNb2RlbEFuYWx5c2lzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-isftt6xzjd
+
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Modeles/Modeles.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kZWxlc1xNb2RlbGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-w30ft20sd7
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Prebuilt/Prebuilt.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Prebuilt/Prebuilt.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlYnVpbHRcUHJlYnVpbHQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6g9cibhkhp
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Scan facture/ScanFacture.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/Scan facture/ScanFacture.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2NhbiBmYWN0dXJlXFNjYW5GYWN0dXJlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-ji8eoyacud
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/UModeles/UModeles.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/UModeles/UModeles.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVU1vZGVsZXNcVU1vZGVsZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-eox5lfxmaa
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/User Scan Factures/UScan_facture.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Pages/User Scan Factures/UScan_facture.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlciBTY2FuIEZhY3R1cmVzXFVTY2FuX2ZhY3R1cmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ln8yb24bi0
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/MainLayout.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-n6ggovw8co
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/Navbar.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/Navbar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdmJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-thcehgie63
 
-[C:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/NavMenu.razor]
+[c:/Users/Weda/Desktop/PFE/PFE/NeuronFacMod/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9vn0nfq4kd

@@ -220,14 +220,14 @@
       "netstandard.dll": "sha256-kBK\/QJy7\/skP97jqnvXnOFMrhWS8HZ1bsADFK\/gZkyM=",
       "System.Private.CoreLib.dll": "sha256-3webPuyNUXfAFKY5c1tC\/jBVrjZHelBwvXrr1E9VJuk=",
       "NeuronFacMod.Shared.dll": "sha256-Jh90gcXaNmJj35YqW\/\/gU2U0ml6bH1gZYzguOfPEUhg=",
-      "NeuronFacMod.Client.dll": "sha256-2evyCeCLI\/IvNkLDrKfA3FpF+aJw7+f2ZdwhFna9rI8="
+      "NeuronFacMod.Client.dll": "sha256-oYIRrBBA4hGm5fWmLTajuHNQa1Aj\/J0RkPOCc0B+b6s="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "NeuronFacMod.Shared.pdb": "sha256-j+eYN4VDFDuG4UietHqu7eYbZtFK64y+iJo0IPqcF9g=",
-      "NeuronFacMod.Client.pdb": "sha256-SzSyOkhepTReY91e4OyL590S+R4+CKP2AgIrVDzOhsg="
+      "NeuronFacMod.Client.pdb": "sha256-7P\/Qhyh7UL7Z3YmU4\/RgN\/RLxHUMojI0XIcH0gRtdTA="
     },
     "runtime": {
       "dotnet.6.0.13.9ax1w4ojaz.js": "sha256-X\/515F1HEzgsDZdY8BJjt8YUwrWngHGZkMnpClhsrpY=",
