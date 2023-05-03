@@ -2,7 +2,9 @@
     color: white;
     font-family: "Segoe UI";
 }
-
+li{
+    margin-bottom: 15px;
+}
 .title {
     text-align: center;
 }
@@ -26,8 +28,7 @@
     right: 250px;
     width: 0;
     height: 550px;
-    margin-top: -43%;
-    margin-right: -230px;
+    margin-right: -245px;
     overflow-y: auto;
     background: #1F466F;
     -webkit-transition: all 0.5s ease;
@@ -41,12 +42,13 @@
     padding: 10px;
 }
 
+
 #wrapper {
     padding-right: 250px;
 }
 
 #sidebar-wrapper {
-    width: 350px;
+    width: 27%;
 }
 
 .btn {
@@ -70,10 +72,12 @@
 }
 
 .sidebar {
-    background-color: aqua;
     width: 100%;
 }
  .choose_file{
+  margin-bottom: 10px;
+ }
+ .steps{
     text-align: center;
     overflow: hidden;
     color: #024662;
@@ -84,40 +88,26 @@
 /* Create two equal columns that floats next to each other */
 .column1 {
     float: left;
-    width: 20%;
-    background-color: brown;
+    width: 23%;
+    height: 89vh;
 }
 
 .column3 {
     float: left;
-    width: 30%;
-  background-color: #024662;
+    width: 28%;
 }
 
 .column2 {
     float: left;
-    width: 50%;
-    background-color: rgb(0, 0, 0);
-
-}
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-.row {
-    margin-top: -10px;
+    width: 49%;
+    height: 89vh;
 }
 
 table tr {
     color: black;
 }
 
-.btn {
-    margin-right: 10px;
-}
+
 
 .titles {
     font-size: 16px;
@@ -165,7 +155,7 @@ form {
 
     .form-control:focus {
         color: black;
-        box-shadow: 0 0 8px #c0479ac9;
+        box-shadow: 0 0 8px #ffffff2e;
         border-color: rgba(0, 0, 0, 0.015);
     }
 
@@ -250,7 +240,7 @@ form {
 }
 
 .icon {
-    color: #ffffff;
+    color: #024662;
 }
 
 #wrapper {
@@ -263,21 +253,31 @@ form {
 
 .btn {
     margin-top: 9px;
-    color: #ffffff;
-    width: 170px;
-    height: 35px;
-    padding: 4px;
-    font-weight: 600;
-    background-color: #C658A3;
-    border: none;
+    color: #024662;
+    width: 134px;
+    height: 31px;
+    padding: 0px;
+    font-weight: 500;
+    background-color: #efefee;
+    border: 1px solid #696969e6;
+    margin-right: 1%;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
 }
 
-    .btn:hover {
-        background-color: #024662;
-    }
+.btn:hover {
+    background-color: #e3e3e3;
+    border: 1px solid #024662;
+}
+.btn:visited{
+    box-shadow: none;
+}
 
 .btn-edit {
-    margin-top: 10px;
+    margin-top: 4%;
     margin-right: 5px;
     color: #ffffff;
     width: 130px;
@@ -296,7 +296,9 @@ form {
     .btn-edit:hover {
         background-color: #C1499B;
     }
-
+.Icon{
+    color: white;
+}
 .btn-save {
     margin-top: 10px;
     color: #ffffff;

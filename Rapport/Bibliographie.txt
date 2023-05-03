@@ -11,9 +11,11 @@
 11: https://easypartner.fr/blog/asp-net-le-framework-web-de-microsoft/
 12: https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/
 13: https://www.journaldunet.fr/web-tech/guide-de-l-entreprise-digitale/1511271-azure-le-cloud-de-microsoft-en-un-coup-d-oeil/
-
-
+14: https://learn.microsoft.com/fr-fr/dotnet/architecture/blazor-for-web-forms-developers/introduction
+15: https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445304-python-definition-et-utilisation-de-ce-langage-informatique/
+16: https://www.50a.fr/0/react
 https://learn.microsoft.com/fr-fr/rest/api/formrecognizer/
+17: https://fr.wikipedia.org/wiki/Progressive_web_app - Definition de PWA
 
 azure devops : https://www.effidic.fr/glossaire/2799/
 
@@ -21,5 +23,11 @@ azure devops : https://www.effidic.fr/glossaire/2799/
 
 4 fragment : https://fr.reactjs.org/docs/fragments.html
 
+Création de l'interface du scan
+Implémenter la fonction upload file qui nous permettons de télécharger un fichier de type image ou pdf
+Implémenter la fonction show file qui permet d'afficher le fichier
+Consommation de L'API Form Recognizer qui nous permet d'extraire les données nécessaires du facture
+Afficher les données dans un tableau
+Stocker les factures dans le cloud et leurs données dans la base des données local
 
 

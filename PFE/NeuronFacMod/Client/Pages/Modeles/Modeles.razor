@@ -1,4 +1,4 @@
-﻿@page "/modeles"
+@page "/modeles"
 @using System.Net.Http
 @using System.Text.Json
 @using System.Collections.Generic
@@ -43,6 +43,7 @@ else
         <tbody>
             @foreach (var model in models)
             {
+
                 <tr>
                     <td>@model.modelId</td>
                     <td>@model.modelName</td>
@@ -50,8 +51,10 @@ else
                     <td>@model.updatedDateTimeOffset.LocalDateTime</td>
                     <td>
                         <button class="action-btn" @onclick="@(()=>Modal.Show<DeleteModele>("Delete Model"))"><span class="bi bi-trash-fill"></span></button>
+
                         <button class="action-btn" type="button" @onclick="@(()=>Modal.Show<ModelesInfos>("Les informations des modèles"))"><span class="bi bi-info-circle" ></span></button>
                         <button class="action-btn" @onclick="@(()=>DeleteModel(model.modelId))"><span class="bi bi-x"></span></button>
+
                     </td>
                 </tr>
             }
@@ -125,11 +128,15 @@ private async Task DeleteModel(string modelId)
     }
 }
     private class CustomModelList
-    {   public List<CustomModel> modelList { get; set; }}
+    {   
+    public List<CustomModel> modelList { get; set; }
+    }
 
     public class CustomModel
-    {        public string modelId { get; set; }
+    {        
+        public string modelId { get; set; }
         public  string modelName { get; set; }
         public string status { get; set; }
-        public DateTimeOffset updatedDateTimeOffset { get; set; } }
+        public DateTimeOffset updatedDateTimeOffset { get; set; }
+        }
 }

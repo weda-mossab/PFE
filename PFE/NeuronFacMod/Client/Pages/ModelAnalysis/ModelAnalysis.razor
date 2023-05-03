@@ -1,0 +1,96 @@
+@page "/ModelAnalysis"
+
+@inject IModalService Modal
+
+@using BlazorInputFile
+
+@using Azure
+@using Azure.AI.FormRecognizer
+@using Azure.AI.FormRecognizer.Models
+
+@* @inject IFileUpload fileupload *@
+
+<PageTitle>Scanner avec modèle</PageTitle>
+<div class="row bandrow">
+    <div class="col-2">
+         <h5>Custom Model</h5>
+    </div>
+    <div class="col-10">
+        <select name="" id="selectModel">
+                    <option value="">e167d6c0-1357-4f0b-9fb9-f007b86wa6</option>
+                    <option value="">cd42w36a-1709-5i0k-8s88-f007b86wa6</option>
+        </select>
+    </div>
+</div>
+<br>
+<div class="row">
+    <div class="column1 sidebar">
+        <ul class="sidebar-navbar nav ">
+            <li>
+                <span class="steps choose_file">1. Choose a file.</span>
+
+                <BlazorInputFile.InputFile class="inputFile"></BlazorInputFile.InputFile>
+
+                <div class="path" style="color:black; font-size:13px;"></div>
+            </li>
+            <li>
+                <span class="steps">2. Get prediction. </span>
+                <button class="btn"><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Run Analysis</button>
+            </li>
+        </ul>
+    </div>
+
+    <div class="column2">   
+        
+      
+    </div>
+
+    <div class="column3">
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav nav navbar-inverse flex-column mb-auto">
+                <li>
+                    <br>
+                    <div>
+                        <h5 class="title"><span class="bi bi-braces"></span> Prediction Results</h5>
+                    </div>
+                </li>
+                <br>
+                <li>
+                    <p><em>Data Loading...</em></p>
+
+                    <label class="label">Doc Main Fields</label>
+                    <table cellpadding="10" style="width:100%;">
+                        <tr>
+                            <td class="titles">Field ID</td>
+                            <td class="titles">Field Value</td>
+                        </tr>
+                        <tr>
+                            <td class="infos">doc.DocFieldId</td>
+                            <td class="fields"><input type="text" name="" class="form-control" value="doc.DocFieldValue"></td>
+                        </tr>
+                    </table>
+
+                    <hr />
+
+                    <label class="label">Doc Item Fields</label>
+                    <table style="width:100%;" cellpadding="10">
+                        <tr>
+                            <td class="titles">Field ID</td>
+                            <td class="titles">Field Value</td>
+                        </tr>
+                        <tr>
+                            <td class="infos">doc.DocFieldId</td>
+                            <td class="fields"><input type="text" name="" class="form-control" value="doc.DocFieldValue"></td>
+                        </tr>
+                    </table>
+                </li>
+                <li>
+                    <center>
+                        <button class="btn-edit" type="submit"><span class="bi bi-bookmark-check Icon"></span>&nbsp;Save</button>
+                    </center>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+        

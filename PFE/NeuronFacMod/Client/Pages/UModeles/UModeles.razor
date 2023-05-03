@@ -1,4 +1,4 @@
-﻿@page "/Umodeles"
+@page "/Umodeles"
 
 @using System.Net.Http
 @using System.Text.Json
@@ -7,13 +7,16 @@
 
 <PageTitle>Modèles</PageTitle>
 
-<h2> Models </h2>
+
+<center><h2>Existing Models</h2></center>
+
 <br>
  <center>
         <div class="input-group">
-            <input class="form-control" type="search" id="example-search-input" placeholder="Chercher des modèles...">
+            <input class="form-control" type="search" id="example-search-input" placeholder="Search models...">
         </div>
     </center>
+
     <br>
 @if (models == null)
 {
@@ -49,6 +52,7 @@ else
             }
         </tbody>
     </table>
+
     </div>
 }
 @code {

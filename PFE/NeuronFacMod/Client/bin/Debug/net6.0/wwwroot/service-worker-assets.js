@@ -93,7 +93,7 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-EUQWBO6Djc7JP72XP7PKw7XT1CS\/qH+aeeo+QP8QilE=",
+      "hash": "sha256-opUwx4fsqzUJBwgbgq4eK4IWfR0h66DYqO\/oTuFctTA=",
       "url": "NeuronFacMod.Client.styles.css"
     },
     {
@@ -981,11 +981,11 @@
       "url": "_framework\/NeuronFacMod.Shared.pdb"
     },
     {
-      "hash": "sha256-lDM6P7qa0YvBCmtEJ\/g0WnVJbO1VrFL0TpKUIjEPXPE=",
+      "hash": "sha256-oYIRrBBA4hGm5fWmLTajuHNQa1Aj\/J0RkPOCc0B+b6s=",
       "url": "_framework\/NeuronFacMod.Client.dll"
     },
     {
-      "hash": "sha256-PkRovDVh8uBF4XMYyl1SedTJeAlHwFExxN57DpDMD1Q=",
+      "hash": "sha256-7P\/Qhyh7UL7Z3YmU4\/RgN\/RLxHUMojI0XIcH0gRtdTA=",
       "url": "_framework\/NeuronFacMod.Client.pdb"
     },
     {
@@ -993,7 +993,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-pn13QM0TxFcv74ouBSV1ENOCQbeBJtqW7li0EcfMoWE=",
+      "hash": "sha256-R0erVqveIF\/4fjx9vg1ZJZI3fwKsfQs5c1EMseiCjdU=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1009,5 +1009,5 @@
       "url": "_content\/Blazored.Modal\/Blazored.Modal.bundle.scp.css"
     }
   ],
-  "version": "yBUcIsaw"
+  "version": "sXc46Vyp"
 };

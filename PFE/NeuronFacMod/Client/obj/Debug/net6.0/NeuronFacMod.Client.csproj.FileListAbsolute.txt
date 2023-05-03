@@ -929,3 +929,4 @@ C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\bin\Debug\net6.0\wwwroot\_fram
 C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\bin\Debug\net6.0\wwwroot\_framework\Azure.AI.FormRecognizer.dll.gz
 C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\bin\Debug\net6.0\Azure.AI.FormRecognizer.dll
 C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\obj\Debug\net6.0\build-gz\eq+mCXwx.gz
+C:\Users\Weda\Desktop\PFE\PFE\NeuronFacMod\Client\obj\Debug\net6.0\scopedcss\Pages\ModelAnalysis\ModelAnalysis.razor.rz.scp.css
