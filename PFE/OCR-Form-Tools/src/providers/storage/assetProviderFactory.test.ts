@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 
 import { AssetProviderFactory, IAssetProvider } from "./assetProviderFactory";
 import { IAsset } from "../../models/applicationState";

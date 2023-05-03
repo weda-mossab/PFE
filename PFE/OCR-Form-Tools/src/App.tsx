@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import React, { Fragment } from "react";
 import { bindActionCreators } from "redux";

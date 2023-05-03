@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import LocalizedStrings, {LocalizedStringsMethods} from "react-localization";
 import {english} from "./localization/en-us";

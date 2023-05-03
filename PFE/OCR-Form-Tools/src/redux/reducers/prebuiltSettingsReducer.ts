@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import {IPrebuiltSettings} from "../../models/applicationState";
 import {ActionTypes} from "../actions/actionTypes";

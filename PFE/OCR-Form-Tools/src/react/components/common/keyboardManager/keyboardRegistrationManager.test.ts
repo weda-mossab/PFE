@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { KeyboardRegistrationManager } from "./keyboardRegistrationManager";
 import { KeyEventType } from "./keyboardManager";

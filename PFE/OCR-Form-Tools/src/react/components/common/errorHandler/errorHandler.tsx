@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import React from "react";
 import { IAppError, ErrorCode, AppError } from "../../../../models/applicationState";

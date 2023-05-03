@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import axios, { AxiosRequestConfig } from "axios";
 import { IAsset, AssetType, IFileInfo } from "../models/applicationState";

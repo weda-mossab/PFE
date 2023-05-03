@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 export interface IDeferred<T> {
     resolve(result?: T): void;

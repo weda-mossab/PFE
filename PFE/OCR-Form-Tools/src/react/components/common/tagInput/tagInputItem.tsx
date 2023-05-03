@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { FontIcon, IconButton } from "@fluentui/react";
 import _ from "lodash";

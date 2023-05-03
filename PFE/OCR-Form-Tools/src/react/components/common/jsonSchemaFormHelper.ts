@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 function backFillAriaLabelledBy(id: string) {
     const element = document.getElementById(id);

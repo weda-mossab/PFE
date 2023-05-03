@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 import { BlobServiceClient, ContainerClient } from "@azure/storage-blob";
 import { constants } from "../../common/constants";
 import { strings } from "../../common/strings";

@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import _ from "lodash";
 import createMockStore, { MockStoreEnhanced } from "redux-mock-store";

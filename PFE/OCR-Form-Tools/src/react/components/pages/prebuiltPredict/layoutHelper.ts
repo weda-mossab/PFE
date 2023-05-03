@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 
 import {Feature} from "ol";
 import Polygon from "ol/geom/Polygon";
