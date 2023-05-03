@@ -4,7 +4,7 @@
 }
 
 li{
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 h5{
     margin-top: -3px;
@@ -16,6 +16,7 @@ h5{
 }
 .title {
     text-align: center;
+    color: white ;
 }
 
 .icon {
@@ -78,18 +79,17 @@ h5{
 .sidebar {
     width: 100%;
 }
- .choose_file{
-  margin-bottom: 10px;
- }
- .steps{
+.choose_file{
+    margin-bottom: 10px;
+}
+.steps{
     text-align: center;
     overflow: hidden;
     color: #024662;
     font-weight: 600;
     font-size: 15px;
     float: left;
-    margin-bottom: 5px;
- }
+}
 /* Create two equal columns that floats next to each other */
 .column1 {
     float: left;
@@ -256,21 +256,32 @@ form {
 }
 
 .btn {
-    color: #ffffff;
-    width: 170px;
-    height: 35px;
-    padding: 4px;
-    font-weight: 600;
-    background-color: #C658A3;
-    border: none;
+    margin-top: 9px;
+    color: #024662;
+    width: 134px;
+    height: 31px;
+    padding: 0px;
+    font-weight: 500;
+    background-color: #efefee;
+    border: 1px solid #696969e6;
+    margin-right: 1%;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
 }
 
-    .btn:hover {
-        background-color: #024662;
-    }
+.btn:hover {
+    background-color: #e3e3e3;
+    border: 1px solid #024662;
+}
+.btn:visited{
+    box-shadow: none;
+}
 
 .btn-edit {
-    margin-top: 10px;
+    margin-top: 4%;
     margin-right: 5px;
     color: #ffffff;
     width: 130px;
@@ -289,26 +300,12 @@ form {
     .btn-edit:hover {
         background-color: #C1499B;
     }
-
-.btn-save {
-    margin-top: 10px;
-    color: #ffffff;
-    width: 130px;
-    height: 34px;
-    padding-bottom: 4px;
-    font-weight: 600;
-    background-color: transparent;
-    border: 2px solid #C658A3;
-    border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+.Icon{
+    color: white;
 }
-
-    .btn-save:hover {
-        border: 2px solid #C1499B;
-    }
+.icon {
+    color: #024662;
+}
 
 .sidebar-navbar {
     margin-top: 50%;

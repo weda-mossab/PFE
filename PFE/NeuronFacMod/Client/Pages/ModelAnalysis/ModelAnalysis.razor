@@ -27,15 +27,15 @@
     <div class="column1 sidebar">
         <ul class="sidebar-navbar nav ">
             <li>
-                <span class="steps choose_file">1. Choisissez un fichier.</span>
+                <span class="steps choose_file">1. Choose a file.</span>
 
                 <BlazorInputFile.InputFile class="inputFile"></BlazorInputFile.InputFile>
 
                 <div class="path" style="color:black; font-size:13px;"></div>
             </li>
             <li>
-                <span class="steps">3. Obtenir des prévisions. </span>
-                <button class="btn"><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Exécuter l'analyse</button>
+                <span class="steps">2. Get prediction. </span>
+                <button class="btn"><span class="bi bi-credit-card-2-front-fill icon"></span>&nbsp;  Run Analysis</button>
             </li>
         </ul>
     </div>
@@ -51,7 +51,7 @@
                 <li>
                     <br>
                     <div>
-                        <h5 class="title"><span class="bi bi-braces"></span> Résultats de prédiction</h5>
+                        <h5 class="title"><span class="bi bi-braces"></span> Prediction Results</h5>
                     </div>
                 </li>
                 <br>
@@ -66,28 +66,27 @@
                         </tr>
                         <tr>
                             <td class="infos">doc.DocFieldId</td>
-                            <td class="fields">doc.DocFieldValue</td>
+                            <td class="fields"><input type="text" name="" class="form-control" value="doc.DocFieldValue"></td>
                         </tr>
                     </table>
 
                     <hr />
 
                     <label class="label">Doc Item Fields</label>
-                    <table style="width:100%;" cellpadding="15">
+                    <table style="width:100%;" cellpadding="10">
                         <tr>
                             <td class="titles">Field ID</td>
                             <td class="titles">Field Value</td>
                         </tr>
                         <tr>
                             <td class="infos">doc.DocFieldId</td>
-                            <td class="fields">doc.DocFieldValue</td>
+                            <td class="fields"><input type="text" name="" class="form-control" value="doc.DocFieldValue"></td>
                         </tr>
                     </table>
                 </li>
                 <li>
                     <center>
-                        <button class="btn-edit" @onclick="@(()=>Modal.Show<Edit_fact>("Correction des résultats"))"><span class="bi bi-pencil-square icon"></span>&nbsp;Modifier</button>
-                        <button class="btn-save" type="submit"><span class="bi bi-bookmark-check icon"></span>&nbsp;Enregistrer</button>
+                        <button class="btn-edit" type="submit"><span class="bi bi-bookmark-check Icon"></span>&nbsp;Save</button>
                     </center>
                 </li>
             </ul>

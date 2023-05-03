@@ -1,20 +1,21 @@
-﻿@page "/UScanner Facture"
+﻿@page "/UScannerFacture"
 <ul>
-    <li class="modele">
+    <li>
         <a href="/ModelAnalysis">
             <div class="click">
                 <i class="fa fa-file-text-o icon"></i>
-                <div class="title">Utilisez un modèle connu pour avoir des résultats précis</div>
-                <div class="description">Essayez de sélectionner un modèle pour extraire le texte, les tableaux, les repères de sélection et la structure de votre document de facon plus précise.</div>
+                <div class="title">Use a known model for accurate results</div>
+                <div class="description">Use trained Form Recognizer models and explore templates to capture text, tables, selection markers, and document structure with improved accuracy.</div>
             </div>
         </a>
     </li>
-    <li class="pre">
-        <a href="/Prebuilt">
+    <li>
+        <a href="/Prebuilt ">
             <div class="click">
                 <i class="fa fa-address-card-o icon"></i>
-                <div class="title">Utiliser un modèle pré-établi pour obtenir des données</div>
-                <div class="description">Commencez par un modèle pré-établi pour extraire les données de vos formulaires – Factures. Soumettez vos données et obtenez des résultats immédiatement.</div>
+                <div class="title">Use a prebuilt model to obtain data</div>
+                <div class="description">Start with a pre-built template to streamline the process of extracting relevant data from your invoices. Submit your data and get quick results.
+                </div>
             </div>
         </a>
     </li>
@@ -22,76 +23,18 @@
         <a href="/Umodeles">
             <div class="click">
                 <i class="fa fa-cubes icon" aria-hidden="true"></i>
-                <div class="title">Voir les modèles existants</div>
-                <div class="description">Essayez de consulter les modèles connus pour avoir une idée génrale sur les types des ractures existants.</div>
+                <div class="title">View existing models</div>
+                <div class="description">Try to consult the known templates to get a general idea of the types of existing invoices.</div>
+            </div>
+        </a>
+    </li>
+    <li>
+        <a href="/UploadedFiles">
+            <div class="click">
+                <i class="fa fa-files-o icon" aria-hidden="true"></i>
+                <div class="title">View Uploaded files</div>
+                <div class="description">here you can find all the files uploaded to scan </div>
             </div>
         </a>
     </li>
 </ul>
-<style>
-    ul {
-    margin-left: -3%;
-    display: flex;
-    flex-direction: row;
-    align-items: stretch;
-    justify-content: space-around;
-    margin-top: 8%;
-}
-
-li {
-    flex: 0.5;
-    list-style-type: none;
-    text-align: center;
-    margin: 1rem;
-    border-radius: 2px;
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    width: 100%;
-}
-
-a {
-    display: inline-block;
-    text-decoration: none;
-}
-
-.click:hover .icon {
-    color: #C04799;
-    box-shadow: none;
-}
-
-.click:hover .title {
-    color: #C04799;
-    box-shadow: none;
-}
-
-.title {
-    max-width: 12em;
-    margin: auto;
-    font-size: 1.3em;
-    font-weight: bold;
-    color: black;
-    text-align: center;
-    text-decoration: none;
-    margin-bottom: 1em;
-    flex-wrap: wrap;
-    font-weight: blod;
-    margin-bottom: 5px;
-}
-
-.description {
-    color: grey;
-    text-align: center;
-    overflow-wrap: break-word;
-    width: 80%;
-    margin-left: 10%;
-    font-size: 15px;
-}
-
-.icon {
-    color: rgb(0, 0, 0);
-    font-size: 4em;
-    margin-bottom: 15px;
-}
-
-</style>

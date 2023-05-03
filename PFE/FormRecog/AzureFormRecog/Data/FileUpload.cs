@@ -1,8 +1,6 @@
 ﻿using AzureFormRecog.Services;
 using BlazorInputFile;
 
-
-
 namespace AzureFormRecog.Data
 {
     public class FileUpload : IFileUpload
