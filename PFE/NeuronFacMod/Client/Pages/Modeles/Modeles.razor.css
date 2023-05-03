@@ -28,11 +28,11 @@ h2 {
     -o-border-radius: 5px;
 }
 
-    .form-control:focus {
-        color: black;
-        box-shadow: 0 0 8px #c0479ac9;
-        border-color: rgba(0, 0, 0, 0.015);
-    }
+.form-control:focus {
+    color: black;
+    box-shadow: 0 0 8px #c0479ac9;
+    border-color: rgba(0, 0, 0, 0.015);
+}
 
 .table {
     width: 95%;
@@ -71,6 +71,25 @@ th {
     color: white;
 }
 
-    .btn:hover {
-        background-color: #a93986;
-    }
+.btn:hover {
+    background-color: #a93986;
+}
+
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.spinner-border {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
