@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import React, { SyntheticEvent, ReactElement } from "react";
 import { Modal, ModalHeader, ModalBody, ModalFooter } from "reactstrap";

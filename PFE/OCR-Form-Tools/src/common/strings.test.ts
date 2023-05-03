@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { strings, addLocValues, IAppStrings, interpolate, interpolateJson } from "./strings";
 import { english } from "./localization/en-us";

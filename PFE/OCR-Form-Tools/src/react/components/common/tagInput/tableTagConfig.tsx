@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 import React, { useEffect, useMemo, useState, useRef } from 'react';
 import { useSelector } from 'react-redux';
 import {

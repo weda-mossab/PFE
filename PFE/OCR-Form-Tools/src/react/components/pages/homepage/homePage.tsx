@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 
 /* eslint-disable jsx-a11y/anchor-is-valid */
 

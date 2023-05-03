@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { generateKey, encrypt, decrypt, encryptObject, decryptObject } from "./crypto";
 

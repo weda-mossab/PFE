@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import React, { SyntheticEvent } from "react";
 import { APIVersionPatches } from "../../../../models/applicationState";

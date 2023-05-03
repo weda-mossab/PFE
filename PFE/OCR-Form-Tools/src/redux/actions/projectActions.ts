@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { Action, Dispatch } from "redux";
 import ProjectService from "../../services/projectService";

@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { ITrainRecordProps } from "../react/components/pages/train/trainRecord";
 

@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import shortid from "shortid";
 import { StorageProviderFactory, IStorageProvider } from "../providers/storage/storageProviderFactory";

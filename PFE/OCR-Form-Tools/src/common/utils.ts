@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import Guard from "./guard";
 import { IProject, ISecurityToken, IProviderOptions, ISecureString, ITag, FieldType, FieldFormat } from "../models/applicationState";

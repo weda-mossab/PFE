@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { reducer } from "./connectionsReducer";
 import { IConnection } from "../../models/applicationState";

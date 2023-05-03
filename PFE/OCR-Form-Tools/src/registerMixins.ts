@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { forEachAsync as arrayForEachAsync, mapAsync, containsDuplicates } from "./common/extensions/array";
 import { forEachAsync as mapForEachAsync } from "./common/extensions/map";

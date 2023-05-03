@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 
 import React, { ReactElement } from "react";
 import { connect } from "react-redux";

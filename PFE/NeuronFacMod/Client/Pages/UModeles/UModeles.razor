@@ -1,51 +1,96 @@
-﻿@page "/Umodeles"
+@page "/Umodeles"
 
+@using System.Net.Http
+@using System.Text.Json
+@using System.Collections.Generic 
 @inject IModalService Modal 
 
 <PageTitle>Modèles</PageTitle>
 
 
 <center><h2>Existing Models</h2></center>
+
 <br>
-    <center>
+ <center>
         <div class="input-group">
             <input class="form-control" type="search" id="example-search-input" placeholder="Search models...">
         </div>
     </center>
-<br><br>
 
-    <div>
-        <center>
-        <table class="table">
-            <thead>
-              <tr>
-                    <th>Model Name</th>
-                    <th>Model ID </th>
-                    <th>Statue</th>
-                    <th>Date Created</th>
-                    <th>Actions</th>
+    <br>
+@if (models == null)
+{
+    <p>Loading models...</p>
+}
+else if (models.Count == 0)
+{
+    <p>No models found.</p>
+}
+else
+{
+   <div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                 <th>name</th>
+                <th>Status</th>
+                <th>Last Updated</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var model in models)
+            {
+                <tr>
+                    <td>@model.modelId</td>
+                    <td>@model.modelName</td>
+                    <td>@model.status</td>
+                    <td>@model.updatedDateTimeOffset.LocalDateTime</td>
+                    <td><button class="action-btn" type="button" @onclick="@(()=>Modal.Show<UModeles_infos>("Les informations des modèles"))"><span class="bi bi-info-circle" ></span></button></td>
                 </tr>
-            </thead>
-            <tbody>
-                    <tr>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>
-                            <button class="action-btn" type="button" @onclick="@(()=>Modal.Show<UModeles_infos>("Model Informations"))"><span class="bi bi-info-circle" ></span></button>
-                        </td>
-                    </tr>
-                       <tr>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>DFDMCPZNSPZNXM</td>
-                        <td>
-                            <button class="action-btn" type="button" @onclick="@(()=>Modal.Show<UModeles_infos>("Model Informations"))"><span class="bi bi-info-circle" ></span></button>
-                        </td>
-                    </tr>
-            </tbody>
-        </table>
-        </center>
+            }
+        </tbody>
+    </table>
+
     </div>
+}
+@code {
+    private List<CustomModel> models;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var endpointUrl = "https://formrecogmetam.cognitiveservices.azure.com/";
+        var apiKey = "4016270d4d8b494e93d355e07cf8ac57";
+
+        var httpClient = new HttpClient();
+        httpClient.DefaultRequestHeaders.Add("Ocp-Apim-Subscription-Key", apiKey);
+
+        var response = await httpClient.GetAsync(endpointUrl + "/formrecognizer/v2.1/custom/models?op=full");
+
+        if (response.IsSuccessStatusCode)
+        {
+            var json = await response.Content.ReadAsStringAsync();
+            var result = JsonSerializer.Deserialize<CustomModelList>(json);
+
+            models = result.modelList;
+        }
+        else
+        {
+            // Handle error
+        }
+    }
+
+    private class CustomModelList
+    {
+        public List<CustomModel> modelList { get; set; }
+    }
+
+    public class CustomModel
+    {
+        public string modelId { get; set; }
+        public  string modelName { get; set; }
+        public string status { get; set; }
+        public DateTimeOffset updatedDateTimeOffset { get; set; }
+    }
+}

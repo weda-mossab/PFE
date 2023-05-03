@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { randomIntInRange, createQueryString, encryptProject,
     decryptProject, normalizeSlashes, encodeFileURI, joinPath, patch } from "./utils";

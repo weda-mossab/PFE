@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 
 import { Dispatch } from "redux";
 import { ActionTypes } from "./actionTypes";

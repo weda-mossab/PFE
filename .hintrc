@@ -18,6 +18,13 @@
           "min-height: fit-content"
         ]
       }
+    ],
+    "meta-viewport": "off",
+    "axe/aria": [
+      "default",
+      {
+        "aria-valid-attr-value": "off"
+      }
     ]
   }
 }

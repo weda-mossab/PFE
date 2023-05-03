@@ -1,6 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
-
 import * as React from "react";
 import { CommandBar, ICommandBarItemProps } from "@fluentui/react/lib/CommandBar";
 import { ICustomizations, Customizer } from "@fluentui/react/lib/Utilities";

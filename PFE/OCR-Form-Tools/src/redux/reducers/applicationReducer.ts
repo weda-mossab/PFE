@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { ActionTypes } from "../actions/actionTypes";
 import { IAppSettings } from "../../models/applicationState";

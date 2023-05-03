@@ -1,5 +1,3 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license
 
 import {registerIcons as registerIcons_} from "@fluentui/react";
 

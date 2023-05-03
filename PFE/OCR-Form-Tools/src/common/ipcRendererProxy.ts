@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import * as shortid from "shortid";
 import { IIpcProxyMessage, IpcEventNames } from "./ipcProxy";

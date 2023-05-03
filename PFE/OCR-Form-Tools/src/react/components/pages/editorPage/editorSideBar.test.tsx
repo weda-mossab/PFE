@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+
 
 import React from "react";
 import EditorSideBar, { IEditorSideBarProps, IEditorSideBarState } from "./editorSideBar";

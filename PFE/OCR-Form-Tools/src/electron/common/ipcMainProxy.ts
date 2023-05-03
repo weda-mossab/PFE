@@ -1,5 +1,4 @@
-// Copyright (c) Microsoft Corporation.
-// Licensed under the MIT license.
+ 
 
 import { BrowserWindow, IpcMain } from "electron";
 import { IIpcProxyMessage, IpcEventNames } from "../../common/ipcProxy";
